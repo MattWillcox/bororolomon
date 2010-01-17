@@ -67,52 +67,11 @@ In keeping with the educational nature of the game, our team has placed focus on
 
  
 
-*Risk*
-	
-
-Level
-	
-
-Contingency Plan
-
-Don’t know objective-C
-	
-
-High
-	
-
-Start learning Objective-C early
-
-Group members getting sick
-	
-
-Medium
-	
-
-Get flu shots and sleep
-
-Olympics
-	
-
-Medium/High
-	
-
-Coordinate with the group
-
-Promise too many features
-	
-
-Medium
-	
-
-Research before committing
-
-Bad weather
-	
-
-Low
-	
-
-Start early and plan ahead
+|| *Risk* || *Level* || *Contingency Plan* ||
+|| Don’t know objective-C || High ||Start learning Objective-C early ||
+|| Group members getting sick|| Medium || Get flu shots and sleep ||
+|| Olympics || Medium/High || Coordinate with the group ||
+|| Promise too many features || Medium || Research before committing ||
+|| Bad weather || Low || Start early and plan ahead ||
 
  
