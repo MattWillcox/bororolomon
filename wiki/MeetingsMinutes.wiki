@@ -1,13 +1,7 @@
-#summary One-sentence summary of this page.
+Met up January 11th - 10 minutes<br>
+- Made introductions, decided when to set up meeting time<br>
 
-= Introduction =
-
-Add your content here.
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+Met up January 18th - 4 hrs<br>
+- Shared project ideas, decided on a math game<br>
+- Shared input on what features to have in our game<br>
+- Divided group in 2, one group to work on project plan, one to work on website<br>
