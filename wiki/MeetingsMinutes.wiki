@@ -3,7 +3,7 @@
 *Location:* Outside lecture hall AQ 3154<br>
 *Accomplishments:*<br>
 - Made introductions<br>
-- Decided upon meeting time: Wednesdays at 12:30pm - 4:30pm at 2nd level of SFU library<br>
+- Decided upon meeting time: Wednesdays at 12:30pm - 4:30pm at 2nd level of SFU library<br><br>
 
 ===January 18th===
 *Time:* 4 hours<br>
@@ -16,4 +16,4 @@
   * Project plan: Beth, Light, Reza<br>
   * Website: Matt, Ray, Nick<br>
 - Started work on website: code.google.com/p/bororolomon/
-- Started work on project plan
+- Started work on project plan<br><br>
