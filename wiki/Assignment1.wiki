@@ -3,7 +3,7 @@ Many students in grades two to three have difficulty with math homework. Much of
 In keeping with the educational nature of the game, our team has placed focus on the needs and interests of students in grade two and three. Rather than to force a traditional teaching environment onto the child (which he or she may find rather boring), our game aims to create an interactive experience with mathematics itself. By creating a program that visually simulates real life objects (ie marbles, animals, etc), we hope to allow the student to connect the information that he or she has learned with the world around them. Our timed-questionnaire system provides a challenging aspect to the student, so that their accomplishments would feel much more satisfying and interesting. The ability to have a profile and to compare scores online also motivates the child to do more and try harder, thus improving his or her learning abilities. We try to provide direct ownership of the game to the student, so that they will feel that their accomplishments are their own.
 
 
-Planned Features:
+*Planned Features:*
 
 -         Include questions with addition, subtraction, and multiplication
 
@@ -17,7 +17,7 @@ Planned Features:
 
 -         Limited amount of time for each question eg. Time bomb
 
-Basic Goals:
+*Basic Goals:*
 
 -         Teach math to grade 2-3 students
 
@@ -27,9 +27,9 @@ Basic Goals:
 
 -         To apply math to real world situations
 
-Stakeholders
+*Stakeholders*
 
--         Developers
+-         Developers (Matt, Light, Ray, Beth, Reza, Nick)
 
 -         Investors
 
@@ -41,13 +41,13 @@ Stakeholders
 
 -         The buyer
 
-Users:
+*Users:*
 
 -         Teachers
 
 -         Grade 2-3 students
 
-Assumptions made about student users:
+*Assumptions made about student users:*
 
 -         Rudimentary math knowledge
 
@@ -57,7 +57,7 @@ Assumptions made about student users:
 
 -         Get bored very easily
 
-Assumptions made about the teacher users:
+*Assumptions made about the teacher users:*
 
 -         Want to track their student’s progress
 
@@ -67,7 +67,7 @@ Assumptions made about the teacher users:
 
  
 
-Risk
+*Risk*
 	
 
 Level
