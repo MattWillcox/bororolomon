@@ -5,14 +5,14 @@
 - Made introductions<br>
 - Decided upon meeting time: Wednesdays at 12:30pm - 4:30pm<br>
 
-=January 18th= <br>
+=January 18th=
 *Time:* 4 hours<br>
 *Accomplishments:*<br>
 - Shared project ideas, decided on a math game<br>
 - Nominated Matt as project manager<br>
 - Shared input on what features to have in our game<br>
 - Divided group in half; one group to work on project plan, one to work on website<br>
-*project plan: Beth, Light, Reza<br>
-*website: Matt, Ray, Nick<br>
+*  project plan: Beth, Light, Reza<br>
+*  website: Matt, Ray, Nick<br>
 - Started work on website: code.google.com/p/bororolomon/
 - Started work on project plan
