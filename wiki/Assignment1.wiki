@@ -7,68 +7,49 @@ Many students in grades two to three have difficulty with math homework. Much of
 *Basic Goals:*
 
   * Teach math to grade 2-3 students
-
   * Provide feedback of progress to parents and teachers
-
   * Improve confidence of students
-
   * To apply math to real world situations
 
 <br>
 *Stakeholders*
 
   * Developers (Matt, Light, Ray, Beth, Reza, Nick)
-
   * Investors
-
   * Apple Inc.
-
   * Schools
-
   * Simon Fraser University
-
   * The buyers and users
 
 <br>
 *Targetting Users:*
 
   * Teachers
-
   * Grade 2-3 students
 
 <br>
 *Assumptions made about student users:*
 
   * Rudimentary math knowledge
-
   * Attending school
-
   * Reading ability
-
   * Getting bored very easily
 
 <br>
 *Assumptions made about the teacher users:*
 
   * Want to track their student’s progress
-
   * Interested in teaching math
-
   * Have some knowledge of computers
 
 <br>
 *Planned Features:*
 
   * Include questions with addition, subtraction, and multiplication
-
   * Students will be able to save and upload their score so that they can track their progress over time
-
   * The question difficulty will change depending on how many questions the student gets correct
-
   * Two account types available, student and teacher
-
   * Allow online comparison of scores
-
   * Limited amount of time for each question eg. Time bomb
 
 
