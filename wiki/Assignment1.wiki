@@ -60,7 +60,7 @@ Many students in grades two to three have difficulty with math homework. Much of
 
 || *Risk* || *Level* || *Contingency Plan* ||
 || Don’t know objective-C || High ||Start learning Objective-C early ||
-|| Group members getting sick|| Medium || Get flu shots and sleep ||
+|| Group members getting sick|| Medium || Contact the group and then, get flu shots and sleep ||
 || Olympics || Medium/High || Coordinate with the group ||
 || Promise too many features || Medium || Research before committing ||
 || Bad weather || Low || Start early and plan ahead ||
