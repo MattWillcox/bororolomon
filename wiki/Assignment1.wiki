@@ -2,70 +2,77 @@ Many students in grades two to three have difficulty with math homework. Much of
 
 In keeping with the educational nature of the game, our team has placed focus on the needs and interests of students in grade two and three. Rather than to force a traditional teaching environment onto the child (which he or she may find rather boring), our game aims to create an interactive experience with mathematics itself. By creating a program that visually simulates real life objects (ie marbles, animals, etc), we hope to allow the student to connect the information that he or she has learned with the world around them. Our timed-questionnaire system provides a challenging aspect to the student, so that their accomplishments would feel much more satisfying and interesting. The ability to have a profile and to compare scores online also motivates the child to do more and try harder, thus improving his or her learning abilities. We try to provide direct ownership of the game to the student, so that they will feel that their accomplishments are their own.
 
-
+<br>
 *Planned Features:*
 
--         Include questions with addition, subtraction, and multiplication
+  * Include questions with addition, subtraction, and multiplication
 
--         Students will be able to save and upload their score so that they can track their progress over time
+  * Students will be able to save and upload their score so that they can track their progress over time
 
--         The question difficulty will change depending on how many questions the student gets correct
+  * The question difficulty will change depending on how many questions the student gets correct
 
--         Two account types available, student and teacher
+  * Two account types available, student and teacher
 
--         Allow online comparison of scores
+  * Allow online comparison of scores
 
--         Limited amount of time for each question eg. Time bomb
+  * Limited amount of time for each question eg. Time bomb
 
+<br>
 *Basic Goals:*
 
--         Teach math to grade 2-3 students
+  * Teach math to grade 2-3 students
 
--         Provide feedback of progress to parents and teachers
+  * Provide feedback of progress to parents and teachers
 
--         Improve confidence of students
+  * Improve confidence of students
 
--         To apply math to real world situations
+  * To apply math to real world situations
 
+<br>
 *Stakeholders*
 
--         Developers (Matt, Light, Ray, Beth, Reza, Nick)
+  * Developers (Matt, Light, Ray, Beth, Reza, Nick)
 
--         Investors
+  * Investors
 
--         Apple
+  * Apple Inc.
 
--         Schools
+  * Schools
 
--         SFU
+  * Simon Fraser University
 
--         The buyer
+  * The buyers and users
 
-*Users:*
+<br>
+*Targetting Users:*
 
--         Teachers
+  * Teachers
 
--         Grade 2-3 students
+  * Grade 2-3 students
 
+<br>
 *Assumptions made about student users:*
 
--         Rudimentary math knowledge
+  * Rudimentary math knowledge
 
--         Attending school
+  * Attending school
 
--         They can read
+  * Reading ability
 
--         Get bored very easily
+  * Getting bored very easily
 
+<br>
 *Assumptions made about the teacher users:*
 
--         Want to track their student’s progress
+  * Want to track their student’s progress
 
--         Interested in teaching math
+  * Interested in teaching math
 
--         Have some knowledge of computers
+  * Have some knowledge of computers
 
- 
+<br>
+*Risk Management*
+<br> 
 
 || *Risk* || *Level* || *Contingency Plan* ||
 || Don’t know objective-C || High ||Start learning Objective-C early ||
