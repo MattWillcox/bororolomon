@@ -55,7 +55,7 @@ Many students in grades two to three have difficulty with math homework. Much of
 
 <br>
 <br>
-*Risk Management*
+*Risk Management:*
 <br> 
 
 || *Risk* || *Level* || *Contingency Plan* ||
