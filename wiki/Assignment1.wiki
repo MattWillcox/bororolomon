@@ -1,10 +1,12 @@
 ===Project Justification===
-Many students in grades two to three have difficulty with math homework. Much of the time they are able to do the work but find it uninteresting and do not feel engaged. We plan to create a math game to supplement or replace math homework. Replacing math homework with a game should increase student interest and math knowledge.
+
+In accordance with providing mathematical education for students, we plan to implement several features into the game which would help with the learning of math for younger children. For example, our timed-questionnaire system provides a challenging aspect to the student, so that their accomplishments would feel much more satisfying and interesting. The ability to have a profile and to compare scores online also motivates the child to do more and try harder, thus improving his or her learning abilities. We try to provide direct ownership of the game to the student, so that they will feel that their accomplishments are their own. 
 <br>
 
 ===Project Plannings===
 
 *Basic Goals:*
+Rather than to force a traditional teaching environment onto the child (which he or she may find rather boring), our game aims to create an interactive experience with mathematics itself. By creating a program that visually simulates real life objects (ie marbles, animals, etc), we hope to allow the student to connect the information that he or she has learned with the world around them. 
 
   * Teach math to grade 2-3 students
   * Provide feedback of progress to parents and teachers
@@ -14,15 +16,19 @@ Many students in grades two to three have difficulty with math homework. Much of
 <br>
 *Stakeholders*
 
-  * Developers (Matt, Light, Ray, Beth, Reza, Nick)
-  * Investors
-  * Apple Inc.
-  * Schools
-  * Simon Fraser University
-  * The buyers and users
+We believe based on our game, the following groups may benefit from it's success or suffer from it's failure:
+
+  * Developers (Matt, Light, Ray, Beth, Reza, Nick) - Poor grade
+  * Investors - Lose money
+  * Apple Inc. - Lose prestige
+  * Schools - Less education, Lose money
+  * Simon Fraser University - Lose prestige
+  * The buyers and users - Lose money and time
 
 <br>
 *Targetting Users:*
+
+The following groups are the targeted audience for our game:
 
   * Teachers
   * Grade 2-3 students
@@ -45,7 +51,7 @@ Many students in grades two to three have difficulty with math homework. Much of
 <br>
 *Planned Features:*
 
-  * Include questions with addition, subtraction, and multiplication
+  * Include questions with addition, subtraction, and multiplication of visually simulates real life objects 
   * Students will be able to save and upload their score so that they can track their progress over time
   * The question difficulty will change depending on how many questions the student gets correct
   * Two account types available, student and teacher
