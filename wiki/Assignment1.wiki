@@ -1,72 +1,100 @@
-===Project Justification===
+*Project Overview* <br>
+In accordance with providing mathematical education for students, we plan to implement several features into the game which would help with the learning of math for younger children. For example, our timed-questionnaire system provides a challenging aspect to the student, so that their accomplishments would feel much more satisfying and interesting. The ability to have a profile and to compare scores online also motivates the child to do more and try harder, thus improving his or her learning abilities. We try to provide direct ownership of the game to the student, so that they will feel that their accomplishments are their own. <br>
 
-In accordance with providing mathematical education for students, we plan to implement several features into the game which would help with the learning of math for younger children. For example, our timed-questionnaire system provides a challenging aspect to the student, so that their accomplishments would feel much more satisfying and interesting. The ability to have a profile and to compare scores online also motivates the child to do more and try harder, thus improving his or her learning abilities. We try to provide direct ownership of the game to the student, so that they will feel that their accomplishments are their own. 
-<br>
+*Vision Statement*<br>
+To provide a realistic and interactive environment for students to practice their mathematics skill.<br>
 
-===Project Plannings===
+*Project Planning*<br>
+Basic Goals: Rather than to force a traditional teaching environment onto the child (which he or she may find rather boring), our game aims to create an interactive experience with mathematics itself. By creating a program that visually simulates real life objects (ie marbles, animals, etc), we hope to allow the student to connect the information that he or she has learned with the world around them. <br>
 
-*Basic Goals:*
-Rather than to force a traditional teaching environment onto the child (which he or she may find rather boring), our game aims to create an interactive experience with mathematics itself. By creating a program that visually simulates real life objects (ie marbles, animals, etc), we hope to allow the student to connect the information that he or she has learned with the world around them. 
+•	Teach math to grade 2-3 students <br>
+•	Provide feedback of progress to parents and teachers <br>
+•	Improve confidence of students <br>
+•	To apply math to real world situations <br>
 
-  * Teach math to grade 2-3 students
-  * Provide feedback of progress to parents and teachers
-  * Improve confidence of students
-  * To apply math to real world situations
+*Stakeholders* <br>
+We believe based on our game, the following groups may benefit from it's success or suffer from it's failure: <br>
+•	Developers (Matt, Light, Ray, Beth, Reza, Nick) - Poor grade <br>
+•	Investors - Lose money <br>
+•	Apple Inc. - Lose prestige <br>
+•	Schools - Less education, Lose money <br> 
+•	Simon Fraser University - Lose prestige <br>
+•	The buyers and users - Lose money and time <br>
 
-<br>
-*Stakeholders*
+*Targeted Users:* <br>
+•	Teachers <br>
+•	Grade 2-3 students <br>
+ 
 
-We believe based on our game, the following groups may benefit from it's success or suffer from it's failure:
+*Assumptions made about student users:* <br>
+•	Rudimentary math knowledge <br>
+•	Attending school <br>
+•	Reading ability <br>
+•	Getting bored very easily <br>
+•	Not able to concentrate for a long time<br>
 
-  * Developers (Matt, Light, Ray, Beth, Reza, Nick) - Poor grade
-  * Investors - Lose money
-  * Apple Inc. - Lose prestige
-  * Schools - Less education, Lose money
-  * Simon Fraser University - Lose prestige
-  * The buyers and users - Lose money and time
+*Assumptions made about the teacher users:* <br>
+•	Want to track their student’s progress <br>
+•	Interested in teaching math <br>
+•	Have some knowledge of computers <br>
 
-<br>
-*Targeted Users:*
+*Features:* <br>
+1. Different types of mathematical questions<br>
+•	Include questions with addition, subtraction, and multiplication of visually simulates real life objects <br>
+•	Limited amount of time for each question eg. Time bomb <br>
+2. Save profiles and internet data base of students<br>
+•	Students will be able to save and upload their score so that they can track their progress over time <br>
+•	Allow online comparison of scores <br>
+3. Difficulty Scaling<br>
+•	The question difficulty will change depending on how many questions the student gets correct <br>
+4. Teacher/Student Access<br>
+•	Two account types available, student and teacher. Teachers are able to see the profiles of students and the general difficulty of their questions.<br>
+5. Different Modes<br>
+•	Different modes (Easy, Normal, hard, etc) including practice and challenge modes. Practice modes do not count for points, while challenge mode has a set level with all questions following to a specific difficulty.<br>
+Missing Features:<br>
+1.	Online multiplayer <br>
+-	Without a dedicated hosting server or online memory data base, account storage and information transfer would not be possible. Time constraints also a factor.<br>
+2.	Two-player Mode<br>
+-	Time constraints are the main problem. In-experience with Objective-C may create a problem during real time commands that need to be processed simultaneously<br>
+3.	Real-time updates <br>
+-	Time constraint is a main problem. Also problems with the rate at which the online database may communicate with the individual iphones.<br>
 
-  * Teachers
-  * Grade 2-3 students
+*Scope of Release:*<br>
+v.1	Basic elements (including elements, features and mechanics) completed<br>
+v.2	Implementation of online components (online statistics graphs)<br>
+v.3	Full release with all necessary documents<br>
 
-<br>
-*Assumptions made about student users:*
+*Risk Management:* <br>
+||Risk ||	Level ||	Contingency Plan ||
+||Don’t know objective-C ||	High ||	Start learning Objective-C early ||
+||Group members getting sick ||Medium || Contact the group and then, get flu shots and sleep || 
+||Olympics ||	Medium/ High ||	Coordinate with the group ||
+||Promise too many features ||	Medium ||	Research before committing ||
+||Bad weather ||	Low ||	Start early and plan ahead ||
 
-  * Rudimentary math knowledge
-  * Attending school
-  * Reading ability
-  * Getting bored very easily
+*Revision History:*<br>
 
-<br>
-*Assumptions made about the teacher users:*
+Ver. 0.1 – Jan 13, 2010	Started discussion on project plan. Decided on basic features and content. Created website and document for project plan.<br>	Group Members:<br>
+Nick Ho<br>
+Beth Raymond<br>
+Hiu Leong Ching (Light)<br>
+Ragyoung Sung (Raymond)<br>
+Matt Willcox<br>
+Reza Alizadeh Azimi<br>
 
-  * Want to track their student’s progress
-  * Interested in teaching math
-  * Have some knowledge of computers
+Ver. 0.2 – Jan 16, 2010	Revised project plan to ver. 2. <br>
+Updated website.<br>	Group Members:<br>
+Nick Ho<br>
+Hiu Leong Ching (Light)<br>
+Matt Willcox<br>
 
-<br>
-*Planned Features:*
-
-  * Include questions with addition, subtraction, and multiplication of visually simulates real life objects 
-  * Students will be able to save and upload their score so that they can track their progress over time
-  * The question difficulty will change depending on how many questions the student gets correct
-  * Two account types available, student and teacher
-  * Allow online comparison of scores
-  * Limited amount of time for each question eg. Time bomb
+Ver. 0.3- Jan 18, 2010	Further revised project plan.<br>
+Updated website.<br>	Group Members:<br>
+Nick Ho<br>
+Hiu Leong Ching (Light)<br>
+Matt Willcox<br>
+Ragyoung Sung (Raymond)<br>
 
 
-<br>
-<br>
-*Risk Management:*
-<br> 
-
-|| *Risk* || *Level* || *Contingency Plan* ||
-|| Don’t know objective-C || High ||Start learning Objective-C early ||
-|| Group members getting sick|| Medium || Contact the group and then, get flu shots and sleep ||
-|| Olympics || Medium/High || Coordinate with the group ||
-|| Promise too many features || Medium || Research before committing ||
-|| Bad weather || Low || Start early and plan ahead ||
 
  
