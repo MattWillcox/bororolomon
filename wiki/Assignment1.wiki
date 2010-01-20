@@ -51,7 +51,7 @@ We believe based on our game, the following groups may benefit from it's success
 •	Two account types available, student and teacher. Teachers are able to see the profiles of students and the general difficulty of their questions.<br>
 5. Different Modes<br>
 •	Different modes (Easy, Normal, hard, etc) including practice and challenge modes. Practice modes do not count for points, while challenge mode has a set level with all questions following to a specific difficulty.<br>
-Missing Features:<br>
+*Missing Features:*<br>
 1.	Online multiplayer <br>
 -	Without a dedicated hosting server or online memory data base, account storage and information transfer would not be possible. Time constraints also a factor.<br>
 2.	Two-player Mode<br>
