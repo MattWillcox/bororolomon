@@ -1,13 +1,3 @@
-#summary One-sentence summary of this page.
+==Random Game Chooser Component==
 
-= Introduction =
-
-Add your content here.
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+The users will have the option to select a random game once they have accessed the play game menu. A mini-game will be chosen at random and user data will still be used for the progress report.
