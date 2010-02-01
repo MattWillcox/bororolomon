@@ -84,7 +84,7 @@ Once a user has selected a game, they will have the option of setting the diffic
 
 Online Leader Board
 
-to be continued...
+The users will be able to access an online leader board. The leader board will be on a separate website that will open for the user and will list the top 100 users based on their top scores for each mini-game. This will only work if there is an internet connection available.
 
 *Non-functional requirements:*
 
