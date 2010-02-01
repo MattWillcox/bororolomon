@@ -27,30 +27,30 @@ http://bororolomon.googlecode.com/files/2%20Menu%20copy.jpg <br><br>
 •	To log-in to another account, the player has to exit the application and re-run the application. This procedure is for security issue.<br>
 
 ==3.	Play Game: Game Selection Menu==
-When the player pressed “Play Game” button from the main menu, user will immediately see a screen where he/she can choose among four games.<br><br>
+When the player presses the “Play Game” button from the main menu, the user will immediately see a screen where he/she can choose among four games.<br><br>
 http://bororolomon.googlecode.com/files/3%20Game%20Selection%20copy.jpg <br><br>
 •	The four games are “Equation Game”, “Money Counting Game”, “Clock Game” and “Mirror Game”.<br>
 •	To go back to the main menu, press “BACK” button in the center of the screen.<br>
 •	When player selects a game, a short (1screen long) tutorial will show before the player gets to the game.<br>
 
     ===3.1	Equation Game===
-    As an example, when player selects “Equation Game” from Game Selection Menu, short tutorial will be given, and as user confirms the tutorial page, the game will start. This is a screen shot of the game.<br><br>
+    As an example, when player selects “Equation Game” from Game Selection Menu, a short tutorial will be given, and as user confirms the tutorial page, the game will start. This is a screen shot of the game.<br><br>
     http://bororolomon.googlecode.com/files/4%20Equation%20Game.jpg <br><br> 
     •	Top left corner shows how many questions the player correctly answered.<br>
     •	Top center indicates how many questions the player has gone through and how many questions are left.<br>
     •	Top left corner shows the how much time left to try the rest of the questions.<br>
-    •	Once game is started, players cannot pause or go back to menu until the game finishes.<br>
+    •	Once game is started, players can pause and go back to menu. <br>
 
 ==4.	View Progress==
-This is where a player can see their historical scores and progresses. The application keeps all the scores in every game as long as the player is logged in.<br><br>
+This is where a player can see their historical scores and progress. The application keeps all the scores in every game as long as the player is logged in.<br><br>
 http://bororolomon.googlecode.com/files/5%20View%20Progress%20copy.jpg <br><br> 
-•	The graph allows to illustrate whether player is learning or losing and in what rate.<br>
-•	Below the graph, players account name appears. Below the account name, the player’s grade is shown, which is calculated by MathCraft’s grading system. In this case, the account name is “PLAYER1” and he is a grade 1 level.<br>
-•	On the right hand side, it shows number of game played, the highest score and the average score for each game is displayed.<br>
+•	The graph illustrates whether a player is progressing or losing and in what rate.<br>
+•	Below the graph, players account name appears. Below the account name, the player’s grade is shown, which is calculated by MathCraft’s grading system (based on a combination of speed and accuracy). In this case, the account name is “PLAYER1” and he is a grade 1 level.<br>
+•	On the right hand side, it shows number of games played, the highest score and the average score for each game is displayed.<br>
 •	BACK button will direct player to the main menu.<br>
 
 ==5.	Online Leader Board==
-Pressing this button will open an online ranking board. The online ranking board shows the sorted list of all registered players in declining order up to rank 100.<br>
+Pressing this button will open an online ranking board. The online ranking board shows the sorted list of all registered players in declining order up to rank 100 for each game.<br>
 
 ==6.	Option==
 Player can turn on or off the volume or sound effects.<br><br>
