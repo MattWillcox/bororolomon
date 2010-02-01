@@ -29,8 +29,6 @@ These will be the primary educators for our students. Our game will aim to aid t
 
 [http://code.google.com/p/bororolomon/wiki/ScoreTracking Score Tracking System and Statistics]<br>
 
-This can be found in the view progress section. For every game that is finished, each player’s game results will be saved for future reference. A player will be able to check his progress and his past scores along with encouraging advice. A graph will be drawn to show the rate of the player’s progress and the player will see his grade according to his scores. Each game will have its own section and will include statistics like: best score, average score, number of games played, etc.
-
 [http://code.google.com/p/bororolomon/wiki/MiniGames Mini-games]<br>
 
 _Clock Game_
