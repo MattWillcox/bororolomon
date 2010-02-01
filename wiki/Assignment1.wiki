@@ -1,99 +1,144 @@
-*Project Overview* <br>
-In accordance with providing mathematical education for students, we plan to implement several features into the game which would help with the learning of math for younger children. For example, our timed-questionnaire system provides a challenging aspect to the student, so that their accomplishments would feel much more satisfying and interesting. The ability to have a profile and to compare scores online also motivates the child to do more and try harder, thus improving his or her learning abilities. We try to provide direct ownership of the game to the student, so that they will feel that their accomplishments are their own. <br>
+=Requirements Document=
 
-*Vision Statement*<br>
-To provide a realistic and interactive environment for students to practice their mathematics skill.<br>
-
-*Project Planning*<br>
-Basic Goals: Rather than to force a traditional teaching environment onto the child (which he or she may find rather boring), our game aims to create an interactive experience with mathematics itself. By creating a program that visually simulates real life objects (ie marbles, animals, etc), we hope to allow the student to connect the information that he or she has learned with the world around them. <br>
-
-•	Teach math to grade 2-3 students <br>
-•	Provide feedback of progress to parents and teachers <br>
-•	Improve confidence of students <br>
-•	To apply math to real world situations <br>
-
-*Stakeholders* <br>
-We believe based on our game, the following groups may benefit from it's success or suffer from it's failure: <br>
-•	Developers (Matt, Light, Ray, Beth, Reza, Nick) - Poor grade <br>
-•	Investors - Lose money <br>
-•	Apple Inc. - Lose prestige <br>
-•	Schools - Less education, Lose money <br> 
-•	Simon Fraser University - Lose prestige <br>
-•	The buyers and users - Lose money and time <br>
-
-*Targeted Users:* <br>
-•	Teachers <br>
-•	Grade 2-3 students <br>
  
 
-*Assumptions made about student users:* <br>
-•	Rudimentary math knowledge <br>
-•	Attending school <br>
-•	Reading ability <br>
-•	Getting bored very easily <br>
-•	Not able to concentrate for a long time<br>
+*Introduction:*
 
-*Assumptions made about the teacher users:* <br>
-•	Want to track their student’s progress <br>
-•	Interested in teaching math <br>
-•	Have some knowledge of computers <br>
+Our game, MathCraft, is intended to help students between grades 1-3 with math education in a fun and enjoyable way. We are aiming to make a more interactive experience with visually stimulating real life objects (i.e. marbles, animals, etc) so that the students can connect the information he/she has learned with the world around them. The game content will follow the British Columbia grades 1-3 school curriculums so teachers will be able to use it as a tool to aid them with educating. There will be 4 “mini-games” which will offer different ways to develop basic math skills. The level of difficulty of the games will increase as the student’s tracked progression advances. Students will also be able to view their statistics so they can track their own progress. Our game is designed for use on the Apple iPhone and iPod Touch.
 
-*Features:* <br>
-1. Different types of mathematical questions<br>
-•	Include questions with addition, subtraction, and multiplication of visually simulates real life objects <br>
-•	Limited amount of time for each question eg. Time bomb <br>
-2. Save profiles and internet data base of students<br>
-•	Students will be able to save and upload their score so that they can track their progress over time <br>
-•	Allow online comparison of scores <br>
-3. Difficulty Scaling<br>
-•	The question difficulty will change depending on how many questions the student gets correct <br>
-4. Teacher/Student Access<br>
-•	Two account types available, student and teacher. Teachers are able to see the profiles of students and the general difficulty of their questions.<br>
-5. Different Modes<br>
-•	Different modes (Easy, Normal, hard, etc) including practice and challenge modes. Practice modes do not count for points, while challenge mode has a set level with all questions following to a specific difficulty.<br>
-*Missing Features:*<br>
-1.	Online multiplayer <br>
--	Without a dedicated hosting server or online memory data base, account storage and information transfer would not be possible. Time constraints also a factor.<br>
-2.	Two-player Mode<br>
--	Time constraints are the main problem. In-experience with Objective-C may create a problem during real time commands that need to be processed simultaneously<br>
-3.	Real-time updates <br>
--	Time constraint is a main problem. Also problems with the rate at which the online database may communicate with the individual iphones.<br>
 
-*Scope of Release:*<br>
-v.1	Basic elements (including elements, features and mechanics) completed<br>
-v.2	Implementation of online components (online statistics graphs)<br>
-v.3	Full release with all necessary documents<br>
+*Intended Audience:*
 
-*Risk Management:* <br>
-||Risk ||	Level ||	Contingency Plan ||
-||Don’t know objective-C ||	High ||	Start learning Objective-C early ||
-||Group members getting sick ||Medium || Contact the group and then, get flu shots and sleep || 
-||Olympics ||	Medium/ High ||	Coordinate with the group ||
-||Promise too many features ||	Medium ||	Research before committing ||
-||Bad weather ||	Low ||	Start early and plan ahead ||
+Grade 1-3 Students
 
-*Revision History:*<br>
+These will be the primary users of our game. We expect them to have basic experience with video games, preferably of educational video games and experience with using G.U.I. (Graphical User Interface) components like menus and buttons. The students should have typical 1st  to 3rd grade knowledge of math (i.e. addition, subtraction, multiplication, etc) depending on their current grade. The goals of each user should be to improve their math skills to aid in their education and to have fun while doing it.
 
-Ver. 0.1 – Jan 13, 2010	Started discussion on project plan. Decided on basic features and content. Created website and document for project plan.<br>	Group Members:<br>
-Nick Ho<br>
-Beth Raymond<br>
-Hiu Leong Ching (Light)<br>
-Ragyoung Sung (Raymond)<br>
-Matt Willcox<br>
-Reza Alizadeh Azimi<br>
+ 
 
-Ver. 0.2 – Jan 16, 2010	Revised project plan to ver. 2. <br>
-Updated website.<br>	Group Members:<br>
-Nick Ho<br>
-Hiu Leong Ching (Light)<br>
-Matt Willcox<br>
+Parents and Teachers
 
-Ver. 0.3- Jan 18, 2010	Further revised project plan.<br>
-Updated website.<br>	Group Members:<br>
-Nick Ho<br>
-Hiu Leong Ching (Light)<br>
-Matt Willcox<br>
-Ragyoung Sung (Raymond)<br>
+These will be the primary educators for our students. Our game will aim to aid them in their educating ability. The parents and teachers should have basic experience with educational software and G.U.I .components like menus and buttons. They should have full knowledge of all elementary school levels of math. The goals of our educators should be to keep the students engaged in learning, track each student’s progress and improve each student’s mathematical ability.
+
+ 
+
+*Features:*
+
+Account Management
+
+A new player can create an account before they can start playing any of the games. The first screen that will be displayed is the log-in menu. A user creates an account by registering a user name and password. Once an account is created, it will have the option to be automatically saved by selecting "remember me" so the player does not have to re-enter his account every time. Only one account at a time can be saved automatically. When other players want to log-in, he/she will be required to enter his/her account. The user will also have the option to skip the log-in and just play the games but no user data will be saved.
+
+
+Menu System
+
+Once a user has logged in or skipped the log-in menu they will be taken to the main menu screen. On the main menu the user can select from the following options: play games, view progress, options, online leader board and exit. The menu will consist of a simple G.U.I. containing buttons and a background.
+
+Score Tracking System and Statistics
+
+This can be found in the view progress section. For every game that is finished, each player’s game results will be saved for future reference. A player will be able to check his progress and his past scores along with encouraging advice. A graph will be drawn to show the rate of the player’s progress and the player will see his grade according to his scores. Each game will have its own section and will include statistics like: best score, average score, number of games played, etc.
+
+Graphics and Design
+
+To meet the targeting age group, the design shall be simple to pick up and graphics shall be attractive to keep the users entertained.
+
+Mini-games
+
+_Clock Game_
+
+Purpose: to help students to quickly read and calculate the time for clocks
+
+·       Type 1. Each question will show an analog clock and player has to read and answer the according time.
+
+·       Type 2. Each question will show an analog clock and a question (for example: “predict the time after 30 minutes”) and the player will have to drag the hands of the clock into the correct position.
+
+_Money Counting Game_
+
+Purpose: to help students learn how to count money for real world situations
+
+·       Type 1. Each question will show a set of cash and coins and player has to answer the exact amount.
+
+·       Type 2. Each question will show two sets of cash and coins and the question will either ask to add or subtract the two sets.
+
+_Mirror Game_
+
+Purpose: to help students to develop pattern recognition ability
+
+·      Type 1.  Each question will depict a pattern on left side of screen and player will be asked to make the pattern of mirror reflection.
+
+·       Type 2. Each question will show a series of elements displayed in an incomplete pattern and the player will be asked to complete the rest of the pattern.
+
+_Equation Game_
+
+Purpose: to help students enhance basic arithmetic skills
+
+·       Type 1. Each question will show basic math questions in addition, subtraction, multiplication and division. For example, 4+5=? or 6*2=?
+
+·       Type 2. Each question will have blank to fill up with arithmetic signs such as +, -, * or /. For example, 4 _ 5=9 or 6 _ 3 = 2
+
+Random Game Chooser Component
+
+The users will have the option to select a random game once they have accessed the play game menu. A mini-game will be chosen at random and user data will still be used for the progress report.
+
+Difficulty selection system
+
+Once a user has selected a game, they will have the option of setting the difficulty. A higher difficulty will produce more difficult questions and reduce the amount of time allowed to answer them. We will also suggest a "recommended difficulty" that will automatically be determined based on the users data that stored. The three difficulties will be easy, medium and hard.
+
+Online Leader Board
+
+to be continued...
+
+*Non-functional requirements:*
+
+Speed
+
+Loading time will be kept as short as possible and shouldn’t be very significant. Sounds, images and user profiles will be loaded at start. All in-game operations should be instant. Users will have designated amounts of time in games to answer questions but the game menu will have unlimited time for the user to make their selection.
+
+Size
+
+Its size should be a small number of MB, this only includes images sounds and user profiles. Downloading the game should not take very long.
+
+Ease of use
+
+A simple G.U.I. and help sections should make it very easy to learn. Training time will consist of reading the game instructions quickly before starting each game. Students may need the aid of a teacher/parent for creating their user profile. The administrator menu should be simple and straight forward for someone with basic knowledge of G.U.I.’s and should require minimal training time.
+
+Reliability
+
+There will be a low probability of application failure because we will have done thorough testing on it before release. Any errors that do occur we will try to have error messages displayed so that users can avoid/troubleshoot them. Our game will be able to run without internet access but some features that require an online connection will be unavailable. The only way to access our game is with an iPhone or iPod Touch on which our game has already been downloaded on or if an internet connection is available it can be downloaded for free from iTunes.
+
+Robustness
+
+The time to restart after failure should be less than 30 seconds. In the event of a crash the user’s data will from be the last completed game, they will lose any progress in the current game being played. The user will only need to restart the application to resume playing. There should be a very low probability of events causing failure and of data corruption.
+
+Portability
+
+Can only be used on an Apple iPhone or iPod Touch for now and any future devices released by Apple that will support their applications.
+
+ 
+
+*Tutorials:*
+
+Log-in Menu
+
+ 
+
+ 
+
+*Glossary:*
+
+GUI - Stands for "Graphical User Interface" and is the component of the game that the user "sees" while playing.
+
+Profile - Each user that registers will have his individual data/statistics stored and can look at them whenever they want.
+
+Leader Board - A list of all the top ranked users based on their individual scores in each game. There will be a leader board for every mini-game.
+
+iPhone - A cellphone released by apple that has the ability to download applications and run them on a touch screen and connect via wifi/3g to the internet.
+
+iPod Touch - An ipod released by apple that has the ability to download applications and run them on a touch screen and connect via wifi to the internet. 
+
+MB - Stands for "Megabyte" and is a multiple of the unit byte which is used for digital information storage or transmission.
+
+Crash -  A condition where a program stops performing its expected function and also stops responding to other parts of the system. 
+
+Data Corruption - Refers to errors in computer data that occur during transmission, retrieval, or processing, introducing unintended changes to the original data. 
 
 
 
