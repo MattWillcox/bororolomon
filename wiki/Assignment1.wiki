@@ -116,7 +116,7 @@ Can only be used on an Apple iPhone or iPod Touch for now and any future devices
 
 *Tutorials:*
 
-Log-in Menu
+All Tutorials can be found [http://code.google.com/p/bororolomon/wiki/Tutorials here]
 
  
 
