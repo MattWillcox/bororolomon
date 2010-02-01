@@ -1,13 +1,3 @@
-#summary One-sentence summary of this page.
+=Menu System=
 
-= Introduction =
-
-Add your content here.
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+Once a user has logged in or skipped the log-in menu they will be taken to the main menu screen. On the main menu the user can select from the following options: play games, view progress, options, online leader board and exit. The menu will consist of a simple G.U.I. containing buttons and a background.
