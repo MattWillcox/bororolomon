@@ -94,7 +94,7 @@ Loading time will be kept as short as possible and shouldn’t be very significa
 
 Size
 
-Its size should be a small number of MB, this only includes images sounds and user profiles. Downloading the game should not take very long.
+Its size should be a small number of MB, preferably under 10. This only includes images sounds and user profiles. Downloading the game should not take very long.
 
 Ease of use
 
