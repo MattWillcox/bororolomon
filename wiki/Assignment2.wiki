@@ -31,50 +31,11 @@ These will be the primary educators for our students. Our game will aim to aid t
 
 [http://code.google.com/p/bororolomon/wiki/MiniGames Mini-games]<br>
 
-_Clock Game_
-
-Purpose: to help students to quickly read and calculate the time for clocks
-
-·       Type 1. Each question will show an analog clock and player has to read and answer the according time.
-
-·       Type 2. Each question will show an analog clock and a question (for example: “predict the time after 30 minutes”) and the player will have to drag the hands of the clock into the correct position.
-
-_Money Counting Game_
-
-Purpose: to help students learn how to count money for real world situations
-
-·       Type 1. Each question will show a set of cash and coins and player has to answer the exact amount.
-
-·       Type 2. Each question will show two sets of cash and coins and the question will either ask to add or subtract the two sets.
-
-_Mirror Game_
-
-Purpose: to help students to develop pattern recognition ability
-
-·      Type 1.  Each question will depict a pattern on left side of screen and player will be asked to make the pattern of mirror reflection.
-
-·       Type 2. Each question will show a series of elements displayed in an incomplete pattern and the player will be asked to complete the rest of the pattern.
-
-_Equation Game_
-
-Purpose: to help students enhance basic arithmetic skills
-
-·       Type 1. Each question will show basic math questions in addition, subtraction, multiplication and division. For example, 4+5=? or 6*2=?
-
-·       Type 2. Each question will have blank to fill up with arithmetic signs such as +, -, * or /. For example, 4 _ 5=9 or 6 _ 3 = 2
-
-[http://code.google.com/p/bororolomon/wiki/RandomGame Random Game Chooser Component
-]<br>
-
-The users will have the option to select a random game once they have accessed the play game menu. A mini-game will be chosen at random and user data will still be used for the progress report.
+[http://code.google.com/p/bororolomon/wiki/RandomGame Random Game Chooser Component]<br>
 
 [http://code.google.com/p/bororolomon/wiki/DifficultySelect Difficulty Selection System]<br>
 
-Once a user has selected a game, they will have the option of setting the difficulty. A higher difficulty will produce more difficult questions and reduce the amount of time allowed to answer them. We will also suggest a "recommended difficulty" that will automatically be determined based on the users data that stored. The three difficulties will be easy, medium and hard.
-
-[http://code.google.com/p/bororolomon/wiki/LeaderBoard Online Leader Board]<br>Online Leader Board
-
-The users will be able to access an online leader board. The leader board will be on a separate website that will open for the user and will list the top 100 users based on their top scores for each mini-game. This will only work if there is an internet connection available.
+[http://code.google.com/p/bororolomon/wiki/LeaderBoard Online Leader Board]<br>
 
 *Non-functional requirements:*
 
