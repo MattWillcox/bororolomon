@@ -1,0 +1,64 @@
+==1.	Log in==
+As the application is launched, a player will be directed to the log-in screen.<br><br>
+http://bororolomon.googlecode.com/files/1%20login%20copy.jpg <br><br>
+•	If the player already has an account with us,<br>
+    o	Enter the account name and the password, then press GO.<br>
+•	If the player is does not have an account,<br>
+    o	Press REGISTER button and it will direct to a registration page.<br>
+    o	For registration, it will require his/her first and last name, age and email address.<br>
+    o	Player can choose to fill out other optional information.<br>
+    o	Pressing CONFIRM button will end the registration process and redirect the player to the application. <br>
+    o	Now, the player can login with the new account.<br>
+•	If the player does not want to log-in nor register,<br>
+    o	Player can simply click on the SKIP button located at the top right corner.<br>
+
+==2.	Menu==
+As soon as player passes through the log-in screen, game menu will show.<br><br>
+http://bororolomon.googlecode.com/files/2%20Menu%20copy.jpg <br><br> 
+•	To enjoy MathCraft games, press “Play Game” button.<br>
+    o	Refer section 3 for further tutorial<br>
+•	To see how the player was progressed in the past games, press “View Progress” button. <br>
+    o	Refer section 4 for further tutorial<br>
+•	To see the online ranking board of every registered players, press “View Leader Board” button.<br>
+    o	Refer section 5 for further tutorial<br>
+•	To modify some game settings, press “Option” button.<br>
+    o	Refer section 6 for further tutorial<br>
+•	Pressing “Bororolomon” logo at the bottom right will direct to the Bororolomon homepage. ([http://code.google.com/p/bororolomon/ http://code.google.com])<br>
+•	To log-in to another account, the player has to exit the application and re-run the application. This procedure is for security issue.<br>
+
+==3.	Play Game: Game Selection Menu==
+When the player pressed “Play Game” button from the main menu, user will immediately see a screen where he/she can choose among four games.<br><br>
+http://bororolomon.googlecode.com/files/3%20Game%20Selection%20copy.jpg <br><br>
+•	The four games are “Equation Game”, “Money Counting Game”, “Clock Game” and “Mirror Game”.<br>
+•	To go back to the main menu, press “BACK” button in the center of the screen.<br>
+•	When player selects a game, a short (1screen long) tutorial will show before the player gets to the game.<br>
+
+    ===3.1	Equation Game===
+    As an example, when player selects “Equation Game” from Game Selection Menu, short tutorial will be given, and as user confirms the tutorial page, the game will start. This is a screen shot of the game.<br><br>
+    http://bororolomon.googlecode.com/files/4%20Equation%20Game.jpg <br><br> 
+    •	Top left corner shows how many questions the player correctly answered.<br>
+    •	Top center indicates how many questions the player has gone through and how many questions are left.<br>
+    •	Top left corner shows the how much time left to try the rest of the questions.<br>
+    •	Once game is started, players cannot pause or go back to menu until the game finishes.<br>
+
+==4.	View Progress==
+This is where a player can see their historical scores and progresses. The application keeps all the scores in every game as long as the player is logged in.<br><br>
+http://bororolomon.googlecode.com/files/5%20View%20Progress%20copy.jpg <br><br> 
+•	The graph allows to illustrate whether player is learning or losing and in what rate.<br>
+•	Below the graph, players account name appears. Below the account name, the player’s grade is shown, which is calculated by MathCraft’s grading system. In this case, the account name is “PLAYER1” and he is a grade 1 level.<br>
+•	On the right hand side, it shows number of game played, the highest score and the average score for each game is displayed.<br>
+•	BACK button will direct player to the main menu.<br>
+
+==5.	Online Leader Board==
+Pressing this button will open an online ranking board. The online ranking board shows the sorted list of all registered players in declining order up to rank 100.<br>
+
+==6.	Option==
+Player can turn on or off the volume or sound effects.<br><br>
+http://bororolomon.googlecode.com/files/6%20Option%20copy.jpg <br><br> 
+•	Sliding or pressing the button will switch on/off.<br>
+•	The screen shot is currently showing that both sound effects and music are on.<br>
+•	BACK button will direct player to the main menu.<br>
+
+
+<br><br>
+[http://code.google.com/p/bororolomon/wiki/Assignment2 Back to Assignment2]
