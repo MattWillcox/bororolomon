@@ -1,13 +1,3 @@
-#summary One-sentence summary of this page.
+==Online Leader Board==
 
-= Introduction =
-
-Add your content here.
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+The users will be able to access an online leader board. The leader board will be on a separate website that will open for the user and will list the top 100 users based on their top scores for each mini-game. This will only work if there is an internet connection available.
