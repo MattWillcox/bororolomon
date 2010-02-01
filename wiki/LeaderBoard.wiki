@@ -1,3 +1,3 @@
 ==Online Leader Board==
 
-The users will be able to access an online leader board. The leader board will be on a separate website that will open for the user and will list the top 100 users based on their top scores for each mini-game. This will only work if there is an internet connection available.
+The users will be able to access an online leader board. The leader board will be on a separate website that will open for the user and will list the top 100 users based on their top scores for each mini-game. There will be a main page which will contain a leader board of overall scores based on all 4 games together, and there will also contain links to view each individual game's leader boards. This will only work if there is an internet connection available.
