@@ -16,7 +16,7 @@
 1.3 Coding Style: <br>
     In order to increase the code readability and clearance, we decided to use Apple’s standard coding guidelines. It is familiar to iPhone (or iTouch) developers so if a new iPhone (or iTouch) developer joins the team he/she can easily understand and modify the code.
     Coding guidelines can be found at the following:
-    http://developer.apple.com/mac/library/documentation/Cocoa/Conceptual/CodingGuidelines/CodingGuidelines.html#//apple_ref/doc/uid/10000146
+    [http://developer.apple.com/mac/library/documentation/Cocoa/Conceptual/CodingGuidelines/CodingGuidelines.html#//apple_ref/doc/uid/10000146 Coding guidelines]
 
 1.4 Integrated Development Environment (IDE):<br>
     Xcode: Created by Apple for developing applications on its Mac OS. It consists of a suite of tools for developing programs in Objective-C.
