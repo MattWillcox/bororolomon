@@ -41,16 +41,17 @@
  
 
 
-*3 System Diagrams:*
+*3 System Diagrams:*<br>
 
-3.1 UML Diagrams
+
+3.1 UML Diagrams<br>
 [http://bororolomon.googlecode.com/files/MenuUML.png]
 [http://bororolomon.googlecode.com/files/ProfilesUML.png]
 [http://bororolomon.googlecode.com/files/GameInterfaceUML.png]
 
 
 
-3.2 State Machine Diagram
+3.2 State Machine Diagram<br>
 
     The following diagram shows interactions in the menu system, and all the different functions that each menu would provide. When the user first starts the game from the iPhone applications menu, the game would automatically bring them to the login page. From there on, buttons on the screen would allow them to go to other menus.
  
