@@ -63,8 +63,6 @@
 3.4 Process Model 
 [http://bororolomon.googlecode.com/files/Process%20model%20-%20Website.png]
 [http://bororolomon.googlecode.com/files/Process%20model%20-%20IPhone.png]
-[http://bororolomon.googlecode.com/files/Process%20model%20-%20Website.png]
-
 
 *4 Data Requirements:*
 
@@ -103,9 +101,9 @@
 
     Links to the main features include:<br>
     •	[http://code.google.com/p/bororolomon/wiki/MenuSystem Main Menu]<br>
-    •	Random game chooser component<br>
-    •	MiniGames<br>
-    •	Difficulty selection system<br>
+    •	[http://code.google.com/p/bororolomon/wiki/LeaderBoard Random game chooser component]<br>
+    •	[http://code.google.com/p/bororolomon/wiki/MiniGames MiniGames]<br>
+    •	[http://code.google.com/p/bororolomon/wiki/DifficultySelect Difficulty selection system]<br>
 
 
 4.3.2 Version 2:<br>
