@@ -10,7 +10,7 @@
 In keeping with the educational nature of the game, our team has placed focus on the needs and interests of students in grade two and three. Rather than to force a traditional teaching environment onto the child (which he or she may find rather boring), our game called MathCraft aims to create an interactive experience with mathematics itself. MathCraft can be divided into three sets of main features; the menu system, mini games system, and online update system
 
 *Test approach*
-iPhone SDK 3.1.2 will be used to perform the testing and debugging on the application
+iPhone SDK 3.1.2 will be used to perform the testing and debugging on the application<br>
  
 *Testing Plan*<br>
 Version Descriptions<br>
