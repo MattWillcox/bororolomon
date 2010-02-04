@@ -91,5 +91,8 @@ Crash -  A condition where a program stops performing its expected function and 
 
 Data Corruption - Refers to errors in computer data that occur during transmission, retrieval, or processing, introducing unintended changes to the original data. 
 
-*Design Document*
+*Design Document*<br>
 The design document can be found here: [http://code.google.com/p/bororolomon/wiki/PageName?ts=1265242919&updated=PageName Design Document]
+
+*Quality Assurance Plan*<br>
+The Quality Assurance Plan may be found here: [http://code.google.com/p/bororolomon/wiki/QualityAssurancePlan?ts=1265244996&updated=QualityAssurancePlan QAP]
