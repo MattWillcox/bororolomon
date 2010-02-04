@@ -90,3 +90,6 @@ MB - Stands for "Megabyte" and is a multiple of the unit byte which is used for 
 Crash -  A condition where a program stops performing its expected function and also stops responding to other parts of the system. 
 
 Data Corruption - Refers to errors in computer data that occur during transmission, retrieval, or processing, introducing unintended changes to the original data. 
+
+*Design Document*
+The design document can be found here: [http://code.google.com/p/bororolomon/wiki/PageName?ts=1265242919&updated=PageName Design Document]
