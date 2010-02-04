@@ -59,7 +59,14 @@
 
  
 3.3 Structural Diagrams
-http://bororolomon.googlecode.com/files/Process%20model%20-%20Website.png
+[http://bororolomon.googlecode.com/files/Process%20model%20-%20Website.png]
+[http://bororolomon.googlecode.com/files/Structual%20Model.png]
+[http://bororolomon.googlecode.com/files/Process%20model%20-%20IPhone.png]
+[http://bororolomon.googlecode.com/files/Process%20model%20-%20Website.png]
+[http://bororolomon.googlecode.com/files/StateMachineDiagram.png]
+[http://bororolomon.googlecode.com/files/MenuUML.png]
+[http://bororolomon.googlecode.com/files/ProfilesUML.png]
+[http://bororolomon.googlecode.com/files/GameInterfaceUML.png]
  
  
 
@@ -115,7 +122,7 @@ http://bororolomon.googlecode.com/files/Process%20model%20-%20Website.png
     The online updating system would also be functional, but more polishing is needed.
 
 Links to main features:<br>
-    •	ProfileStatistics<br>
+    •	Leaderboard<br>
     •	GraphCreation<br>
     •	RecordHistory<br>
     •	AutoDifficultyScale<br>
