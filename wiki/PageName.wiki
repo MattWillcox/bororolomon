@@ -116,7 +116,7 @@
     The online updating system would also be functional, but more polishing is needed.
 
 Links to main features:<br>
-    •	Leaderboard<br>
+    •	[http://code.google.com/p/bororolomon/wiki/LeaderBoard Leaderboard]<br>
     •	GraphCreation<br>
     •	RecordHistory<br>
     •	AutoDifficultyScale<br>
