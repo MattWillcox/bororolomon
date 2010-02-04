@@ -117,9 +117,8 @@
 
 Links to main features:<br>
     •	[http://code.google.com/p/bororolomon/wiki/LeaderBoard Leaderboard]<br>
-    •	GraphCreation<br>
-    •	RecordHistory<br>
-    •	AutoDifficultyScale<br>
+    •	[http://code.google.com/p/bororolomon/wiki/ScoreTracking Scoretracking]<br>
+    •	[http://code.google.com/p/bororolomon/wiki/DifficultySelect AutoDifficultyScale]<br>
 
 4.3.3 Version 3:
     The program will be fully functional, and all interfaces will be altered to appeal to Grade 2/3 students. The graphs, game images, and buttons would all be adjusted for Grade 2/3 students to use, and all games would be balanced to fit the correct math levels.
