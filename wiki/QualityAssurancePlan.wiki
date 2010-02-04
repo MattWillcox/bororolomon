@@ -1,11 +1,10 @@
 *System Introduction*
 
-*Revision History*
-Version	Primary Author(s)	Description of Version	Date Completed
-1.0	Hiu Leong Ching	Initial version	February 1st, 2010
-1.1	Beth Raymond	Updated version	February 2nd, 2010
-1.2	Hiu Leong Ching
-Beth Raymond	Final Version	February 3, 2010
+*Revision History*<br>
+||Version	||Primary Author(s)	||Description of Version	||Date Completed||
+||1.0	||Hiu Leong Ching	||Initial version	||February 1st, 2010||
+||1.1||	Beth Raymond	||Updated version	||February 2nd, 2010||
+||1.2	||Hiu Leong Ching/Beth Raymond	||Final Version	||February 3, 2010||
 
 *System overview*
 In keeping with the educational nature of the game, our team has placed focus on the needs and interests of students in grade two and three. Rather than to force a traditional teaching environment onto the child (which he or she may find rather boring), our game called MathCraft aims to create an interactive experience with mathematics itself. MathCraft can be divided into three sets of main features; the menu system, mini games system, and online update system
