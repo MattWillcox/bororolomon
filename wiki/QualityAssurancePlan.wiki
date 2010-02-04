@@ -10,10 +10,10 @@
 In keeping with the educational nature of the game, our team has placed focus on the needs and interests of students in grade two and three. Rather than to force a traditional teaching environment onto the child (which he or she may find rather boring), our game called MathCraft aims to create an interactive experience with mathematics itself. MathCraft can be divided into three sets of main features; the menu system, mini games system, and online update system<br>
 
 *Test approach*<br>
-iPhone SDK 3.1.2 will be used to perform the testing and debugging on the application<br>
+iPhone SDK 3.1.2 will be used to perform the testing and debugging on the application <br><br>
  
 *Testing Plan*<br>
-Version Descriptions<br>
+*Version Descriptions*<br>
 •	Version 1: Basic elements including menus and mini games<br>
 •	Version 2: Implementation of online components including online statistic and graphs<br>
 •	Version 3: Full release with all necessary documents<br>
@@ -46,10 +46,14 @@ Recording the number of lines of code and creating a localizable strings file. <
 •	Excel:<br>
 Used to graph data gathered by Xcode Assistant<br>
 
-*Unit Testing*
-OCunit will be our main software tool to perform automatic unit testing. Since the code of Version 1 will be the base that we build the later version from. As code is being added we will be adding test cases. When a test fails it will be easier to find the location and cause of the bug.
+*Unit Testing* <br>
+OCunit will be our main software tool to perform automatic unit testing. Since the code of Version 1 will be the base that we build the later version from. As code is being added we will be adding test cases. When a test fails it will be easier to find the location and cause of the bug. <br>
+Our test cases will be generated based on these guidelines:<br>
+•	Test with correct parameters and boundary conditions. If the parameters maximum possible value is 10 and minimum is 1, 1 and 10 should be accepted<br>
+•	Test with incorrect parameters (negative test). Incorrect parameters shouldn’t be accepted<br>
 
-*Integration Testing*
+
+*Integration Testing*<br>
 Top Down testing was chosen for the integration testing of the application. It is an incremental testing strategy in which starting by testing only the user interface, with the underlying functionality simulated by subsystem, and then test downwards, integrating lower and lower layers. The Advantage of this testing strategy is that, it can detect a problem or error easily because it is easy to visualize problem functionality and able to show the progress of development.
 The following are some example test cases:<br>
 Menu system<br>
