@@ -20,7 +20,7 @@ Version Descriptions<br>
 •	Version 3: Full release with all necessary documents<br>
 
 *Internal testing dates*<br>
-||Version	Testing || Date	Deadline||
+||Version||	Testing Date ||	Deadline||
 ||1	||March 10, 2010	||March 15, 2010<br>||
 ||2	||March 24, 2010	||March 29, 2010<br>||
 ||3	||April 7, 2010	||April 19, 2010<br>||
