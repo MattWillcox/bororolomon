@@ -26,7 +26,7 @@
 
 1.6 Commenting:<br>
     The GNU Coding Standards were written by Richard Stallman and other GNU Project volunteers. Their purpose is to make the GNU system clean, consistent, and easy to install.  We chose this type of commenting because of its extent of usage amongst GNU developers. It can be found at the following:
-http://www.gnu.org/prep/standards/standards.html#Comments
+    http://www.gnu.org/prep/standards/standards.html#Comments
  
 
 1.7 Device programming language <br>
@@ -115,10 +115,10 @@ http://bororolomon.googlecode.com/files/Process%20model%20-%20Website.png
     The online updating system would also be functional, but more polishing is needed.
 
 Links to main features:<br>
-•	ProfileStatistics<br>
+    •	ProfileStatistics<br>
     •	GraphCreation<br>
-•	RecordHistory<br>
-•	AutoDifficultyScale<br>
+    •	RecordHistory<br>
+    •	AutoDifficultyScale<br>
 
 4.3.3 Version 3:
     The program will be fully functional, and all interfaces will be altered to appeal to Grade 2/3 students. The graphs, game images, and buttons would all be adjusted for Grade 2/3 students to use, and all games would be balanced to fit the correct math levels.
