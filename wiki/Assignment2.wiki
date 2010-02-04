@@ -1,2 +1,3 @@
 [http://code.google.com/p/bororolomon/wiki/Requirements Requirements Document]<br>
+[http://code.google.com/p/bororolomon/wiki/PageName Design Document]<br>
 [http://code.google.com/p/bororolomon/wiki/QualityAssurancePlan	Quality Assurance Plan]<br>
