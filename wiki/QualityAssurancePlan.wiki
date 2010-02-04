@@ -20,10 +20,10 @@ Version Descriptions<br>
 •	Version 3: Full release with all necessary documents<br>
 
 *Internal testing dates*<br>
-Version	Testing Date	Deadline
-1	March 10, 2010	March 15, 2010<br>
-2	March 24, 2010	March 29, 2010<br>
-3	April 7, 2010	April 19, 2010<br>
+||Version	Testing || Date	Deadline||
+||1	||March 10, 2010	||March 15, 2010<br>||
+||2	||March 24, 2010	||March 29, 2010<br>||
+||3	||April 7, 2010	||April 19, 2010<br>||
 
 *Testing features*	<br>
 Sequence of tests on the three main features<br>
@@ -98,4 +98,3 @@ Online update System	<br>
 18)	After selecting “View Leader Board”, an online ranking board will be displayed and shows the sorted list of all registered players in declining order up to rank 100. (There will be 100 default player’s score with score “zero” in order to test the ability to sorting the updated score)<br>
 19)	After checking that all data is correct on this page, we will ask the user to select “Back”<br>
 20)	Up to this point, all features in the application will be tested.<br>
-
