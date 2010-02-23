@@ -102,7 +102,7 @@
 
     Links to the main features include:<br>
     •	[http://code.google.com/p/bororolomon/wiki/MenuSystem Main Menu]<br>
-    •	[http://code.google.com/p/bororolomon/wiki/LeaderBoard Random game chooser component]<br>
+    •	[http://code.google.com/p/bororolomon/wiki/RandomGame Random game chooser component]<br>
     •	[http://code.google.com/p/bororolomon/wiki/MiniGames MiniGames]<br>
     •	[http://code.google.com/p/bororolomon/wiki/DifficultySelect Difficulty selection system]<br>
 
