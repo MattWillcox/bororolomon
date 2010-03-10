@@ -28,6 +28,6 @@ _Equation Game_
 
 Purpose: to help students enhance basic arithmetic skills
 
-·       Type 1. Each question will show basic math questions in addition, subtraction, multiplication and division. For example, 4+5=? or 6*2=?
+·       Type 1. Each question will show basic math questions in addition, subtraction, multiplication and division. For example, 4+5=? or 6x2=?
 
-·       Type 2. Each question will have blank to fill up with arithmetic signs such as +, -, * or /. For example, 4 _ 5=9 or 6 _ 3 = 2
+·       Type 2. Each question will have blank to fill up with arithmetic signs such as +, -, x or /. For example, 4 _ 5=9 or 6 _ 3 = 2
