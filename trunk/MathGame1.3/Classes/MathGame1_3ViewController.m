@@ -14,52 +14,91 @@
 @synthesize B;
 @synthesize C;
 
--(IBAction)addScore:(id)sender
-{
-	NSString *totalScore = score.text;
-	int totalScoreValue = [totalScore intValue] + 1;
-	score = totalScoreValue;
-}
-
 
 -(IBAction)createQuesion:(id)sender
 {
-	int a = 1 + arc4random() % 9;
-	int b = 1 + arc4random() % 9;
-	A.text = [NSString stringWithFormat:@"%d\t", a];
-	B.text = [NSString stringWithFormat:@"%d\t", b];
-	C.text = [NSString stringWithFormat:@"%d\t", a + b];
+	int s  = 1 + arc4random() % 4;
 	
+	if(s = 1)
+	{
+	int number1 = 1 + arc4random() % 9;
+	int number2 = 1 + arc4random() % 9;
+	A.text = [NSString stringWithFormat:@"%d\t", number1];
+	B.text = [NSString stringWithFormat:@"%d\t", number2];
+	C.text = [NSString stringWithFormat:@"%d\t", number1 + number2];
+	}
+	
+	if(s = 2)
+	{
+	int number1 = 1 + arc4random() % 9;
+	int number2 = 1 + arc4random() % 9;
+	A.text = [NSString stringWithFormat:@"%d\t", number1];
+	B.text = [NSString stringWithFormat:@"%d\t", number2];
+	C.text = [NSString stringWithFormat:@"%d\t", number1 - number2];
+	}
+	
+	if(s = 3)
+	{
+		int number1 = 1 + arc4random() % 9;
+		int number2 = 1 + arc4random() % 9;
+		A.text = [NSString stringWithFormat:@"%d\t", number1];
+		B.text = [NSString stringWithFormat:@"%d\t", number2];
+		C.text = [NSString stringWithFormat:@"%d\t", number1 * number2];
+	}
+	
+	if(s = 4)
+	{
+		int number1 = 1 + arc4random() % 9;
+		int number2 = 1 + arc4random() % 9;
+		int number3 = number1 * number2;
+		A.text = [NSString stringWithFormat:@"%d\t", number3];
+		B.text = [NSString stringWithFormat:@"%d\t", number2];
+		C.text = [NSString stringWithFormat:@"%d\t", number1];
+	}
 }
+
 
 -(IBAction)addition:(id)sender
 {
-	NSString *s = @"+";
-	[text1 setText:(s)];
-	int n = 100; 
-	score.text = [NSString stringWithFormat:@"%i", n];
+	if(true)
+	{
+		NSString *totalScore = score.text;
+		int totalScoreValue = [totalScore intValue];
+		score.text = [NSString stringWithFormat:@"%d\t", totalScoreValue + 100];
+	}
 } 
 
 -(IBAction)subtraction:(id)sender
 {
-	NSString *s = @"-";
-	[text1 setText:(s)];
-	if ([operand isEqualToString:s] ) score++;
+	if(true)
+	{
+	NSString *totalScore = score.text;
+	int totalScoreValue = [totalScore intValue];
+	score.text = [NSString stringWithFormat:@"%d\t", totalScoreValue + 100];
+	}
 } 
 
 -(IBAction)multiplication:(id)sender
 {
-	NSString *s = @"x";
-	[text1 setText:(s)];
-	if ([operand isEqualToString:s] ) score++;
+	if(true)
+	{
+	NSString *totalScore = score.text;
+	int totalScoreValue = [totalScore intValue];
+	score.text = [NSString stringWithFormat:@"%d\t", totalScoreValue + 100];
+	}
 } 
 
 -(IBAction)division:(id)sender
 {
-	NSString *s = @"/";
-	[text1 setText:(s)];
-	if ([operand isEqualToString:s] ) score++;
+	if(true)
+	{
+	NSString *totalScore = score.text;
+	int totalScoreValue = [totalScore intValue];
+	score.text = [NSString stringWithFormat:@"%d\t", totalScoreValue + 100];
+	}
 } 
+
+
 
 //-(void)alertView:(UIAlertView*)
 
@@ -98,6 +137,8 @@
     return (interfaceOrientation == UIInterfaceOrientationLandscapeRight);
 }
 
+@end
+
 /*
 
 - (void)didReceiveMemoryWarning {
@@ -118,4 +159,3 @@
 }
 */
 
-@end

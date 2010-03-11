@@ -9,7 +9,6 @@
 #import <UIKit/UIKit.h>
 
 @interface MathGame1_3ViewController : UIViewController {
-	IBOutlet UITextField *text1;
 	IBOutlet UIButton *button1;
 	IBOutlet UIButton *button2;
 	IBOutlet UIButton *button3;
@@ -18,15 +17,14 @@
 	IBOutlet UILabel *A;
 	IBOutlet UILabel *B;
 	IBOutlet UILabel *C;
-	NSString *operand;
-	
 }
+
 @property (nonatomic,retain) UILabel *score;
 @property (nonatomic,retain) UILabel *A;
 @property (nonatomic,retain) UILabel *B;
 @property (nonatomic,retain) UILabel *C;
 
--(IBAction)updateScore:(id)sender;
+
 -(IBAction)createQuesion:(id)sender;
 -(IBAction)addition:(id)sender;
 -(IBAction)subtraction:(id)sender;

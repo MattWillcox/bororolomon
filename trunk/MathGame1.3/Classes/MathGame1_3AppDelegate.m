@@ -21,6 +21,7 @@
     [window addSubview:viewController.view];
     [window makeKeyAndVisible];
 	[[UIDevice currentDevice] setOrientation:UIInterfaceOrientationLandscapeRight];
+	
 }
 
 
