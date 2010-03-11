@@ -27,6 +27,7 @@
 @property (nonatomic,retain) UILabel *C;
 
 -(IBAction)updateScore:(id)sender;
+-(IBAction)createQuesion:(id)sender;
 -(IBAction)addition:(id)sender;
 -(IBAction)subtraction:(id)sender;
 -(IBAction)multiplication:(id)sender;

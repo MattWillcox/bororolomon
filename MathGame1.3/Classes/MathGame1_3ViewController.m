@@ -24,7 +24,12 @@
 
 -(IBAction)createQuesion:(id)sender
 {
-	A.text = [NSString stringWithFormat:@"%d\t", 1 + arc4random() % 9];
+	int a = 1 + arc4random() % 9;
+	int b = 1 + arc4random() % 9;
+	A.text = [NSString stringWithFormat:@"%d\t", a];
+	B.text = [NSString stringWithFormat:@"%d\t", b];
+	C.text = [NSString stringWithFormat:@"%d\t", a + b];
+	
 }
 
 -(IBAction)addition:(id)sender
@@ -33,11 +38,6 @@
 	[text1 setText:(s)];
 	int n = 100; 
 	score.text = [NSString stringWithFormat:@"%i", n];
-	int a = 1 + arc4random() % 9;
-	int b = 1 + arc4random() % 9;
-	A.text = [NSString stringWithFormat:@"%d\t", a];
-	B.text = [NSString stringWithFormat:@"%d\t", b];
-	C.text = [NSString stringWithFormat:@"%d\t", a + b];
 } 
 
 -(IBAction)subtraction:(id)sender
