@@ -15,10 +15,16 @@
 	IBOutlet UIButton *button3;
 	IBOutlet UIButton *button4;
 	IBOutlet UILabel *score;
-	
+	IBOutlet UILabel *A;
+	IBOutlet UILabel *B;
+	IBOutlet UILabel *C;
+	NSString *operand;
 	
 }
 @property (nonatomic,retain) UILabel *score;
+@property (nonatomic,retain) UILabel *A;
+@property (nonatomic,retain) UILabel *B;
+@property (nonatomic,retain) UILabel *C;
 
 -(IBAction)updateScore:(id)sender;
 -(IBAction)addition:(id)sender;

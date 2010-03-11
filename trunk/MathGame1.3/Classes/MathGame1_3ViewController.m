@@ -10,39 +10,55 @@
 
 @implementation MathGame1_3ViewController
 @synthesize score;
+@synthesize A;
+@synthesize B;
+@synthesize C;
 
 -(IBAction)addScore:(id)sender
 {
 	NSString *totalScore = score.text;
-	int totalScoreValue = [totalScore intValue];
+	int totalScoreValue = [totalScore intValue] + 1;
+	score = totalScoreValue;
 }
+
 
 -(IBAction)createQuesion:(id)sender
 {
+	A.text = [NSString stringWithFormat:@"%d\t", 1 + arc4random() % 9];
 }
 
 -(IBAction)addition:(id)sender
 {
 	NSString *s = @"+";
 	[text1 setText:(s)];
+	int n = 100; 
+	score.text = [NSString stringWithFormat:@"%i", n];
+	int a = 1 + arc4random() % 9;
+	int b = 1 + arc4random() % 9;
+	A.text = [NSString stringWithFormat:@"%d\t", a];
+	B.text = [NSString stringWithFormat:@"%d\t", b];
+	C.text = [NSString stringWithFormat:@"%d\t", a + b];
 } 
 
 -(IBAction)subtraction:(id)sender
 {
 	NSString *s = @"-";
-	[text1 setText:(s)];	
+	[text1 setText:(s)];
+	if ([operand isEqualToString:s] ) score++;
 } 
 
 -(IBAction)multiplication:(id)sender
 {
 	NSString *s = @"x";
-	[text1 setText:(s)];	
+	[text1 setText:(s)];
+	if ([operand isEqualToString:s] ) score++;
 } 
 
 -(IBAction)division:(id)sender
 {
 	NSString *s = @"/";
-	[text1 setText:(s)];	
+	[text1 setText:(s)];
+	if ([operand isEqualToString:s] ) score++;
 } 
 
 //-(void)alertView:(UIAlertView*)
@@ -74,13 +90,15 @@
 */
 
 
-/*
+
 // Override to allow orientations other than the default portrait orientation.
-- (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation {
+- (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation 
+{
     // Return YES for supported orientations
-    return (interfaceOrientation == UIInterfaceOrientationPortrait);
+    return (interfaceOrientation == UIInterfaceOrientationLandscapeRight);
 }
 
+/*
 
 - (void)didReceiveMemoryWarning {
 	// Releases the view if it doesn't have a superview.
