@@ -1,289 +1,0 @@
-TEquation_Game
-v7
-r0
-t290082811.161212
-cCheck dependencies
-cProcessInfoPlistFile /Users/eimantorabi/Documents/Equation_Game/build/Release-iphonesimulator/Equation_Game.app/Info.plist Equation_Game-Info.plist
-cCompileXIB /Users/eimantorabi/Documents/Equation_Game/MainWindow.xib
-cCompileXIB /Users/eimantorabi/Documents/Equation_Game/Equation_GameViewController.xib
-cProcessPCH /var/folders/wG/wGXVeMlFFWq9DplZeNPVJU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Equation_Game_Prefix-gvnqfheyiejnrhejqwmwknteprkq/Equation_Game_Prefix.pch.gch Equation_Game_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Equation_Game.build/Release-iphonesimulator/Equation_Game.build/Objects-normal/i386/main.o /Users/eimantorabi/Documents/Equation_Game/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Equation_Game.build/Release-iphonesimulator/Equation_Game.build/Objects-normal/i386/Equation_GameAppDelegate.o /Users/eimantorabi/Documents/Equation_Game/Classes/Equation_GameAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Equation_Game.build/Release-iphonesimulator/Equation_Game.build/Objects-normal/i386/Equation_GameViewController.o /Users/eimantorabi/Documents/Equation_Game/Classes/Equation_GameViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Equation_Game.build/Release-iphonesimulator/Equation_Game.build/Objects-normal/i386/CheckAnswer.o /Users/eimantorabi/Documents/Equation_Game/Classes/CheckAnswer.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cLd /Users/eimantorabi/Documents/Equation_Game/build/Release-iphonesimulator/Equation_Game.app/Equation_Game normal i386
-cGenerateDSYMFile /Users/eimantorabi/Documents/Equation_Game/build/Release-iphonesimulator/Equation_Game.app.dSYM /Users/eimantorabi/Documents/Equation_Game/build/Release-iphonesimulator/Equation_Game.app/Equation_Game
-cTouch /Users/eimantorabi/Documents/Equation_Game/build/Release-iphonesimulator/Equation_Game.app
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk
-c000000004B5775E100000000000000EE
-t1264023009
-s238
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c000000004ABDC853000000000026EE30
-t1253951571
-s2551344
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c000000004ABDC952000000000027E880
-t1253951826
-s2615424
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
-c000000004ABDC93F0000000000001355
-t1253951807
-s4949
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
-c000000004ABDEE1D0000000000000788
-t1253961245
-s1928
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c000000004ABDEEE200000000016721E0
-t1253961442
-s23536096
-
-N/Users/eimantorabi/Documents/Equation_Game/Classes/CheckAnswer.h
-c000000004B920C040000000000000135
-t1267862532
-s309
-i<UIKit/UIKit.h>
-
-N/Users/eimantorabi/Documents/Equation_Game/Classes/CheckAnswer.m
-c000000004B920D620000000000000137
-t1267862882
-s311
-i"CheckAnswer.h"
-
-N/Users/eimantorabi/Documents/Equation_Game/Classes/Equation_GameAppDelegate.h
-c000000004B9201450000000000000204
-t1267859781
-s516
-i<UIKit/UIKit.h>
-
-N/Users/eimantorabi/Documents/Equation_Game/Classes/Equation_GameAppDelegate.m
-c000000004B981CAB000000000000028B
-t1268260011
-s651
-i"Equation_GameAppDelegate.h"
-i"Equation_GameViewController.h"
-
-N/Users/eimantorabi/Documents/Equation_Game/Classes/Equation_GameViewController.h
-c000000004B982DE100000000000002C5
-t1268264417
-s709
-i<UIKit/UIKit.h>
-i"CheckAnswer.h"
-
-N/Users/eimantorabi/Documents/Equation_Game/Classes/Equation_GameViewController.m
-c000000004B9A187A0000000000000FD8
-t1268390010
-s4056
-i"Equation_GameViewController.h"
-
-N/Users/eimantorabi/Documents/Equation_Game/Equation_GameViewController.xib
-c000000004B98318500000000000088E1
-t1268265349
-s35041
-
-N/Users/eimantorabi/Documents/Equation_Game/Equation_Game_Prefix.pch
-c000000004B92014500000000000000C3
-t1267859781
-s195
-i<Foundation/Foundation.h>
-i<UIKit/UIKit.h>
-
-N/Users/eimantorabi/Documents/Equation_Game/MainWindow.xib
-c000000004B9201450000000000002490
-t1267859781
-s9360
-
-N/Users/eimantorabi/Documents/Equation_Game/build/Equation_Game.build/Release-iphonesimulator/Equation_Game.build/Objects-normal/i386/CheckAnswer.o
-t1267862995
-s7756
-
-N/Users/eimantorabi/Documents/Equation_Game/build/Equation_Game.build/Release-iphonesimulator/Equation_Game.build/Objects-normal/i386/Equation_Game.LinkFileList
-c000000004B920DD20000000000000262
-t1267862994
-s610
-
-N/Users/eimantorabi/Documents/Equation_Game/build/Equation_Game.build/Release-iphonesimulator/Equation_Game.build/Objects-normal/i386/Equation_GameAppDelegate.o
-t1268264423
-s38324
-
-N/Users/eimantorabi/Documents/Equation_Game/build/Equation_Game.build/Release-iphonesimulator/Equation_Game.build/Objects-normal/i386/Equation_GameViewController.o
-t1268390011
-s35796
-
-N/Users/eimantorabi/Documents/Equation_Game/build/Equation_Game.build/Release-iphonesimulator/Equation_Game.build/Objects-normal/i386/main.o
-t1267862995
-s5944
-
-N/Users/eimantorabi/Documents/Equation_Game/build/Release-iphonesimulator/Equation_Game.app
-t1268390011
-s238
-
-N/Users/eimantorabi/Documents/Equation_Game/build/Release-iphonesimulator/Equation_Game.app.dSYM
-t1268390011
-s102
-
-N/Users/eimantorabi/Documents/Equation_Game/build/Release-iphonesimulator/Equation_Game.app/Equation_Game
-t1268390011
-s21692
-
-N/Users/eimantorabi/Documents/Equation_Game/build/Release-iphonesimulator/Equation_Game.app/Equation_GameViewController.nib
-t1268265424
-s5144
-
-N/Users/eimantorabi/Documents/Equation_Game/build/Release-iphonesimulator/Equation_Game.app/Info.plist
-t1268260011
-s660
-
-N/Users/eimantorabi/Documents/Equation_Game/build/Release-iphonesimulator/Equation_Game.app/MainWindow.nib
-t1267862994
-s1507
-
-N/Users/eimantorabi/Documents/Equation_Game/build/Release-iphonesimulator/Equation_Game.app/PkgInfo
-t1268260011
-s8
-
-N/Users/eimantorabi/Documents/Equation_Game/main.m
-c000000004B9201450000000000000170
-t1267859781
-s368
-i<UIKit/UIKit.h>
-
-N/var/folders/wG/wGXVeMlFFWq9DplZeNPVJU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Equation_Game_Prefix-gvnqfheyiejnrhejqwmwknteprkq/Equation_Game_Prefix.pch.gch
-t1267862995
-s12740048
-
-NEquation_Game-Info.plist
-c000000004B981BEF00000000000003E7
-t1268259823
-s999
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies290082810#290082810#0(0"0(0#1#0"4300885448#0"0#
-
-CCompileC build/Equation_Game.build/Release-iphonesimulator/Equation_Game.build/Objects-normal/i386/CheckAnswer.o /Users/eimantorabi/Documents/Equation_Game/Classes/CheckAnswer.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s289555795.322263
-e289555795.392942
-r1
-xCompileC
-xbuild/Equation_Game.build/Release-iphonesimulator/Equation_Game.build/Objects-normal/i386/CheckAnswer.o
-x/Users/eimantorabi/Documents/Equation_Game/Classes/CheckAnswer.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@72"Compile /Users/eimantorabi/Documents/Equation_Game/Classes/CheckAnswer.m289555795#289555795#0(0"0(0#0#64"/Users/eimantorabi/Documents/Equation_Game/Classes/CheckAnswer.m4300885448#2080"    cd /Users/eimantorabi/Documents/Equation_Game    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/eimantorabi/Documents/Equation_Game/build/Equation_Game.build/Release-iphonesimulator/Equation_Game.build/Equation_Game-generated-files.hmap -I/Users/eimantorabi/Documents/Equation_Game/build/Equation_Game.build/Release-iphonesimulator/Equation_Game.build/Equation_Game-own-target-headers.hmap -I/Users/eimantorabi/Documents/Equation_Game/build/Equation_Game.build/Release-iphonesimulator/Equation_Game.build/Equation_Game-all-target-headers.hmap -iquote /Users/eimantorabi/Documents/Equation_Game/build/Equation_Game.build/Release-iphonesimulator/Equation_Game.build/Equation_Game-project-headers.hmap -F/Users/eimantorabi/Documents/Equation_Game/build/Release-iphonesimulator -I/Users/eimantorabi/Documents/Equation_Game/build/Release-iphonesimulator/include -I/Users/eimantorabi/Documents/Equation_Game/build/Equation_Game.build/Release-iphonesimulator/Equation_Game.build/DerivedSources/i386 -I/Users/eimantorabi/Documents/Equation_Game/build/Equation_Game.build/Release-iphonesimulator/Equation_Game.build/DerivedSources -include /var/folders/wG/wGXVeMlFFWq9DplZeNPVJU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Equation_Game_Prefix-gvnqfheyiejnrhejqwmwknteprkq/Equation_Game_Prefix.pch -c /Users/eimantorabi/Documents/Equation_Game/Classes/CheckAnswer.m -o /Users/eimantorabi/Documents/Equation_Game/build/Equation_Game.build/Release-iphonesimulator/Equation_Game.build/Objects-normal/i386/CheckAnswer.o0#
-
-CCompileC build/Equation_Game.build/Release-iphonesimulator/Equation_Game.build/Objects-normal/i386/Equation_GameAppDelegate.o /Users/eimantorabi/Documents/Equation_Game/Classes/Equation_GameAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s289957223.270687
-e289957223.386970
-r1
-xCompileC
-xbuild/Equation_Game.build/Release-iphonesimulator/Equation_Game.build/Objects-normal/i386/Equation_GameAppDelegate.o
-x/Users/eimantorabi/Documents/Equation_Game/Classes/Equation_GameAppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@85"Compile /Users/eimantorabi/Documents/Equation_Game/Classes/Equation_GameAppDelegate.m289957223#289957223#0(0"0(0#0#77"/Users/eimantorabi/Documents/Equation_Game/Classes/Equation_GameAppDelegate.m4300885448#2106"    cd /Users/eimantorabi/Documents/Equation_Game    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/eimantorabi/Documents/Equation_Game/build/Equation_Game.build/Release-iphonesimulator/Equation_Game.build/Equation_Game-generated-files.hmap -I/Users/eimantorabi/Documents/Equation_Game/build/Equation_Game.build/Release-iphonesimulator/Equation_Game.build/Equation_Game-own-target-headers.hmap -I/Users/eimantorabi/Documents/Equation_Game/build/Equation_Game.build/Release-iphonesimulator/Equation_Game.build/Equation_Game-all-target-headers.hmap -iquote /Users/eimantorabi/Documents/Equation_Game/build/Equation_Game.build/Release-iphonesimulator/Equation_Game.build/Equation_Game-project-headers.hmap -F/Users/eimantorabi/Documents/Equation_Game/build/Release-iphonesimulator -I/Users/eimantorabi/Documents/Equation_Game/build/Release-iphonesimulator/include -I/Users/eimantorabi/Documents/Equation_Game/build/Equation_Game.build/Release-iphonesimulator/Equation_Game.build/DerivedSources/i386 -I/Users/eimantorabi/Documents/Equation_Game/build/Equation_Game.build/Release-iphonesimulator/Equation_Game.build/DerivedSources -include /var/folders/wG/wGXVeMlFFWq9DplZeNPVJU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Equation_Game_Prefix-gvnqfheyiejnrhejqwmwknteprkq/Equation_Game_Prefix.pch -c /Users/eimantorabi/Documents/Equation_Game/Classes/Equation_GameAppDelegate.m -o /Users/eimantorabi/Documents/Equation_Game/build/Equation_Game.build/Release-iphonesimulator/Equation_Game.build/Objects-normal/i386/Equation_GameAppDelegate.o0#
-
-CCompileC build/Equation_Game.build/Release-iphonesimulator/Equation_Game.build/Objects-normal/i386/Equation_GameViewController.o /Users/eimantorabi/Documents/Equation_Game/Classes/Equation_GameViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s290082810.815802
-e290082811.120821
-r1
-xCompileC
-xbuild/Equation_Game.build/Release-iphonesimulator/Equation_Game.build/Objects-normal/i386/Equation_GameViewController.o
-x/Users/eimantorabi/Documents/Equation_Game/Classes/Equation_GameViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-o/Users/eimantorabi/Documents/Equation_Game/Classes/Equation_GameViewController.m: In function '-[Equation_GameViewController FirstButton:]':
-o/Users/eimantorabi/Documents/Equation_Game/Classes/Equation_GameViewController.m:64: warning: unused variable 'button'
-lSLF07#2@88"Compile /Users/eimantorabi/Documents/Equation_Game/Classes/Equation_GameViewController.m290082810#290082811#0(260"/Users/eimantorabi/Documents/Equation_Game/Classes/Equation_GameViewController.m: In function '-[Equation_GameViewController FirstButton:]':/Users/eimantorabi/Documents/Equation_Game/Classes/Equation_GameViewController.m:64: warning: unused variable 'button'1(22@24"Unused variable 'button'290082811#141#119#0(6@80"/Users/eimantorabi/Documents/Equation_Game/Classes/Equation_GameViewController.m290082810#64#0#64#0#19"unused variable '*'0(0#0#80"/Users/eimantorabi/Documents/Equation_Game/Classes/Equation_GameViewController.m4300885448#2112"    cd /Users/eimantorabi/Documents/Equation_Game    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/eimantorabi/Documents/Equation_Game/build/Equation_Game.build/Release-iphonesimulator/Equation_Game.build/Equation_Game-generated-files.hmap -I/Users/eimantorabi/Documents/Equation_Game/build/Equation_Game.build/Release-iphonesimulator/Equation_Game.build/Equation_Game-own-target-headers.hmap -I/Users/eimantorabi/Documents/Equation_Game/build/Equation_Game.build/Release-iphonesimulator/Equation_Game.build/Equation_Game-all-target-headers.hmap -iquote /Users/eimantorabi/Documents/Equation_Game/build/Equation_Game.build/Release-iphonesimulator/Equation_Game.build/Equation_Game-project-headers.hmap -F/Users/eimantorabi/Documents/Equation_Game/build/Release-iphonesimulator -I/Users/eimantorabi/Documents/Equation_Game/build/Release-iphonesimulator/include -I/Users/eimantorabi/Documents/Equation_Game/build/Equation_Game.build/Release-iphonesimulator/Equation_Game.build/DerivedSources/i386 -I/Users/eimantorabi/Documents/Equation_Game/build/Equation_Game.build/Release-iphonesimulator/Equation_Game.build/DerivedSources -include /var/folders/wG/wGXVeMlFFWq9DplZeNPVJU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Equation_Game_Prefix-gvnqfheyiejnrhejqwmwknteprkq/Equation_Game_Prefix.pch -c /Users/eimantorabi/Documents/Equation_Game/Classes/Equation_GameViewController.m -o /Users/eimantorabi/Documents/Equation_Game/build/Equation_Game.build/Release-iphonesimulator/Equation_Game.build/Objects-normal/i386/Equation_GameViewController.o0#
-
-CCompileC build/Equation_Game.build/Release-iphonesimulator/Equation_Game.build/Objects-normal/i386/main.o /Users/eimantorabi/Documents/Equation_Game/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s289555795.244754
-e289555795.322138
-r1
-xCompileC
-xbuild/Equation_Game.build/Release-iphonesimulator/Equation_Game.build/Objects-normal/i386/main.o
-x/Users/eimantorabi/Documents/Equation_Game/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@57"Compile /Users/eimantorabi/Documents/Equation_Game/main.m289555795#289555795#0(0"0(0#0#49"/Users/eimantorabi/Documents/Equation_Game/main.m4300885448#2058"    cd /Users/eimantorabi/Documents/Equation_Game    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/eimantorabi/Documents/Equation_Game/build/Equation_Game.build/Release-iphonesimulator/Equation_Game.build/Equation_Game-generated-files.hmap -I/Users/eimantorabi/Documents/Equation_Game/build/Equation_Game.build/Release-iphonesimulator/Equation_Game.build/Equation_Game-own-target-headers.hmap -I/Users/eimantorabi/Documents/Equation_Game/build/Equation_Game.build/Release-iphonesimulator/Equation_Game.build/Equation_Game-all-target-headers.hmap -iquote /Users/eimantorabi/Documents/Equation_Game/build/Equation_Game.build/Release-iphonesimulator/Equation_Game.build/Equation_Game-project-headers.hmap -F/Users/eimantorabi/Documents/Equation_Game/build/Release-iphonesimulator -I/Users/eimantorabi/Documents/Equation_Game/build/Release-iphonesimulator/include -I/Users/eimantorabi/Documents/Equation_Game/build/Equation_Game.build/Release-iphonesimulator/Equation_Game.build/DerivedSources/i386 -I/Users/eimantorabi/Documents/Equation_Game/build/Equation_Game.build/Release-iphonesimulator/Equation_Game.build/DerivedSources -include /var/folders/wG/wGXVeMlFFWq9DplZeNPVJU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Equation_Game_Prefix-gvnqfheyiejnrhejqwmwknteprkq/Equation_Game_Prefix.pch -c /Users/eimantorabi/Documents/Equation_Game/main.m -o /Users/eimantorabi/Documents/Equation_Game/build/Equation_Game.build/Release-iphonesimulator/Equation_Game.build/Objects-normal/i386/main.o0#
-
-CCompileXIB /Users/eimantorabi/Documents/Equation_Game/Equation_GameViewController.xib
-s289958224.293337
-e289958224.785805
-r1
-xCompileXIB
-x/Users/eimantorabi/Documents/Equation_Game/Equation_GameViewController.xib
-lSLF07#2@42"CompileXIB Equation_GameViewController.xib289958224#289958224#0(0"0(0#0#74"/Users/eimantorabi/Documents/Equation_Game/Equation_GameViewController.xib4300885448#536"    cd /Users/eimantorabi/Documents/Equation_Game    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/eimantorabi/Documents/Equation_Game/build/Release-iphonesimulator/Equation_Game.app/Equation_GameViewController.nib /Users/eimantorabi/Documents/Equation_Game/Equation_GameViewController.xib0#
-
-CCompileXIB /Users/eimantorabi/Documents/Equation_Game/MainWindow.xib
-s289555794.058419
-e289555794.407386
-r1
-xCompileXIB
-x/Users/eimantorabi/Documents/Equation_Game/MainWindow.xib
-lSLF07#2@25"CompileXIB MainWindow.xib289555794#289555794#0(0"0(0#0#57"/Users/eimantorabi/Documents/Equation_Game/MainWindow.xib4300885448#502"    cd /Users/eimantorabi/Documents/Equation_Game    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/eimantorabi/Documents/Equation_Game/build/Release-iphonesimulator/Equation_Game.app/MainWindow.nib /Users/eimantorabi/Documents/Equation_Game/MainWindow.xib0#
-
-CGenerateDSYMFile /Users/eimantorabi/Documents/Equation_Game/build/Release-iphonesimulator/Equation_Game.app.dSYM /Users/eimantorabi/Documents/Equation_Game/build/Release-iphonesimulator/Equation_Game.app/Equation_Game
-s290082811.143067
-e290082811.158272
-r1
-xGenerateDSYMFile
-x/Users/eimantorabi/Documents/Equation_Game/build/Release-iphonesimulator/Equation_Game.app.dSYM
-x/Users/eimantorabi/Documents/Equation_Game/build/Release-iphonesimulator/Equation_Game.app/Equation_Game
-lSLF07#2@131"GenerateDSYMFile build/Release-iphonesimulator/Equation_Game.app.dSYM build/Release-iphonesimulator/Equation_Game.app/Equation_Game290082811#290082811#0(0"0(0#0#104"/Users/eimantorabi/Documents/Equation_Game/build/Release-iphonesimulator/Equation_Game.app/Equation_Game4300885448#417"    cd /Users/eimantorabi/Documents/Equation_Game    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/eimantorabi/Documents/Equation_Game/build/Release-iphonesimulator/Equation_Game.app/Equation_Game -o /Users/eimantorabi/Documents/Equation_Game/build/Release-iphonesimulator/Equation_Game.app.dSYM0#
-
-CLd /Users/eimantorabi/Documents/Equation_Game/build/Release-iphonesimulator/Equation_Game.app/Equation_Game normal i386
-s290082811.120938
-e290082811.142950
-r1
-xLd
-x/Users/eimantorabi/Documents/Equation_Game/build/Release-iphonesimulator/Equation_Game.app/Equation_Game
-xnormal
-xi386
-lSLF07#2@109"Link /Users/eimantorabi/Documents/Equation_Game/build/Release-iphonesimulator/Equation_Game.app/Equation_Game290082811#290082811#0(0"0(0#0#0"4300885448#922"    cd /Users/eimantorabi/Documents/Equation_Game    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -L/Users/eimantorabi/Documents/Equation_Game/build/Release-iphonesimulator -F/Users/eimantorabi/Documents/Equation_Game/build/Release-iphonesimulator -filelist /Users/eimantorabi/Documents/Equation_Game/build/Equation_Game.build/Release-iphonesimulator/Equation_Game.build/Objects-normal/i386/Equation_Game.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/eimantorabi/Documents/Equation_Game/build/Release-iphonesimulator/Equation_Game.app/Equation_Game0#
-
-CProcessInfoPlistFile /Users/eimantorabi/Documents/Equation_Game/build/Release-iphonesimulator/Equation_Game.app/Info.plist Equation_Game-Info.plist
-s289952811.398248
-e289952811.409982
-r1
-xProcessInfoPlistFile
-x/Users/eimantorabi/Documents/Equation_Game/build/Release-iphonesimulator/Equation_Game.app/Info.plist
-xEquation_Game-Info.plist
-lSLF07#2@32"Process Equation_Game-Info.plist289952811#289952811#0(0"0(0#0#67"/Users/eimantorabi/Documents/Equation_Game/Equation_Game-Info.plist19985131375558768#513"    cd /Users/eimantorabi/Documents/Equation_Game    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Equation_Game-Info.plist -genpkginfo /Users/eimantorabi/Documents/Equation_Game/build/Release-iphonesimulator/Equation_Game.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/eimantorabi/Documents/Equation_Game/build/Release-iphonesimulator/Equation_Game.app/Info.plist0#
-
-CProcessPCH /var/folders/wG/wGXVeMlFFWq9DplZeNPVJU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Equation_Game_Prefix-gvnqfheyiejnrhejqwmwknteprkq/Equation_Game_Prefix.pch.gch Equation_Game_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-s289555794.500123
-e289555795.244623
-r1
-xProcessPCH
-x/var/folders/wG/wGXVeMlFFWq9DplZeNPVJU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Equation_Game_Prefix-gvnqfheyiejnrhejqwmwknteprkq/Equation_Game_Prefix.pch.gch
-xEquation_Game_Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@35"Precompile Equation_Game_Prefix.pch289555794#289555795#0(0"0(0#0#67"/Users/eimantorabi/Documents/Equation_Game/Equation_Game_Prefix.pch4300885448#1938"    cd /Users/eimantorabi/Documents/Equation_Game    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/eimantorabi/Documents/Equation_Game/build/Equation_Game.build/Release-iphonesimulator/Equation_Game.build/Equation_Game-generated-files.hmap -I/Users/eimantorabi/Documents/Equation_Game/build/Equation_Game.build/Release-iphonesimulator/Equation_Game.build/Equation_Game-own-target-headers.hmap -I/Users/eimantorabi/Documents/Equation_Game/build/Equation_Game.build/Release-iphonesimulator/Equation_Game.build/Equation_Game-all-target-headers.hmap -iquote /Users/eimantorabi/Documents/Equation_Game/build/Equation_Game.build/Release-iphonesimulator/Equation_Game.build/Equation_Game-project-headers.hmap -F/Users/eimantorabi/Documents/Equation_Game/build/Release-iphonesimulator -I/Users/eimantorabi/Documents/Equation_Game/build/Release-iphonesimulator/include -I/Users/eimantorabi/Documents/Equation_Game/build/Equation_Game.build/Release-iphonesimulator/Equation_Game.build/DerivedSources/i386 -I/Users/eimantorabi/Documents/Equation_Game/build/Equation_Game.build/Release-iphonesimulator/Equation_Game.build/DerivedSources -c /Users/eimantorabi/Documents/Equation_Game/Equation_Game_Prefix.pch -o /var/folders/wG/wGXVeMlFFWq9DplZeNPVJU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Equation_Game_Prefix-gvnqfheyiejnrhejqwmwknteprkq/Equation_Game_Prefix.pch.gch0#
-
-CTouch /Users/eimantorabi/Documents/Equation_Game/build/Release-iphonesimulator/Equation_Game.app
-s290082811.158381
-e290082811.161171
-r1
-xTouch
-x/Users/eimantorabi/Documents/Equation_Game/build/Release-iphonesimulator/Equation_Game.app
-lSLF07#2@96"Touch /Users/eimantorabi/Documents/Equation_Game/build/Release-iphonesimulator/Equation_Game.app290082811#290082811#0(0"0(0#0#0"4300885448#294"    cd /Users/eimantorabi/Documents/Equation_Game    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/eimantorabi/Documents/Equation_Game/build/Release-iphonesimulator/Equation_Game.app0#
-
