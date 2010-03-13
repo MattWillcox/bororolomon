@@ -1,0 +1,4 @@
+In file included from /Users/eimantorabi/Documents/Equation_Game/Classes/Equation_GameAppDelegate.m:10:
+/Users/eimantorabi/Documents/Equation_Game/Classes/Equation_GameViewController.h:12: error: expected specifier-qualifier-list before 'CheckAnswer'
+/Users/eimantorabi/Documents/Equation_Game/Classes/Equation_GameAppDelegate.m:41: warning: incomplete implementation of class 'Equation_GameAppDelegate'
+/Users/eimantorabi/Documents/Equation_Game/Classes/Equation_GameAppDelegate.m:41: warning: method definition for '-stopTimer' not found
