@@ -20,9 +20,7 @@
 	IBOutlet UILabel *B;
 	IBOutlet UILabel *C;
 	int timeLeft;
-	int Score;
 	int Answer;
-	int Operand;
 }
 
 @property (nonatomic,retain) UILabel *score;

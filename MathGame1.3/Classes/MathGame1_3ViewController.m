@@ -12,9 +12,8 @@
 
 - (void)viewDidLoad {
 	timeLable.text = @"30";
-	timeLeft = 30;
+	timeLeft = 1000;
 	[super viewDidLoad];
-	Score = 0;
 	
 	int number1 = 1 + arc4random() % 9;
 	int number2 = 1 + arc4random() % 9;
@@ -27,6 +26,9 @@
 				number2 = 1 + arc4random() % 9;
 			}
 			Answer = number1 + number2;
+			A.text = [NSString stringWithFormat:@"%ld", number1];
+			B.text = [NSString stringWithFormat:@"%ld", number2];
+			C.text = [NSString stringWithFormat:@"%ld", Answer];
 			break;
 		case 2:
 			while (number1 < number2) {
@@ -34,23 +36,30 @@
 				number2 = 1 + arc4random() % 9;
 			}
 			Answer = number1 - number2; 
+			A.text = [NSString stringWithFormat:@"%ld", number1];
+			B.text = [NSString stringWithFormat:@"%ld", number2];
+			C.text = [NSString stringWithFormat:@"%ld", Answer];
 			break;
 		case 3:
 			number1 = 2 + arc4random() % 9;
 			number2 = 2 + arc4random() % 9;
 			Answer = number1 * number2;
+			A.text = [NSString stringWithFormat:@"%ld", number1];
+			B.text = [NSString stringWithFormat:@"%ld", number2];
+			C.text = [NSString stringWithFormat:@"%ld", Answer];
 			break;
 		case 4:
 			number1 = 2 + arc4random() % 9;
 			number2 = 2 + arc4random() % 9;
-			number1 = number1 * number2;
+			int number3 = number1 * number2;
 			Answer = number2;
+			A.text = [NSString stringWithFormat:@"%ld", number3];
+			B.text = [NSString stringWithFormat:@"%ld", number1];
+			C.text = [NSString stringWithFormat:@"%ld", Answer];
 			break;
 	}
 	
-	A.text = [NSString stringWithFormat:@"%ld", number1];
-	B.text = [NSString stringWithFormat:@"%ld", number2];
-	C.text = [NSString stringWithFormat:@"%ld", Answer];
+
 	
 
 }
@@ -69,9 +78,14 @@
 
 -(IBAction)addition:(id)sender
 {
-	if(Operand == 1 && timeLeft != 0){
-		Score++;
-		score.text = [NSString stringWithFormat:@"%ld", Score];
+	NSString *Avalue = A.text;
+	int AvalueNumber = [Avalue intValue];
+	NSString *Bvalue = B.text;
+	int BvalueNumber = [Bvalue intValue];
+	if(Answer == AvalueNumber + BvalueNumber  && timeLeft != 0){
+		NSString *totalScore = score.text;
+		int totalScoreNumber = [totalScore intValue];
+		score.text = [NSString stringWithFormat:@"%ld", totalScoreNumber + 100];
 	}
 	
 	int number1 = 1 + arc4random() % 9;
@@ -85,6 +99,9 @@
 				number2 = 1 + arc4random() % 9;
 			}
 			Answer = number1 + number2;
+			A.text = [NSString stringWithFormat:@"%ld", number1];
+			B.text = [NSString stringWithFormat:@"%ld", number2];
+			C.text = [NSString stringWithFormat:@"%ld", Answer];
 			break;
 		case 2:
 			while (number1 < number2 || number1/number2 == 2 || number2/number1 == 2) {
@@ -92,32 +109,42 @@
 				number2 = 1 + arc4random() % 9;
 			}
 			Answer = number1 - number2; 
+			A.text = [NSString stringWithFormat:@"%ld", number1];
+			B.text = [NSString stringWithFormat:@"%ld", number2];
+			C.text = [NSString stringWithFormat:@"%ld", Answer];
 			break;
 		case 3:
 			number1 = 2 + arc4random() % 9;
 			number2 = 2 + arc4random() % 9;
 			Answer = number1 * number2;
+			A.text = [NSString stringWithFormat:@"%ld", number1];
+			B.text = [NSString stringWithFormat:@"%ld", number2];
+			C.text = [NSString stringWithFormat:@"%ld", Answer];
 			break;
 		case 4:
 			number1 = 2 + arc4random() % 9;
 			number2 = 2 + arc4random() % 9;
-			number1 = number1 * number2;
+			int number3 = number1 * number2;
 			Answer = number2;
+			A.text = [NSString stringWithFormat:@"%ld", number3];
+			B.text = [NSString stringWithFormat:@"%ld", number1];
+			C.text = [NSString stringWithFormat:@"%ld", Answer];
 			break;
 	}
-	
-	A.text = [NSString stringWithFormat:@"%ld", number1];
-	B.text = [NSString stringWithFormat:@"%ld", number2];
-	C.text = [NSString stringWithFormat:@"%ld", Answer];
 	
 }
 
 
 -(IBAction)subtraction:(id)sender
 {
-	if(Operand == 2  && timeLeft != 0){
-		Score++;
-		score.text = [NSString stringWithFormat:@"%ld", Score];
+	NSString *Avalue = A.text;
+	int AvalueNumber = [Avalue intValue];
+	NSString *Bvalue = B.text;
+	int BvalueNumber = [Bvalue intValue];
+	if(Answer == AvalueNumber - BvalueNumber  && timeLeft != 0){
+		NSString *totalScore = score.text;
+		int totalScoreNumber = [totalScore intValue];
+		score.text = [NSString stringWithFormat:@"%ld", totalScoreNumber + 100];
 	}
 	
 	int number1 = 1 + arc4random() % 9;
@@ -131,6 +158,9 @@
 				number2 = 1 + arc4random() % 9;
 			}
 			Answer = number1 + number2;
+			A.text = [NSString stringWithFormat:@"%ld", number1];
+			B.text = [NSString stringWithFormat:@"%ld", number2];
+			C.text = [NSString stringWithFormat:@"%ld", Answer];
 			break;
 		case 2:
 			while (number1 < number2 || number1/number2 == 2 || number2/number1 == 2) {
@@ -138,32 +168,44 @@
 				number2 = 1 + arc4random() % 9;
 			}
 			Answer = number1 - number2; 
+			A.text = [NSString stringWithFormat:@"%ld", number1];
+			B.text = [NSString stringWithFormat:@"%ld", number2];
+			C.text = [NSString stringWithFormat:@"%ld", Answer];
 			break;
 		case 3:
 			number1 = 2 + arc4random() % 9;
 			number2 = 2 + arc4random() % 9;
 			Answer = number1 * number2;
+			A.text = [NSString stringWithFormat:@"%ld", number1];
+			B.text = [NSString stringWithFormat:@"%ld", number2];
+			C.text = [NSString stringWithFormat:@"%ld", Answer];
 			break;
 		case 4:
 			number1 = 2 + arc4random() % 9;
 			number2 = 2 + arc4random() % 9;
-			number1 = number1 * number2;
+			int number3 = number1 * number2;
 			Answer = number2;
+			A.text = [NSString stringWithFormat:@"%ld", number3];
+			B.text = [NSString stringWithFormat:@"%ld", number1];
+			C.text = [NSString stringWithFormat:@"%ld", Answer];
 			break;
 	}
 	
-	A.text = [NSString stringWithFormat:@"%ld", number1];
-	B.text = [NSString stringWithFormat:@"%ld", number2];
-	C.text = [NSString stringWithFormat:@"%ld", Answer];
+
 			
 	
 } 
 
 -(IBAction)multiplication:(id)sender
 {
-	if(Operand == 3  && timeLeft != 0){
-		Score++;
-		score.text = [NSString stringWithFormat:@"%ld", Score];
+	NSString *Avalue = A.text;
+	int AvalueNumber = [Avalue intValue];
+	NSString *Bvalue = B.text;
+	int BvalueNumber = [Bvalue intValue];
+	if(Answer == AvalueNumber * BvalueNumber  && timeLeft != 0){
+		NSString *totalScore = score.text;
+		int totalScoreNumber = [totalScore intValue];
+		score.text = [NSString stringWithFormat:@"%ld", totalScoreNumber + 100];
 	}
 	
 	int number1 = 1 + arc4random() % 9;
@@ -177,6 +219,9 @@
 				number2 = 1 + arc4random() % 9;
 			}
 			Answer = number1 + number2;
+			A.text = [NSString stringWithFormat:@"%ld", number1];
+			B.text = [NSString stringWithFormat:@"%ld", number2];
+			C.text = [NSString stringWithFormat:@"%ld", Answer];
 			break;
 		case 2:
 			while (number1 < number2 || number1/number2 == 2 || number2/number1 == 2) {
@@ -184,32 +229,40 @@
 				number2 = 1 + arc4random() % 9;
 			}
 			Answer = number1 - number2; 
+			A.text = [NSString stringWithFormat:@"%ld", number1];
+			B.text = [NSString stringWithFormat:@"%ld", number2];
+			C.text = [NSString stringWithFormat:@"%ld", Answer];
 			break;
 		case 3:
 			number1 = 2 + arc4random() % 9;
 			number2 = 2 + arc4random() % 9;
 			Answer = number1 * number2;
+			A.text = [NSString stringWithFormat:@"%ld", number1];
+			B.text = [NSString stringWithFormat:@"%ld", number2];
+			C.text = [NSString stringWithFormat:@"%ld", Answer];
 			break;
 		case 4:
 			number1 = 2 + arc4random() % 9;
 			number2 = 2 + arc4random() % 9;
-			number1 = number1 * number2;
+			int number3 = number1 * number2;
 			Answer = number2;
+			A.text = [NSString stringWithFormat:@"%ld", number3];
+			B.text = [NSString stringWithFormat:@"%ld", number1];
+			C.text = [NSString stringWithFormat:@"%ld", Answer];
 			break;
 	}
-	
-	A.text = [NSString stringWithFormat:@"%ld", number1];
-	B.text = [NSString stringWithFormat:@"%ld", number2];
-	C.text = [NSString stringWithFormat:@"%ld", Answer];
-	
-	
 } 
 
 -(IBAction)division:(id)sender
 {
-	if(Operand == 4  && timeLeft != 0){
-		Score++;
-		score.text = [NSString stringWithFormat:@"%ld", Score];
+	NSString *Avalue = A.text;
+	int AvalueNumber = [Avalue intValue];
+	NSString *Bvalue = B.text;
+	int BvalueNumber = [Bvalue intValue];
+	if(Answer == AvalueNumber / BvalueNumber  && timeLeft != 0){
+		NSString *totalScore = score.text;
+		int totalScoreNumber = [totalScore intValue];
+		score.text = [NSString stringWithFormat:@"%ld", totalScoreNumber + 100];
 	}
 	
 	int number1 = 1 + arc4random() % 9;
@@ -223,6 +276,9 @@
 				number2 = 1 + arc4random() % 9;
 			}
 			Answer = number1 + number2;
+			A.text = [NSString stringWithFormat:@"%ld", number1];
+			B.text = [NSString stringWithFormat:@"%ld", number2];
+			C.text = [NSString stringWithFormat:@"%ld", Answer];
 			break;
 		case 2:
 			while (number1 < number2 || number1/number2 == 2 || number2/number1 == 2) {
@@ -230,23 +286,28 @@
 				number2 = 1 + arc4random() % 9;
 			}
 			Answer = number1 - number2; 
+			A.text = [NSString stringWithFormat:@"%ld", number1];
+			B.text = [NSString stringWithFormat:@"%ld", number2];
+			C.text = [NSString stringWithFormat:@"%ld", Answer];
 			break;
 		case 3:
 			number1 = 2 + arc4random() % 9;
 			number2 = 2 + arc4random() % 9;
 			Answer = number1 * number2;
+			A.text = [NSString stringWithFormat:@"%ld", number1];
+			B.text = [NSString stringWithFormat:@"%ld", number2];
+			C.text = [NSString stringWithFormat:@"%ld", Answer];
 			break;
 		case 4:
 			number1 = 2 + arc4random() % 9;
 			number2 = 2 + arc4random() % 9;
-			number1 = number1 * number2;
+			int number3 = number1 * number2;
 			Answer = number2;
+			A.text = [NSString stringWithFormat:@"%ld", number3];
+			B.text = [NSString stringWithFormat:@"%ld", number1];
+			C.text = [NSString stringWithFormat:@"%ld", Answer];
 			break;
 	}
-	
-	A.text = [NSString stringWithFormat:@"%ld", number1];
-	B.text = [NSString stringWithFormat:@"%ld", number2];
-	C.text = [NSString stringWithFormat:@"%ld", Answer];
 	
 } 
 
