@@ -96,30 +96,66 @@
 
     The menu system includes the implementation of the login menu screen, the main menu screen, the level selection screen, and the profile screen. The graph creation system and the record of history will not be complete yet, but the profile screen would be accessible. The login menu, the main menu, and the game level menu will be fully complete.
 
-    For each game, all functions would be complete and fully interactive. The game interface will be complete, and game integration would also be finished, but integration would be unpolished.
+    - For the Equation game, all functions would be complete and fully interactive. The game interface will be complete, and game integration would also be finished, but integration would be unpolished.
 
-    The level difficulty selection system would also be complete, and fully implemented.
+    - The level difficulty selection system would also be complete, and fully implemented.
 
     Links to the main features include:<br>
-    •	[http://code.google.com/p/bororolomon/wiki/MenuSystem Main Menu]<br>
-    •	[http://code.google.com/p/bororolomon/wiki/RandomGame Random game chooser component]<br>
-    •	[http://code.google.com/p/bororolomon/wiki/MiniGames MiniGames]<br>
-    •	[http://code.google.com/p/bororolomon/wiki/DifficultySelect Difficulty selection system]<br>
+    •	Menu system<br>
+    •	MiniGames (Equation Game)<br>
+    •	RecordHistory<br>
+
 
 
 4.3.2 Version 2:<br>
-    The main focus of this version is the implementation of the graph creation system and the record of history. The online updating system would also be fully implemented, and the difficulty scaling system would also be complete.
+    The main focus of this version is the implementation of the online updating system. The other minigames would also be fully implemented, and the difficulty scaling system would also be complete.
 
-    The graph creation system will be implemented, and the graphical and informational components would be fully usable, but unpolished.
+    - The Scoretracking system will be implemented, and the informational components would be fully usable, but unpolished.
 
-    Automatic difficulty scaling completed during this phase.
+    - Automatic difficulty scaling completed during this phase.
 
-    The online updating system would also be functional, but more polishing is needed.
+    - The online updating system would also be functional, but more polishing is needed.
 
-Links to main features:<br>
-    •	[http://code.google.com/p/bororolomon/wiki/LeaderBoard Leaderboard]<br>
-    •	[http://code.google.com/p/bororolomon/wiki/ScoreTracking Scoretracking]<br>
-    •	[http://code.google.com/p/bororolomon/wiki/DifficultySelect AutoDifficultyScale]<br>
+    Links to main features:<br>
+    •	Scoretracking<br>
+    •	AutoDifficultyScale<br>
+    •	Difficulty selection system<br>
+    •	MiniGames (Clock Game, Mirror Game, Money Counting Game)<br>
+
 
 4.3.3 Version 3:
-    The program will be fully functional, and all interfaces will be altered to appeal to Grade 2/3 students. The graphs, game images, and buttons would all be adjusted for Grade 2/3 students to use, and all games would be balanced to fit the correct math levels.
+    The program will be fully functional, and all interfaces will be altered to appeal to Grade 2/3 students. The game images and buttons would all be adjusted for Grade 2/3 students to use, and all games would be balanced to fit the correct math levels. The graph for student growth in the Scoretracking system would also be complete.
+
+    Links to main features:<br>
+    •	Scoretracking<br>
+
+
+*5 Revision History:*
+
+    Version 1.0<br>
+    February 5, 2009<br>
+    -	Design Document first created<br>
+
+    February 8, 2009 <br>
+    -	Technical and Ethical Guidelines were revised<br>
+    -	Decided on File formats to be used within the game program<br>
+    -	State machine diagram added<br>
+    -	UML and Structural Diagrams added. <br>
+    -	Feature Priority revised.<br>
+    -	Main feature of each version of the game is decided upon.<br>
+    -	Google Code chosen to be coding repository<br>
+
+    February 10, 2009<br>
+    -	Grammar and paragraphs revised.<br>
+    -	Backup and commenting formats are decided upon.<br>
+    -	State machine diagram revised<br>
+    -	Design Document version 1 handed in.<br>
+
+    Version 1.1<br>
+
+    March 11, 2009<br>
+    -	Table of Contents changed to better layout<br>
+    -	Revision history added to document<br>
+    -	Grammar and sentences is revised for more professional design<br>
+    -	Updated feature priority<br>
+
