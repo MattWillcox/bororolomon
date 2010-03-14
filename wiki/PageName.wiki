@@ -3,10 +3,12 @@
 	In developing this program, our group followed a strict guideline on how we are implementing various aspects of this project. The following describe the tools we used in planning the project, the language we are implementing the game in, and also the ethical rules we will adhere to when working on the actual game.
 
 1.1 Technical Guidelines<br>
-    •	Development of the application will be done using Objective-C <br>
-    •	Coding and interface will be implemented using Xcode <br>
-    •	System and UML diagrams will be created through Visual Paradigm<br>
-    •	Structural and Process Diagrams created by Open Office <br>
+    •	Development of the application will utilize Objective-C based in XCode version 3.2<br>
+    •	Coding and interface will be created using XCode version 3.2<br>
+    •	System and UML diagrams created through Visual Paradigm 7.2<br>
+    •	Structural and Process Diagrams created through Microsoft Word 2007<br>
+    •	A repository will be setup using Google Code.<br>
+
 
 1.2 Ethical Guidelines<br>
     •	The content of this program must be appropriate for Grade 2/3 students<br>
