@@ -9,11 +9,19 @@
 #import "MathGame1_3ViewController.h"
 
 @implementation MathGame1_3ViewController
+@synthesize score;
+@synthesize A;
+@synthesize B;
+@synthesize C;
+
+
 
 - (void)viewDidLoad {
 	timeLable.text = @"30";
-	timeLeft = 1000;
+	timeLeft = 30;
 	[super viewDidLoad];
+	
+	questionLeft = 30;
 	
 	int number1 = 1 + arc4random() % 9;
 	int number2 = 1 + arc4random() % 9;
@@ -58,11 +66,9 @@
 			C.text = [NSString stringWithFormat:@"%ld", Answer];
 			break;
 	}
-	
-
-	
-
 }
+
+
 
 -(void)updateLabel {
 	if (timeLeft != 0) {
@@ -78,11 +84,14 @@
 
 -(IBAction)addition:(id)sender
 {
+	questionLeft = questionLeft--;
+	numberOfQuestion.text = [NSString stringWithFormat:@"%ld", questionLeft];
+	
 	NSString *Avalue = A.text;
 	int AvalueNumber = [Avalue intValue];
 	NSString *Bvalue = B.text;
 	int BvalueNumber = [Bvalue intValue];
-	if(Answer == AvalueNumber + BvalueNumber  && timeLeft != 0){
+	if(Answer == AvalueNumber + BvalueNumber  && timeLeft != 0 && questionLeft >= 0){
 		NSString *totalScore = score.text;
 		int totalScoreNumber = [totalScore intValue];
 		score.text = [NSString stringWithFormat:@"%ld", totalScoreNumber + 100];
@@ -137,11 +146,14 @@
 
 -(IBAction)subtraction:(id)sender
 {
+	questionLeft = questionLeft--;
+	numberOfQuestion.text = [NSString stringWithFormat:@"%ld", questionLeft];
+	
 	NSString *Avalue = A.text;
 	int AvalueNumber = [Avalue intValue];
 	NSString *Bvalue = B.text;
 	int BvalueNumber = [Bvalue intValue];
-	if(Answer == AvalueNumber - BvalueNumber  && timeLeft != 0){
+	if(Answer == AvalueNumber - BvalueNumber  && timeLeft != 0 && questionLeft >= 0){
 		NSString *totalScore = score.text;
 		int totalScoreNumber = [totalScore intValue];
 		score.text = [NSString stringWithFormat:@"%ld", totalScoreNumber + 100];
@@ -198,11 +210,14 @@
 
 -(IBAction)multiplication:(id)sender
 {
+	questionLeft = questionLeft--;
+	numberOfQuestion.text = [NSString stringWithFormat:@"%ld", questionLeft];
+	
 	NSString *Avalue = A.text;
 	int AvalueNumber = [Avalue intValue];
 	NSString *Bvalue = B.text;
 	int BvalueNumber = [Bvalue intValue];
-	if(Answer == AvalueNumber * BvalueNumber  && timeLeft != 0){
+	if(Answer == AvalueNumber * BvalueNumber  && timeLeft != 0 && questionLeft >= 0){
 		NSString *totalScore = score.text;
 		int totalScoreNumber = [totalScore intValue];
 		score.text = [NSString stringWithFormat:@"%ld", totalScoreNumber + 100];
@@ -255,11 +270,14 @@
 
 -(IBAction)division:(id)sender
 {
+	questionLeft = questionLeft--;
+	numberOfQuestion.text = [NSString stringWithFormat:@"%ld", questionLeft];
+	
 	NSString *Avalue = A.text;
 	int AvalueNumber = [Avalue intValue];
 	NSString *Bvalue = B.text;
 	int BvalueNumber = [Bvalue intValue];
-	if(Answer == AvalueNumber / BvalueNumber  && timeLeft != 0){
+	if(Answer == AvalueNumber / BvalueNumber  && timeLeft != 0 && questionLeft >= 0){
 		NSString *totalScore = score.text;
 		int totalScoreNumber = [totalScore intValue];
 		score.text = [NSString stringWithFormat:@"%ld", totalScoreNumber + 100];

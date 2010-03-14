@@ -16,11 +16,13 @@
 	IBOutlet UILabel *timeLable;
 	IBOutlet UILabel *Finished;
 	IBOutlet UILabel *score;
+	IBOutlet UILabel *numberOfQuestion;
 	IBOutlet UILabel *A;
 	IBOutlet UILabel *B;
 	IBOutlet UILabel *C;
 	int timeLeft;
 	int Answer;
+	int questionLeft;
 }
 
 @property (nonatomic,retain) UILabel *score;
@@ -31,6 +33,7 @@
 
 -(void)updateLabel;
 - (void)viewDidLoad;
+-(IBAction)switchViews;
 -(IBAction)addition:(id)sender;
 -(IBAction)subtraction:(id)sender;
 -(IBAction)multiplication:(id)sender;
