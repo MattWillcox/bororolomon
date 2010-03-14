@@ -59,6 +59,10 @@
 		case 4:
 			number1 = 2 + arc4random() % 9;
 			number2 = 2 + arc4random() % 9;
+			while (number1 == 4  && number2 == 2) {
+				number1 = 2 + arc4random() % 9;
+				number2 = 2 + arc4random() % 9;
+			}
 			int number3 = number1 * number2;
 			Answer = number2;
 			A.text = [NSString stringWithFormat:@"%ld", number3];
@@ -133,6 +137,10 @@
 		case 4:
 			number1 = 2 + arc4random() % 9;
 			number2 = 2 + arc4random() % 9;
+			while (number1 == 4  && number2 == 2) {
+				number1 = 2 + arc4random() % 9;
+				number2 = 2 + arc4random() % 9;
+			}
 			int number3 = number1 * number2;
 			Answer = number2;
 			A.text = [NSString stringWithFormat:@"%ld", number3];
@@ -195,6 +203,10 @@
 		case 4:
 			number1 = 2 + arc4random() % 9;
 			number2 = 2 + arc4random() % 9;
+			while (number1 == 4  && number2 == 2) {
+				number1 = 2 + arc4random() % 9;
+				number2 = 2 + arc4random() % 9;
+			}
 			int number3 = number1 * number2;
 			Answer = number2;
 			A.text = [NSString stringWithFormat:@"%ld", number3];
@@ -259,6 +271,10 @@
 		case 4:
 			number1 = 2 + arc4random() % 9;
 			number2 = 2 + arc4random() % 9;
+			while (number1 == 4  && number2 == 2) {
+				number1 = 2 + arc4random() % 9;
+				number2 = 2 + arc4random() % 9;
+			}
 			int number3 = number1 * number2;
 			Answer = number2;
 			A.text = [NSString stringWithFormat:@"%ld", number3];
@@ -319,6 +335,10 @@
 		case 4:
 			number1 = 2 + arc4random() % 9;
 			number2 = 2 + arc4random() % 9;
+			while (number1 == 4  && number2 == 2) {
+				number1 = 2 + arc4random() % 9;
+				number2 = 2 + arc4random() % 9;
+			}
 			int number3 = number1 * number2;
 			Answer = number2;
 			A.text = [NSString stringWithFormat:@"%ld", number3];
