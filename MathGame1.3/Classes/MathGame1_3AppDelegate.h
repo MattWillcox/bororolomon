@@ -13,8 +13,9 @@
 @interface MathGame1_3AppDelegate : NSObject <UIApplicationDelegate> {
     UIWindow *window;
     MathGame1_3ViewController *viewController;
+	NSTimer *timer;
 }
-
+-(void)onTimer;
 
 @property (nonatomic, retain) IBOutlet UIWindow *window;
 @property (nonatomic, retain) IBOutlet MathGame1_3ViewController *viewController;
