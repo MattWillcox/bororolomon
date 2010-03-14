@@ -86,6 +86,10 @@
     Data format:
     MacOS-X style (XML in the UTF8 character set). Very well supported by Objective-C which allows for a more comprehensive and quick development. 
 
+    Database:
+    All of the player profiles will be stored on a single .txt file. They will be stored in a two dimensional array that will keep their username, password, high scores for each game, difficulty levels and settings. The format of the database itself would be in XML, since XCode 3.2 automatically writes arrays onto text files in that format.
+
+
 
 4.2 User Interaction
 
