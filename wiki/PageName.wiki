@@ -133,29 +133,31 @@
 *5 Revision History:*
 
     Version 1.0<br>
-    February 5, 2009<br>
-    -	Design Document first created<br>
 
-    February 8, 2009 <br>
-    -	Technical and Ethical Guidelines were revised<br>
-    -	Decided on File formats to be used within the game program<br>
-    -	State machine diagram added<br>
-    -	UML and Structural Diagrams added. <br>
-    -	Feature Priority revised.<br>
-    -	Main feature of each version of the game is decided upon.<br>
-    -	Google Code chosen to be coding repository<br>
+        February 5, 2009<br>
+        •	Design Document first created<br>
 
-    February 10, 2009<br>
-    -	Grammar and paragraphs revised.<br>
-    -	Backup and commenting formats are decided upon.<br>
-    -	State machine diagram revised<br>
-    -	Design Document version 1 handed in.<br>
+        February 8, 2009 <br>
+        •	Technical and Ethical Guidelines were revised<br>
+        •	Decided on File formats to be used within the game program<br>
+        •	State machine diagram added<br>
+        •	UML and Structural Diagrams added. <br>
+        •	Feature Priority revised.<br>
+        •	Main feature of each version of the game is decided upon.<br>
+        •	Google Code chosen to be coding repository<br>
+
+        February 10, 2009<br>
+        •	Grammar and paragraphs revised.<br>
+        •	Backup and commenting formats are decided upon.<br>
+        •	State machine diagram revised<br>
+        •	Design Document version 1 handed in.<br>
+
+
 
     Version 1.1<br>
 
-    March 11, 2009<br>
-    -	Table of Contents changed to better layout<br>
-    -	Revision history added to document<br>
-    -	Grammar and sentences is revised for more professional design<br>
-    -	Updated feature priority<br>
-
+        March 11, 2009<br>
+        •	Table of Contents changed to better layout<br>
+        •	Revision history added to document<br>
+        •	Grammar and sentences is revised for more professional design<br>
+        •	Updated feature priority<br>
