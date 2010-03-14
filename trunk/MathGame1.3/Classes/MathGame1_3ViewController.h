@@ -13,10 +13,16 @@
 	IBOutlet UIButton *button2;
 	IBOutlet UIButton *button3;
 	IBOutlet UIButton *button4;
+	IBOutlet UILabel *timeLable;
+	IBOutlet UILabel *Finished;
 	IBOutlet UILabel *score;
 	IBOutlet UILabel *A;
 	IBOutlet UILabel *B;
 	IBOutlet UILabel *C;
+	int timeLeft;
+	int Score;
+	int Answer;
+	int Operand;
 }
 
 @property (nonatomic,retain) UILabel *score;
@@ -25,7 +31,8 @@
 @property (nonatomic,retain) UILabel *C;
 
 
--(IBAction)createQuesion:(id)sender;
+-(void)updateLabel;
+- (void)viewDidLoad;
 -(IBAction)addition:(id)sender;
 -(IBAction)subtraction:(id)sender;
 -(IBAction)multiplication:(id)sender;
