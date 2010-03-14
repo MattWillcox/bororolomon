@@ -31,8 +31,10 @@
     [http://www.gnu.org/prep/standards/standards.html#Comments Commenting Guidelines]
  
 
-1.7 Device programming language <br>
-    Objective-C is the only language available for programming iPhone.
+1.7 Device programming language and Framework<br>
+
+    Objective-C on XCode 3.2 is the only language available for application development in iPhone. The framework utilized will be the View-based application framework provided by XCode 3.2.
+
 
 1.8 Web site programming language:<br>
     HTML, ASP.Net and JavaScript are selected for programming the website for fast development. 
@@ -168,3 +170,5 @@
         •	Revision history added to document<br>
         •	Grammar and sentences is revised for more professional design<br>
         •	Updated feature priority<br>
+        •	Added Database information<br>
+        •	Added Framework information<br>
