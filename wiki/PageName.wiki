@@ -103,7 +103,7 @@
     - The level difficulty selection system would also be complete, and fully implemented.
 
     Links to the main features include:<br>
-    •	Menu System<br>
+    •	[http://code.google.com/p/bororolomon/wiki/MenuSystem Menu System]<br>
     •	MiniGames (Equation Game)<br>
     •	RecordHistory<br>
 
@@ -119,17 +119,18 @@
     - The online updating system would also be functional, but more polishing is needed.
 
     Links to main features:<br>
-    •	Score Tracking System and Statistics<br>
+    •	[http://code.google.com/p/bororolomon/wiki/ScoreTracking Score Tracking System and Statistics]<br>
     •	AutoDifficultyScale<br>
-    •	Difficulty selection system<br>
+    •	[http://code.google.com/p/bororolomon/wiki/DifficultySelect Difficulty Selection System]<br>
     •	MiniGames (Clock Game, Mirror Game, Money Counting Game)<br>
+    •   [http://code.google.com/p/bororolomon/wiki/LeaderBoard Online Leader Board]<br>
 
 
 4.3.3 Version 3:
     The program will be fully functional, and all interfaces will be altered to appeal to Grade 2/3 students. The game images and buttons would all be adjusted for Grade 2/3 students to use, and all games would be balanced to fit the correct math levels. The graph for student growth in the Scoretracking system would also be complete.
 
     Links to main features:<br>
-    •	Score Tracking System and Statistics<br>
+    •	[http://code.google.com/p/bororolomon/wiki/ScoreTracking Score Tracking System and Statistics]<br>
 
 
 *5 Revision History:*
