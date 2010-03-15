@@ -1,8 +1,0 @@
-//
-// Prefix header for all source files of the 'MathCraft_Login' target in the 'MathCraft_Login' project
-//
-
-#ifdef __OBJC__
-    #import <Foundation/Foundation.h>
-    #import <UIKit/UIKit.h>
-#endif
