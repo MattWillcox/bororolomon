@@ -122,8 +122,6 @@
 
     - Automatic difficulty scaling completed during this phase.
 
-    - The online updating system would also be functional, but more polishing is needed.
-
     Links to main features:<br>
     •	[http://code.google.com/p/bororolomon/wiki/ScoreTracking Score Tracking System and Statistics]<br>
     •	AutoDifficultyScale<br>
@@ -137,6 +135,7 @@
 
     Links to main features:<br>
     •	[http://code.google.com/p/bororolomon/wiki/ScoreTracking Score Tracking System and Statistics]<br>
+    •	Online Leader Board<br>
 
 
 *5 Revision History:*
