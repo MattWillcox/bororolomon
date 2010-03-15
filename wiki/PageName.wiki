@@ -102,7 +102,8 @@
 4.3.1 Version 1:<br>
     The main features that will be implemented in this version are the menu systems, the difficulty and level selection system and the actual implementations of all the games.
 
-    The menu system includes the implementation of the login menu screen, the main menu screen, the level selection screen, and the profile screen. The graph creation system and the record of history will not be complete yet, but the profile screen would be accessible. The login menu, the main menu, and the game level menu will be fully complete.
+    The menu system includes the implementation of the login menu screen, the main menu screen, the level selection screen, and the profile screen. The graph creation system and the record of history will not be fully complete, but the profile screen will be accessible. The login menu, the main menu, and the game level menu will be fully complete.
+The ability to save and load profiles will be started upon, but will not be complete.
 
     - For the Equation game, all functions would be complete and fully interactive. The game interface will be complete, and game integration would also be finished, but integration would be unpolished.
 
@@ -111,12 +112,12 @@
     Links to the main features include:<br>
     •	[http://code.google.com/p/bororolomon/wiki/MenuSystem Menu System]<br>
     •	MiniGames (Equation Game)<br>
-    •	RecordHistory<br>
+    •	Profiles<br>
 
 
 
 4.3.2 Version 2:<br>
-    The main focus of this version is the implementation of the online updating system. The other minigames would also be fully implemented, and the difficulty scaling system would also be complete.
+    The main focus of this version is the implementation of the online updating system. The other minigames would also be fully implemented, and the difficulty scaling system would also be complete. Profiles can be saved and loaded.
 
     - The Scoretracking system will be implemented, and the informational components would be fully usable, but unpolished.
 
@@ -128,6 +129,7 @@
     •	[http://code.google.com/p/bororolomon/wiki/DifficultySelect Difficulty Selection System]<br>
     •	MiniGames (Clock Game, Mirror Game, Money Counting Game)<br>
     •   [http://code.google.com/p/bororolomon/wiki/LeaderBoard Online Leader Board]<br>
+    •	Profiles<br>
 
 
 4.3.3 Version 3:
