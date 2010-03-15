@@ -1,5 +1,3 @@
 ==Score Tracking System and Statistics==
 
-This can be found in the view progress section. For every game that is finished, each player’s game results will be saved for future reference. A player will be able to check his progress and his past scores along with encouraging advice. A graph will be drawn to show the rate of the player’s progress and the player will see his grade according to his scores. Each game will have its own section and will include statistics like: best score, average score, number of games played, etc. Score will be based on user accuracy and speed during game play, faster and more accurate will result in a higher score.
-
- 
+This can be found in the view progress section. For every game that is finished, each player’s game results will be saved for future reference. A player will be able to check his progress and his past scores along with encouraging advice. A graph will be drawn to show the rate of the player’s progress and the player will see his grade according to his scores. Each game will have its own section and will include statistics like: best score, average score, number of games played, etc. Score will be based on user accuracy and speed during game play, faster and more accurate will result in a higher score. The score tracking system would also automatically upload the student's scores online.
