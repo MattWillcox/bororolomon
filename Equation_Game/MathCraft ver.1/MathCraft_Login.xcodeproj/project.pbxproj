@@ -1,0 +1,551 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		122CF49A1149BA8F00804E20 /* MathCraft_Progress.m in Sources */ = {isa = PBXBuildFile; fileRef = 122CF4981149BA8F00804E20 /* MathCraft_Progress.m */; };
+		122CF49B1149BA8F00804E20 /* MathCraft_Progress.xib in Resources */ = {isa = PBXBuildFile; fileRef = 122CF4991149BA8F00804E20 /* MathCraft_Progress.xib */; };
+		122CF4D11149BF6300804E20 /* 6 Option copy.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 122CF4D01149BF6300804E20 /* 6 Option copy.jpg */; };
+		122CF4E11149D2B200804E20 /* 1 login copy.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 122CF4E01149D2B200804E20 /* 1 login copy.jpg */; };
+		122CF4ED1149DC0B00804E20 /* 2.2 register copy.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 122CF4EC1149DC0B00804E20 /* 2.2 register copy.jpg */; };
+		1240B64B114B040700808C92 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 1240B64A114B040700808C92 /* Default.png */; };
+		1240B704114B162800808C92 /* default_System.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1240B703114B162800808C92 /* default_System.txt */; };
+		1240B74C114B1EE800808C92 /* MathCraft_User.m in Sources */ = {isa = PBXBuildFile; fileRef = 1240B74B114B1EE800808C92 /* MathCraft_User.m */; };
+		1240B74F114B20A900808C92 /* users.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1240B74E114B20A900808C92 /* users.txt */; };
+		124E42C7114DDB600058C646 /* Eq Game copy.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 124E42C5114DDB600058C646 /* Eq Game copy.jpg */; };
+		124E42C8114DDB600058C646 /* log in copy1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 124E42C6114DDB600058C646 /* log in copy1.jpg */; };
+		124E42D1114DDF860058C646 /* button.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 124E42D0114DDF860058C646 /* button.jpg */; };
+		125D2DC21148530500EE222A /* MathCraft_Option.m in Sources */ = {isa = PBXBuildFile; fileRef = 125D2DC01148530500EE222A /* MathCraft_Option.m */; };
+		125D2DC31148530500EE222A /* MathCraft_Option.xib in Resources */ = {isa = PBXBuildFile; fileRef = 125D2DC11148530500EE222A /* MathCraft_Option.xib */; };
+		125D2DD911485C2200EE222A /* MathCraft_LeaderBoard.m in Sources */ = {isa = PBXBuildFile; fileRef = 125D2DD711485C2200EE222A /* MathCraft_LeaderBoard.m */; };
+		125D2DDA11485C2200EE222A /* MathCraft_LeaderBoard.xib in Resources */ = {isa = PBXBuildFile; fileRef = 125D2DD811485C2200EE222A /* MathCraft_LeaderBoard.xib */; };
+		125D2E4E1148617C00EE222A /* 2 Menu copy-1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 125D2E4D1148617C00EE222A /* 2 Menu copy-1.jpg */; };
+		125D2E62114864E600EE222A /* 3 Game Selection copy.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 125D2E5E114864E600EE222A /* 3 Game Selection copy.jpg */; };
+		125D2E63114864E600EE222A /* 5 View Progress copy.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 125D2E5F114864E600EE222A /* 5 View Progress copy.jpg */; };
+		125D2E73114867D000EE222A /* MathCraft_GameMenu.m in Sources */ = {isa = PBXBuildFile; fileRef = 125D2E71114867D000EE222A /* MathCraft_GameMenu.m */; };
+		125D2E74114867D000EE222A /* MathCraft_GameMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 125D2E72114867D000EE222A /* MathCraft_GameMenu.xib */; };
+		1265277E114EBE0B009F67CB /* MathCraft_MainMenu.m in Sources */ = {isa = PBXBuildFile; fileRef = 1265277C114EBE0B009F67CB /* MathCraft_MainMenu.m */; };
+		1265277F114EBE0B009F67CB /* MathCraft_MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1265277D114EBE0B009F67CB /* MathCraft_MainMenu.xib */; };
+		12ECDBF01140FF950002F94C /* MathCraft_Register.m in Sources */ = {isa = PBXBuildFile; fileRef = 12ECDBEE1140FF950002F94C /* MathCraft_Register.m */; };
+		12ECDBF11140FF950002F94C /* MathCraft_Register.xib in Resources */ = {isa = PBXBuildFile; fileRef = 12ECDBEF1140FF950002F94C /* MathCraft_Register.xib */; };
+		1D3623260D0F684500981E51 /* MathCraft_LoginAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* MathCraft_LoginAppDelegate.m */; };
+		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
+		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
+		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
+		288765A50DF7441C002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765A40DF7441C002DB57D /* CoreGraphics.framework */; };
+		2899E5220DE3E06400AC0155 /* MathCraft_LoginViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2899E5210DE3E06400AC0155 /* MathCraft_LoginViewController.xib */; };
+		28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD733E0D9D9553002E5188 /* MainWindow.xib */; };
+		28D7ACF80DDB3853001CB0EB /* MathCraft_LoginViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 28D7ACF70DDB3853001CB0EB /* MathCraft_LoginViewController.m */; };
+		C8B38647114DB3A20080B365 /* Equation_GameViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C8B38646114DB3A20080B365 /* Equation_GameViewController.m */; };
+		C8B3865B114DB5890080B365 /* Equation_GameViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C8B3865A114DB5890080B365 /* Equation_GameViewController.xib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		C8491062114D963800885144 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 29B97313FDCFA39411CA2CEA /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 1D6058900D05DD3D006BFB54;
+			remoteInfo = MathCraft_Login;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		122CF4971149BA8F00804E20 /* MathCraft_Progress.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MathCraft_Progress.h; sourceTree = "<group>"; };
+		122CF4981149BA8F00804E20 /* MathCraft_Progress.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MathCraft_Progress.m; sourceTree = "<group>"; };
+		122CF4991149BA8F00804E20 /* MathCraft_Progress.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = MathCraft_Progress.xib; path = Classes/MathCraft_Progress.xib; sourceTree = "<group>"; };
+		122CF4D01149BF6300804E20 /* 6 Option copy.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "6 Option copy.jpg"; sourceTree = "<group>"; };
+		122CF4E01149D2B200804E20 /* 1 login copy.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1 login copy.jpg"; sourceTree = "<group>"; };
+		122CF4EC1149DC0B00804E20 /* 2.2 register copy.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2.2 register copy.jpg"; sourceTree = "<group>"; };
+		1240B64A114B040700808C92 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		1240B703114B162800808C92 /* default_System.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = default_System.txt; sourceTree = "<group>"; };
+		1240B74A114B1EE800808C92 /* MathCraft_User.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MathCraft_User.h; sourceTree = "<group>"; };
+		1240B74B114B1EE800808C92 /* MathCraft_User.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MathCraft_User.m; sourceTree = "<group>"; };
+		1240B74E114B20A900808C92 /* users.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = users.txt; sourceTree = "<group>"; };
+		124E42C5114DDB600058C646 /* Eq Game copy.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Eq Game copy.jpg"; sourceTree = "<group>"; };
+		124E42C6114DDB600058C646 /* log in copy1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "log in copy1.jpg"; sourceTree = "<group>"; };
+		124E42D0114DDF860058C646 /* button.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = button.jpg; sourceTree = "<group>"; };
+		125D2DBF1148530500EE222A /* MathCraft_Option.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MathCraft_Option.h; sourceTree = "<group>"; };
+		125D2DC01148530500EE222A /* MathCraft_Option.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MathCraft_Option.m; sourceTree = "<group>"; };
+		125D2DC11148530500EE222A /* MathCraft_Option.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = MathCraft_Option.xib; path = Classes/MathCraft_Option.xib; sourceTree = "<group>"; };
+		125D2DD611485C2200EE222A /* MathCraft_LeaderBoard.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MathCraft_LeaderBoard.h; sourceTree = "<group>"; };
+		125D2DD711485C2200EE222A /* MathCraft_LeaderBoard.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MathCraft_LeaderBoard.m; sourceTree = "<group>"; };
+		125D2DD811485C2200EE222A /* MathCraft_LeaderBoard.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = MathCraft_LeaderBoard.xib; path = Classes/MathCraft_LeaderBoard.xib; sourceTree = "<group>"; };
+		125D2E4D1148617C00EE222A /* 2 Menu copy-1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2 Menu copy-1.jpg"; sourceTree = "<group>"; };
+		125D2E5E114864E600EE222A /* 3 Game Selection copy.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "3 Game Selection copy.jpg"; sourceTree = "<group>"; };
+		125D2E5F114864E600EE222A /* 5 View Progress copy.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "5 View Progress copy.jpg"; sourceTree = "<group>"; };
+		125D2E70114867D000EE222A /* MathCraft_GameMenu.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MathCraft_GameMenu.h; sourceTree = "<group>"; };
+		125D2E71114867D000EE222A /* MathCraft_GameMenu.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MathCraft_GameMenu.m; sourceTree = "<group>"; };
+		125D2E72114867D000EE222A /* MathCraft_GameMenu.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = MathCraft_GameMenu.xib; path = Classes/MathCraft_GameMenu.xib; sourceTree = "<group>"; };
+		1265277B114EBE0B009F67CB /* MathCraft_MainMenu.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MathCraft_MainMenu.h; sourceTree = "<group>"; };
+		1265277C114EBE0B009F67CB /* MathCraft_MainMenu.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MathCraft_MainMenu.m; sourceTree = "<group>"; };
+		1265277D114EBE0B009F67CB /* MathCraft_MainMenu.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = MathCraft_MainMenu.xib; path = Classes/MathCraft_MainMenu.xib; sourceTree = "<group>"; };
+		12ECDBED1140FF950002F94C /* MathCraft_Register.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MathCraft_Register.h; sourceTree = "<group>"; };
+		12ECDBEE1140FF950002F94C /* MathCraft_Register.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MathCraft_Register.m; sourceTree = "<group>"; };
+		12ECDBEF1140FF950002F94C /* MathCraft_Register.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = MathCraft_Register.xib; path = Classes/MathCraft_Register.xib; sourceTree = "<group>"; };
+		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1D3623240D0F684500981E51 /* MathCraft_LoginAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MathCraft_LoginAppDelegate.h; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* MathCraft_LoginAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MathCraft_LoginAppDelegate.m; sourceTree = "<group>"; };
+		1D6058910D05DD3D006BFB54 /* MathCraft_Login.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MathCraft_Login.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		288765A40DF7441C002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		2899E5210DE3E06400AC0155 /* MathCraft_LoginViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MathCraft_LoginViewController.xib; sourceTree = "<group>"; };
+		28AD733E0D9D9553002E5188 /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
+		28D7ACF60DDB3853001CB0EB /* MathCraft_LoginViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MathCraft_LoginViewController.h; sourceTree = "<group>"; };
+		28D7ACF70DDB3853001CB0EB /* MathCraft_LoginViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MathCraft_LoginViewController.m; sourceTree = "<group>"; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		32CA4F630368D1EE00C91783 /* MathCraft_Login_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MathCraft_Login_Prefix.pch; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* MathCraft_Login-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "MathCraft_Login-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+		C849105C114D95FA00885144 /* MathCraftScript.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MathCraftScript.octest; sourceTree = BUILT_PRODUCTS_DIR; };
+		C849105D114D95FA00885144 /* MathCraftScript-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "MathCraftScript-Info.plist"; sourceTree = "<group>"; };
+		C8B38645114DB3A20080B365 /* Equation_GameViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Equation_GameViewController.h; sourceTree = "<group>"; };
+		C8B38646114DB3A20080B365 /* Equation_GameViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Equation_GameViewController.m; sourceTree = "<group>"; };
+		C8B3865A114DB5890080B365 /* Equation_GameViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = Equation_GameViewController.xib; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
+				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
+				288765A50DF7441C002DB57D /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C8491059114D95FA00885144 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				127607DC115181AB00FC4108 /* Login */,
+				127607D91151812F00FC4108 /* Menus */,
+				127607DA1151813B00FC4108 /* Games */,
+				127607DB1151817F00FC4108 /* Others */,
+				1D3623250D0F684500981E51 /* MathCraft_LoginAppDelegate.m */,
+				1D3623240D0F684500981E51 /* MathCraft_LoginAppDelegate.h */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		127607D91151812F00FC4108 /* Menus */ = {
+			isa = PBXGroup;
+			children = (
+				125D2E70114867D000EE222A /* MathCraft_GameMenu.h */,
+				125D2E71114867D000EE222A /* MathCraft_GameMenu.m */,
+				1265277B114EBE0B009F67CB /* MathCraft_MainMenu.h */,
+				1265277C114EBE0B009F67CB /* MathCraft_MainMenu.m */,
+			);
+			name = Menus;
+			sourceTree = "<group>";
+		};
+		127607DA1151813B00FC4108 /* Games */ = {
+			isa = PBXGroup;
+			children = (
+				C8B38645114DB3A20080B365 /* Equation_GameViewController.h */,
+				C8B38646114DB3A20080B365 /* Equation_GameViewController.m */,
+			);
+			name = Games;
+			sourceTree = "<group>";
+		};
+		127607DB1151817F00FC4108 /* Others */ = {
+			isa = PBXGroup;
+			children = (
+				125D2DBF1148530500EE222A /* MathCraft_Option.h */,
+				125D2DC01148530500EE222A /* MathCraft_Option.m */,
+				122CF4971149BA8F00804E20 /* MathCraft_Progress.h */,
+				122CF4981149BA8F00804E20 /* MathCraft_Progress.m */,
+				125D2DD611485C2200EE222A /* MathCraft_LeaderBoard.h */,
+				125D2DD711485C2200EE222A /* MathCraft_LeaderBoard.m */,
+			);
+			name = Others;
+			sourceTree = "<group>";
+		};
+		127607DC115181AB00FC4108 /* Login */ = {
+			isa = PBXGroup;
+			children = (
+				1240B74A114B1EE800808C92 /* MathCraft_User.h */,
+				1240B74B114B1EE800808C92 /* MathCraft_User.m */,
+				28D7ACF60DDB3853001CB0EB /* MathCraft_LoginViewController.h */,
+				28D7ACF70DDB3853001CB0EB /* MathCraft_LoginViewController.m */,
+				12ECDBED1140FF950002F94C /* MathCraft_Register.h */,
+				12ECDBEE1140FF950002F94C /* MathCraft_Register.m */,
+			);
+			name = Login;
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D6058910D05DD3D006BFB54 /* MathCraft_Login.app */,
+				C849105C114D95FA00885144 /* MathCraftScript.octest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
+			isa = PBXGroup;
+			children = (
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+				C849105D114D95FA00885144 /* MathCraftScript-Info.plist */,
+			);
+			name = CustomTemplate;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				1240B64A114B040700808C92 /* Default.png */,
+				122CF4E01149D2B200804E20 /* 1 login copy.jpg */,
+				124E42C5114DDB600058C646 /* Eq Game copy.jpg */,
+				124E42C6114DDB600058C646 /* log in copy1.jpg */,
+				125D2E4D1148617C00EE222A /* 2 Menu copy-1.jpg */,
+				122CF4EC1149DC0B00804E20 /* 2.2 register copy.jpg */,
+				125D2E5E114864E600EE222A /* 3 Game Selection copy.jpg */,
+				125D2E5F114864E600EE222A /* 5 View Progress copy.jpg */,
+				124E42D0114DDF860058C646 /* button.jpg */,
+				122CF4D01149BF6300804E20 /* 6 Option copy.jpg */,
+				32CA4F630368D1EE00C91783 /* MathCraft_Login_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				1240B74E114B20A900808C92 /* users.txt */,
+				1240B703114B162800808C92 /* default_System.txt */,
+				C8B3865A114DB5890080B365 /* Equation_GameViewController.xib */,
+				1265277D114EBE0B009F67CB /* MathCraft_MainMenu.xib */,
+				125D2DC11148530500EE222A /* MathCraft_Option.xib */,
+				12ECDBEF1140FF950002F94C /* MathCraft_Register.xib */,
+				125D2DD811485C2200EE222A /* MathCraft_LeaderBoard.xib */,
+				122CF4991149BA8F00804E20 /* MathCraft_Progress.xib */,
+				125D2E72114867D000EE222A /* MathCraft_GameMenu.xib */,
+				2899E5210DE3E06400AC0155 /* MathCraft_LoginViewController.xib */,
+				28AD733E0D9D9553002E5188 /* MainWindow.xib */,
+				8D1107310486CEB800E47090 /* MathCraft_Login-Info.plist */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
+				1D30AB110D05D00D00671497 /* Foundation.framework */,
+				288765A40DF7441C002DB57D /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D6058900D05DD3D006BFB54 /* MathCraft_Login */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "MathCraft_Login" */;
+			buildPhases = (
+				1D60588D0D05DD3D006BFB54 /* Resources */,
+				1D60588E0D05DD3D006BFB54 /* Sources */,
+				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = MathCraft_Login;
+			productName = MathCraft_Login;
+			productReference = 1D6058910D05DD3D006BFB54 /* MathCraft_Login.app */;
+			productType = "com.apple.product-type.application";
+		};
+		C849105B114D95FA00885144 /* Unit Tests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C8491060114D95FB00885144 /* Build configuration list for PBXNativeTarget "Unit Tests" */;
+			buildPhases = (
+				C8491057114D95FA00885144 /* Resources */,
+				C8491058114D95FA00885144 /* Sources */,
+				C8491059114D95FA00885144 /* Frameworks */,
+				C849105A114D95FA00885144 /* ShellScript */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				C8491063114D963800885144 /* PBXTargetDependency */,
+			);
+			name = "Unit Tests";
+			productName = MathCraftScript;
+			productReference = C849105C114D95FA00885144 /* MathCraftScript.octest */;
+			productType = "com.apple.product-type.bundle";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "MathCraft_Login" */;
+			compatibilityVersion = "Xcode 3.2";
+			hasScannedForEncodings = 1;
+			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1D6058900D05DD3D006BFB54 /* MathCraft_Login */,
+				C849105B114D95FA00885144 /* Unit Tests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D60588D0D05DD3D006BFB54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */,
+				2899E5220DE3E06400AC0155 /* MathCraft_LoginViewController.xib in Resources */,
+				12ECDBF11140FF950002F94C /* MathCraft_Register.xib in Resources */,
+				125D2DC31148530500EE222A /* MathCraft_Option.xib in Resources */,
+				125D2DDA11485C2200EE222A /* MathCraft_LeaderBoard.xib in Resources */,
+				125D2E4E1148617C00EE222A /* 2 Menu copy-1.jpg in Resources */,
+				125D2E62114864E600EE222A /* 3 Game Selection copy.jpg in Resources */,
+				125D2E63114864E600EE222A /* 5 View Progress copy.jpg in Resources */,
+				125D2E74114867D000EE222A /* MathCraft_GameMenu.xib in Resources */,
+				122CF49B1149BA8F00804E20 /* MathCraft_Progress.xib in Resources */,
+				122CF4D11149BF6300804E20 /* 6 Option copy.jpg in Resources */,
+				122CF4E11149D2B200804E20 /* 1 login copy.jpg in Resources */,
+				122CF4ED1149DC0B00804E20 /* 2.2 register copy.jpg in Resources */,
+				1240B64B114B040700808C92 /* Default.png in Resources */,
+				1240B704114B162800808C92 /* default_System.txt in Resources */,
+				1240B74F114B20A900808C92 /* users.txt in Resources */,
+				C8B3865B114DB5890080B365 /* Equation_GameViewController.xib in Resources */,
+				124E42C7114DDB600058C646 /* Eq Game copy.jpg in Resources */,
+				124E42C8114DDB600058C646 /* log in copy1.jpg in Resources */,
+				124E42D1114DDF860058C646 /* button.jpg in Resources */,
+				1265277F114EBE0B009F67CB /* MathCraft_MainMenu.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C8491057114D95FA00885144 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		C849105A114D95FA00885144 /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "# Run the unit tests in this test bundle.\n\"${SYSTEM_DEVELOPER_DIR}/Tools/RunUnitTests\"\n";
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D60588E0D05DD3D006BFB54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
+				1D3623260D0F684500981E51 /* MathCraft_LoginAppDelegate.m in Sources */,
+				28D7ACF80DDB3853001CB0EB /* MathCraft_LoginViewController.m in Sources */,
+				12ECDBF01140FF950002F94C /* MathCraft_Register.m in Sources */,
+				125D2DC21148530500EE222A /* MathCraft_Option.m in Sources */,
+				125D2DD911485C2200EE222A /* MathCraft_LeaderBoard.m in Sources */,
+				125D2E73114867D000EE222A /* MathCraft_GameMenu.m in Sources */,
+				122CF49A1149BA8F00804E20 /* MathCraft_Progress.m in Sources */,
+				1240B74C114B1EE800808C92 /* MathCraft_User.m in Sources */,
+				C8B38647114DB3A20080B365 /* Equation_GameViewController.m in Sources */,
+				1265277E114EBE0B009F67CB /* MathCraft_MainMenu.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C8491058114D95FA00885144 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		C8491063114D963800885144 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 1D6058900D05DD3D006BFB54 /* MathCraft_Login */;
+			targetProxy = C8491062114D963800885144 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		1D6058940D05DD3E006BFB54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = MathCraft_Login_Prefix.pch;
+				INFOPLIST_FILE = "MathCraft_Login-Info.plist";
+				PRODUCT_NAME = MathCraft_Login;
+			};
+			name = Debug;
+		};
+		1D6058950D05DD3E006BFB54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = MathCraft_Login_Prefix.pch;
+				INFOPLIST_FILE = "MathCraft_Login-Info.plist";
+				PRODUCT_NAME = MathCraft_Login;
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = iphoneos3.1.3;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = iphoneos3.1.3;
+			};
+			name = Release;
+		};
+		C849105E114D95FB00885144 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/OCT.app/Contents/MacOS/MathCraft_Login";
+				COPY_PHASE_STRIP = NO;
+				FRAMEWORK_SEARCH_PATHS = (
+					"\"$(SDKROOT)/Developer/Library/Frameworks\"",
+					"\"$(DEVELOPER_LIBRARY_DIR)/Frameworks\"",
+				);
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				INFOPLIST_FILE = "MathCraftScript-Info.plist";
+				OTHER_LDFLAGS = (
+					"-framework",
+					Foundation,
+					"-framework",
+					SenTestingKit,
+					"-framework",
+					UIKit,
+				);
+				PREBINDING = NO;
+				PRODUCT_NAME = MathCraftScript;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/OCT.app/Contents/MacOS/MathCraft_Login";
+				WRAPPER_EXTENSION = octest;
+			};
+			name = Debug;
+		};
+		C849105F114D95FB00885144 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				FRAMEWORK_SEARCH_PATHS = (
+					"\"$(SDKROOT)/Developer/Library/Frameworks\"",
+					"\"$(DEVELOPER_LIBRARY_DIR)/Frameworks\"",
+				);
+				GCC_ENABLE_FIX_AND_CONTINUE = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				INFOPLIST_FILE = "MathCraftScript-Info.plist";
+				OTHER_LDFLAGS = (
+					"-framework",
+					Foundation,
+					"-framework",
+					SenTestingKit,
+					"-framework",
+					UIKit,
+				);
+				PREBINDING = NO;
+				PRODUCT_NAME = MathCraftScript;
+				WRAPPER_EXTENSION = octest;
+				ZERO_LINK = NO;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "MathCraft_Login" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D6058940D05DD3E006BFB54 /* Debug */,
+				1D6058950D05DD3E006BFB54 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "MathCraft_Login" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C8491060114D95FB00885144 /* Build configuration list for PBXNativeTarget "Unit Tests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C849105E114D95FB00885144 /* Debug */,
+				C849105F114D95FB00885144 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}
