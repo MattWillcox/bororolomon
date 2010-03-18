@@ -1,0 +1,5 @@
+/Users/JoannaSo/Desktop/MathGame1.3/Classes/MathGame1_3AppDelegate.m: In function '-[MathGame1_3AppDelegate onTimer]':
+/Users/JoannaSo/Desktop/MathGame1.3/Classes/MathGame1_3AppDelegate.m:25: warning: 'MathGame1_3ViewController' may not respond to '-updateLabel'
+/Users/JoannaSo/Desktop/MathGame1.3/Classes/MathGame1_3AppDelegate.m:25: warning: (Messages without a matching method signature
+/Users/JoannaSo/Desktop/MathGame1.3/Classes/MathGame1_3AppDelegate.m:25: warning: will be assumed to return 'id' and accept
+/Users/JoannaSo/Desktop/MathGame1.3/Classes/MathGame1_3AppDelegate.m:25: warning: '...' as arguments.)
