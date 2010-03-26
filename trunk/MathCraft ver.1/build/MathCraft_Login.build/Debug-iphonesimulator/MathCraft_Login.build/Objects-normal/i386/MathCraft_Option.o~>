@@ -1,2 +1,0 @@
-/Users/reza/WorkSpace/MathCraft_Login 2/Classes/MathCraft_Option.m:91: warning: property 'back' requires method '-back' to be defined - use @synthesize, @dynamic or provide a method implementation
-/Users/reza/WorkSpace/MathCraft_Login 2/Classes/MathCraft_Option.m:91: warning: property 'back' requires the method 'setBack:' to be defined - use @synthesize, @dynamic or provide a method implementation
