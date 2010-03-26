@@ -1,0 +1,31 @@
+TMathCraftScript
+v7
+r1
+
+N/Users/eimantorabi/Documents/Xcode Projects/MathCraft_Login/build/Debug-iphonesimulator/MathCraftScript.octest
+t2
+s0
+
+N/Users/eimantorabi/Documents/Xcode Projects/MathCraft_Login/build/Debug-iphonesimulator/MathCraftScript.octest/Info.plist
+t2
+s0
+
+N/Users/eimantorabi/Documents/Xcode Projects/MathCraft_Login/build/MathCraft_Login.build/Debug-iphonesimulator/MathCraftScript.build/Script-C849105A114D95FA00885144.sh
+c00000000000000000000000000000000
+t2
+s0
+
+NMathCraftScript-Info.plist
+c000000004B9D5E7A0000000000000281
+t1268604538
+s641
+
+CPhaseScriptExecution "Run Script" "/Users/eimantorabi/Documents/Xcode Projects/MathCraft_Login/build/MathCraft_Login.build/Debug-iphonesimulator/MathCraftScript.build/Script-C849105A114D95FA00885144.sh"
+r0
+
+CProcessInfoPlistFile "/Users/eimantorabi/Documents/Xcode Projects/MathCraft_Login/build/Debug-iphonesimulator/MathCraftScript.octest/Info.plist" MathCraftScript-Info.plist
+r0
+
+CTouch "/Users/eimantorabi/Documents/Xcode Projects/MathCraft_Login/build/Debug-iphonesimulator/MathCraftScript.octest"
+r0
+
