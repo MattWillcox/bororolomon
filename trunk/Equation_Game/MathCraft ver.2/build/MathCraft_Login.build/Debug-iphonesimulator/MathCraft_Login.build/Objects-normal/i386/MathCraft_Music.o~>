@@ -1,6 +1,0 @@
-/Users/bassnak/Documents/MathCraft ver.2/Classes/MathCraft_Music.m: In function '-[MathCraft_Music changeTrack:]':
-/Users/bassnak/Documents/MathCraft ver.2/Classes/MathCraft_Music.m:39: warning: class 'MathCraft_Music' does not implement the 'AVAudioPlayerDelegate' protocol
-/Users/bassnak/Documents/MathCraft ver.2/Classes/MathCraft_Music.m:49: warning: class 'MathCraft_Music' does not implement the 'AVAudioPlayerDelegate' protocol
-/Users/bassnak/Documents/MathCraft ver.2/Classes/MathCraft_Music.m:59: warning: class 'MathCraft_Music' does not implement the 'AVAudioPlayerDelegate' protocol
-/Users/bassnak/Documents/MathCraft ver.2/Classes/MathCraft_Music.m:68: warning: class 'MathCraft_Music' does not implement the 'AVAudioPlayerDelegate' protocol
-/Users/bassnak/Documents/MathCraft ver.2/Classes/MathCraft_Music.m:77: warning: class 'MathCraft_Music' does not implement the 'AVAudioPlayerDelegate' protocol
