@@ -1,0 +1,5 @@
+/Users/bassnak/Documents/MathCraft ver.2/Classes/ClockGamesMenu.m: In function '-[ClockGamesMenu game1_Pressed]':
+/Users/bassnak/Documents/MathCraft ver.2/Classes/ClockGamesMenu.m:23: error: 'Clock_Game' undeclared (first use in this function)
+/Users/bassnak/Documents/MathCraft ver.2/Classes/ClockGamesMenu.m:23: error: (Each undeclared identifier is reported only once
+/Users/bassnak/Documents/MathCraft ver.2/Classes/ClockGamesMenu.m:23: error: for each function it appears in.)
+/Users/bassnak/Documents/MathCraft ver.2/Classes/ClockGamesMenu.m:23: error: 'gamescreen' undeclared (first use in this function)
