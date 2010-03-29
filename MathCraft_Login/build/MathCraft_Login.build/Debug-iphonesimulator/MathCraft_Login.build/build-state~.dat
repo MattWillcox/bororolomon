@@ -1,344 +1,0 @@
-TMathCraft_Login
-v7
-r0
-t289471980.641670
-cCheck dependencies
-cProcessInfoPlistFile /Users/bassnak/Documents/MathCraft_Login/build/Debug-iphonesimulator/MathCraft_Login.app/Info.plist MathCraft_Login-Info.plist
-cCompileXIB /Users/bassnak/Documents/MathCraft_Login/MainWindow.xib
-cCompileXIB /Users/bassnak/Documents/MathCraft_Login/MathCraft_LoginViewController.xib
-cCompileXIB /Users/bassnak/Documents/MathCraft_Login/Classes/register.xib
-cCompileXIB /Users/bassnak/Documents/MathCraft_Login/Classes/mainmenu.xib
-cProcessPCH /var/folders/ej/ejK985oRHrSLUwTFZzAjO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MathCraft_Login_Prefix-gslutsxjpwsapuaiqiqtfuzzkvie/MathCraft_Login_Prefix.pch.gch MathCraft_Login_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/MathCraft_Login.build/Debug-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/main.o /Users/bassnak/Documents/MathCraft_Login/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/MathCraft_Login.build/Debug-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MathCraft_LoginAppDelegate.o /Users/bassnak/Documents/MathCraft_Login/Classes/MathCraft_LoginAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/MathCraft_Login.build/Debug-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MathCraft_LoginViewController.o /Users/bassnak/Documents/MathCraft_Login/Classes/MathCraft_LoginViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/MathCraft_Login.build/Debug-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/register.o /Users/bassnak/Documents/MathCraft_Login/Classes/register.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/MathCraft_Login.build/Debug-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/mainmenu.o /Users/bassnak/Documents/MathCraft_Login/Classes/mainmenu.m normal i386 objective-c com.apple.compilers.gcc.4_2
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
-c000000004B90A04300000000000000EE
-t1267769411
-s238
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c000000004B2B4CC3000000000026EE30
-t1261128899
-s2551344
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c000000004B2B4DC8000000000027E880
-t1261129160
-s2615424
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
-c000000004B2B4DAE0000000000001355
-t1261129134
-s4949
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
-c000000004B2B61620000000000000788
-t1261134178
-s1928
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c000000004B2B62B500000000016721E0
-t1261134517
-s23536096
-
-N/Users/bassnak/Documents/MathCraft_Login/Classes/MathCraft_LoginAppDelegate.h
-c000000004B90C3250000000000000212
-t1267778341
-s530
-i<UIKit/UIKit.h>
-
-N/Users/bassnak/Documents/MathCraft_Login/Classes/MathCraft_LoginAppDelegate.m
-c000000004B90C63000000000000002E8
-t1267779120
-s744
-i"MathCraft_LoginAppDelegate.h"
-i"MathCraft_LoginViewController.h"
-
-N/Users/bassnak/Documents/MathCraft_Login/Classes/MathCraft_LoginViewController.h
-c000000004B90C3250000000000000109
-t1267778341
-s265
-i<UIKit/UIKit.h>
-
-N/Users/bassnak/Documents/MathCraft_Login/Classes/MathCraft_LoginViewController.m
-c000000004B90C66A00000000000005DC
-t1267779178
-s1500
-i"MathCraft_LoginViewController.h"
-
-N/Users/bassnak/Documents/MathCraft_Login/Classes/mainmenu.h
-c000000004B90C34A00000000000000DF
-t1267778378
-s223
-i<UIKit/UIKit.h>
-
-N/Users/bassnak/Documents/MathCraft_Login/Classes/mainmenu.m
-c000000004B90C6660000000000000565
-t1267779174
-s1381
-i"mainmenu.h"
-
-N/Users/bassnak/Documents/MathCraft_Login/Classes/mainmenu.xib
-c000000004B90C34A0000000000001853
-t1267778378
-s6227
-
-N/Users/bassnak/Documents/MathCraft_Login/Classes/register.h
-c000000004B90C33D00000000000000DF
-t1267778365
-s223
-i<UIKit/UIKit.h>
-
-N/Users/bassnak/Documents/MathCraft_Login/Classes/register.m
-c000000004B90C6560000000000000565
-t1267779158
-s1381
-i"register.h"
-
-N/Users/bassnak/Documents/MathCraft_Login/Classes/register.xib
-c000000004B90C33D0000000000001853
-t1267778365
-s6227
-
-N/Users/bassnak/Documents/MathCraft_Login/MainWindow.xib
-c000000004B90C32500000000000024A6
-t1267778341
-s9382
-
-N/Users/bassnak/Documents/MathCraft_Login/MathCraft_LoginViewController.xib
-c000000004B90C32500000000000018FB
-t1267778341
-s6395
-
-N/Users/bassnak/Documents/MathCraft_Login/MathCraft_Login_Prefix.pch
-c000000004B90C32500000000000000C7
-t1267778341
-s199
-i<Foundation/Foundation.h>
-i<UIKit/UIKit.h>
-
-N/Users/bassnak/Documents/MathCraft_Login/build/Debug-iphonesimulator/MathCraft_Login.app
-t2
-s0
-
-N/Users/bassnak/Documents/MathCraft_Login/build/Debug-iphonesimulator/MathCraft_Login.app.dSYM
-t2
-s0
-
-N/Users/bassnak/Documents/MathCraft_Login/build/Debug-iphonesimulator/MathCraft_Login.app/Info.plist
-t1267779178
-s674
-
-N/Users/bassnak/Documents/MathCraft_Login/build/Debug-iphonesimulator/MathCraft_Login.app/MainWindow.nib
-t1267779178
-s1511
-
-N/Users/bassnak/Documents/MathCraft_Login/build/Debug-iphonesimulator/MathCraft_Login.app/MathCraft_Login
-t2
-s0
-
-N/Users/bassnak/Documents/MathCraft_Login/build/Debug-iphonesimulator/MathCraft_Login.app/MathCraft_LoginViewController.nib
-t1267779178
-s1151
-
-N/Users/bassnak/Documents/MathCraft_Login/build/Debug-iphonesimulator/MathCraft_Login.app/PkgInfo
-t1267779178
-s8
-
-N/Users/bassnak/Documents/MathCraft_Login/build/Debug-iphonesimulator/MathCraft_Login.app/mainmenu.nib
-t1267779179
-s1106
-
-N/Users/bassnak/Documents/MathCraft_Login/build/Debug-iphonesimulator/MathCraft_Login.app/register.nib
-t1267779179
-s1106
-
-N/Users/bassnak/Documents/MathCraft_Login/build/MathCraft_Login.build/Debug-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MathCraft_Login.LinkFileList
-c000000004B90C66A00000000000002F3
-t1267779178
-s755
-
-N/Users/bassnak/Documents/MathCraft_Login/build/MathCraft_Login.build/Debug-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MathCraft_LoginAppDelegate.o
-t1267779180
-s38812
-
-N/Users/bassnak/Documents/MathCraft_Login/build/MathCraft_Login.build/Debug-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MathCraft_LoginViewController.o
-t1267779180
-s30528
-
-N/Users/bassnak/Documents/MathCraft_Login/build/MathCraft_Login.build/Debug-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/main.o
-t1267779180
-s5960
-
-N/Users/bassnak/Documents/MathCraft_Login/build/MathCraft_Login.build/Debug-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/mainmenu.o
-t1267779180
-s30216
-
-N/Users/bassnak/Documents/MathCraft_Login/build/MathCraft_Login.build/Debug-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/register.o
-t2
-s0
-
-N/Users/bassnak/Documents/MathCraft_Login/main.m
-c000000004B90C3250000000000000174
-t1267778341
-s372
-i<UIKit/UIKit.h>
-
-N/var/folders/ej/ejK985oRHrSLUwTFZzAjO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MathCraft_Login_Prefix-gslutsxjpwsapuaiqiqtfuzzkvie/MathCraft_Login_Prefix.pch.gch
-t1267779180
-s13034960
-
-NMathCraft_Login-Info.plist
-c000000004B90C5EF00000000000003E7
-t1267779055
-s999
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies289471978#289471978#0(0"0(0#1#0"28710924367954032#0"0#
-
-CCompileC build/MathCraft_Login.build/Debug-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MathCraft_LoginAppDelegate.o /Users/bassnak/Documents/MathCraft_Login/Classes/MathCraft_LoginAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s289471980.324252
-e289471980.519697
-r1
-xCompileC
-xbuild/MathCraft_Login.build/Debug-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MathCraft_LoginAppDelegate.o
-x/Users/bassnak/Documents/MathCraft_Login/Classes/MathCraft_LoginAppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-o/Users/bassnak/Documents/MathCraft_Login/Classes/MathCraft_LoginAppDelegate.m: In function '-[MathCraft_LoginAppDelegate applicationDidFinishLaunching:]':
-o/Users/bassnak/Documents/MathCraft_Login/Classes/MathCraft_LoginAppDelegate.m:24: warning: 'UIDevice' may not respond to '-setOrientation:'
-o/Users/bassnak/Documents/MathCraft_Login/Classes/MathCraft_LoginAppDelegate.m:24: warning: (Messages without a matching method signature
-o/Users/bassnak/Documents/MathCraft_Login/Classes/MathCraft_LoginAppDelegate.m:24: warning: will be assumed to return 'id' and accept
-o/Users/bassnak/Documents/MathCraft_Login/Classes/MathCraft_LoginAppDelegate.m:24: warning: '...' as arguments.)
-lSLF07#2@85"Compile /Users/bassnak/Documents/MathCraft_Login/Classes/MathCraft_LoginAppDelegate.m289471980#289471980#0(677"/Users/bassnak/Documents/MathCraft_Login/Classes/MathCraft_LoginAppDelegate.m: In function '-[MathCraft_LoginAppDelegate applicationDidFinishLaunching:]':/Users/bassnak/Documents/MathCraft_Login/Classes/MathCraft_LoginAppDelegate.m:24: warning: 'UIDevice' may not respond to '-setOrientation:'/Users/bassnak/Documents/MathCraft_Login/Classes/MathCraft_LoginAppDelegate.m:24: warning: (Messages without a matching method signature/Users/bassnak/Documents/MathCraft_Login/Classes/MathCraft_LoginAppDelegate.m:24: warning: will be assumed to return 'id' and accept/Users/bassnak/Documents/MathCraft_Login/Classes/MathCraft_LoginAppDelegate.m:24: warning: '...' as arguments.)2(22@48"'UIDevice' may not respond to '-setOrientation:'289471980#155#140#0(6@77"/Users/bassnak/Documents/MathCraft_Login/Classes/MathCraft_LoginAppDelegate.m289471920#24#0#24#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)289471980#295#137#0(6@77"/Users/bassnak/Documents/MathCraft_Login/Classes/MathCraft_LoginAppDelegate.m289471920#24#0#24#0#0"0(0#0#77"/Users/bassnak/Documents/MathCraft_Login/Classes/MathCraft_LoginAppDelegate.m4300885448#2093"    cd /Users/bassnak/Documents/MathCraft_Login    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/bassnak/Documents/MathCraft_Login/build/MathCraft_Login.build/Debug-iphonesimulator/MathCraft_Login.build/MathCraft_Login-generated-files.hmap -I/Users/bassnak/Documents/MathCraft_Login/build/MathCraft_Login.build/Debug-iphonesimulator/MathCraft_Login.build/MathCraft_Login-own-target-headers.hmap -I/Users/bassnak/Documents/MathCraft_Login/build/MathCraft_Login.build/Debug-iphonesimulator/MathCraft_Login.build/MathCraft_Login-all-target-headers.hmap -iquote /Users/bassnak/Documents/MathCraft_Login/build/MathCraft_Login.build/Debug-iphonesimulator/MathCraft_Login.build/MathCraft_Login-project-headers.hmap -F/Users/bassnak/Documents/MathCraft_Login/build/Debug-iphonesimulator -I/Users/bassnak/Documents/MathCraft_Login/build/Debug-iphonesimulator/include -I/Users/bassnak/Documents/MathCraft_Login/build/MathCraft_Login.build/Debug-iphonesimulator/MathCraft_Login.build/DerivedSources/i386 -I/Users/bassnak/Documents/MathCraft_Login/build/MathCraft_Login.build/Debug-iphonesimulator/MathCraft_Login.build/DerivedSources -include /var/folders/ej/ejK985oRHrSLUwTFZzAjO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MathCraft_Login_Prefix-gslutsxjpwsapuaiqiqtfuzzkvie/MathCraft_Login_Prefix.pch -c /Users/bassnak/Documents/MathCraft_Login/Classes/MathCraft_LoginAppDelegate.m -o /Users/bassnak/Documents/MathCraft_Login/build/MathCraft_Login.build/Debug-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MathCraft_LoginAppDelegate.o0#
-
-CCompileC build/MathCraft_Login.build/Debug-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MathCraft_LoginViewController.o /Users/bassnak/Documents/MathCraft_Login/Classes/MathCraft_LoginViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s289471980.490780
-e289471980.599727
-r1
-xCompileC
-xbuild/MathCraft_Login.build/Debug-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MathCraft_LoginViewController.o
-x/Users/bassnak/Documents/MathCraft_Login/Classes/MathCraft_LoginViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@88"Compile /Users/bassnak/Documents/MathCraft_Login/Classes/MathCraft_LoginViewController.m289471980#289471980#0(0"0(0#0#80"/Users/bassnak/Documents/MathCraft_Login/Classes/MathCraft_LoginViewController.m4300885448#2099"    cd /Users/bassnak/Documents/MathCraft_Login    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/bassnak/Documents/MathCraft_Login/build/MathCraft_Login.build/Debug-iphonesimulator/MathCraft_Login.build/MathCraft_Login-generated-files.hmap -I/Users/bassnak/Documents/MathCraft_Login/build/MathCraft_Login.build/Debug-iphonesimulator/MathCraft_Login.build/MathCraft_Login-own-target-headers.hmap -I/Users/bassnak/Documents/MathCraft_Login/build/MathCraft_Login.build/Debug-iphonesimulator/MathCraft_Login.build/MathCraft_Login-all-target-headers.hmap -iquote /Users/bassnak/Documents/MathCraft_Login/build/MathCraft_Login.build/Debug-iphonesimulator/MathCraft_Login.build/MathCraft_Login-project-headers.hmap -F/Users/bassnak/Documents/MathCraft_Login/build/Debug-iphonesimulator -I/Users/bassnak/Documents/MathCraft_Login/build/Debug-iphonesimulator/include -I/Users/bassnak/Documents/MathCraft_Login/build/MathCraft_Login.build/Debug-iphonesimulator/MathCraft_Login.build/DerivedSources/i386 -I/Users/bassnak/Documents/MathCraft_Login/build/MathCraft_Login.build/Debug-iphonesimulator/MathCraft_Login.build/DerivedSources -include /var/folders/ej/ejK985oRHrSLUwTFZzAjO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MathCraft_Login_Prefix-gslutsxjpwsapuaiqiqtfuzzkvie/MathCraft_Login_Prefix.pch -c /Users/bassnak/Documents/MathCraft_Login/Classes/MathCraft_LoginViewController.m -o /Users/bassnak/Documents/MathCraft_Login/build/MathCraft_Login.build/Debug-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MathCraft_LoginViewController.o0#
-
-CCompileC build/MathCraft_Login.build/Debug-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/main.o /Users/bassnak/Documents/MathCraft_Login/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s289471980.323033
-e289471980.490678
-r1
-xCompileC
-xbuild/MathCraft_Login.build/Debug-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/main.o
-x/Users/bassnak/Documents/MathCraft_Login/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@55"Compile /Users/bassnak/Documents/MathCraft_Login/main.m289471980#289471980#0(0"0(0#0#47"/Users/bassnak/Documents/MathCraft_Login/main.m4300885448#2041"    cd /Users/bassnak/Documents/MathCraft_Login    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/bassnak/Documents/MathCraft_Login/build/MathCraft_Login.build/Debug-iphonesimulator/MathCraft_Login.build/MathCraft_Login-generated-files.hmap -I/Users/bassnak/Documents/MathCraft_Login/build/MathCraft_Login.build/Debug-iphonesimulator/MathCraft_Login.build/MathCraft_Login-own-target-headers.hmap -I/Users/bassnak/Documents/MathCraft_Login/build/MathCraft_Login.build/Debug-iphonesimulator/MathCraft_Login.build/MathCraft_Login-all-target-headers.hmap -iquote /Users/bassnak/Documents/MathCraft_Login/build/MathCraft_Login.build/Debug-iphonesimulator/MathCraft_Login.build/MathCraft_Login-project-headers.hmap -F/Users/bassnak/Documents/MathCraft_Login/build/Debug-iphonesimulator -I/Users/bassnak/Documents/MathCraft_Login/build/Debug-iphonesimulator/include -I/Users/bassnak/Documents/MathCraft_Login/build/MathCraft_Login.build/Debug-iphonesimulator/MathCraft_Login.build/DerivedSources/i386 -I/Users/bassnak/Documents/MathCraft_Login/build/MathCraft_Login.build/Debug-iphonesimulator/MathCraft_Login.build/DerivedSources -include /var/folders/ej/ejK985oRHrSLUwTFZzAjO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MathCraft_Login_Prefix-gslutsxjpwsapuaiqiqtfuzzkvie/MathCraft_Login_Prefix.pch -c /Users/bassnak/Documents/MathCraft_Login/main.m -o /Users/bassnak/Documents/MathCraft_Login/build/MathCraft_Login.build/Debug-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/main.o0#
-
-CCompileC build/MathCraft_Login.build/Debug-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/mainmenu.o /Users/bassnak/Documents/MathCraft_Login/Classes/mainmenu.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s289471980.567467
-e289471980.641575
-r1
-xCompileC
-xbuild/MathCraft_Login.build/Debug-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/mainmenu.o
-x/Users/bassnak/Documents/MathCraft_Login/Classes/mainmenu.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@67"Compile /Users/bassnak/Documents/MathCraft_Login/Classes/mainmenu.m289471980#289471980#0(0"0(0#0#59"/Users/bassnak/Documents/MathCraft_Login/Classes/mainmenu.m4300885448#2057"    cd /Users/bassnak/Documents/MathCraft_Login    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/bassnak/Documents/MathCraft_Login/build/MathCraft_Login.build/Debug-iphonesimulator/MathCraft_Login.build/MathCraft_Login-generated-files.hmap -I/Users/bassnak/Documents/MathCraft_Login/build/MathCraft_Login.build/Debug-iphonesimulator/MathCraft_Login.build/MathCraft_Login-own-target-headers.hmap -I/Users/bassnak/Documents/MathCraft_Login/build/MathCraft_Login.build/Debug-iphonesimulator/MathCraft_Login.build/MathCraft_Login-all-target-headers.hmap -iquote /Users/bassnak/Documents/MathCraft_Login/build/MathCraft_Login.build/Debug-iphonesimulator/MathCraft_Login.build/MathCraft_Login-project-headers.hmap -F/Users/bassnak/Documents/MathCraft_Login/build/Debug-iphonesimulator -I/Users/bassnak/Documents/MathCraft_Login/build/Debug-iphonesimulator/include -I/Users/bassnak/Documents/MathCraft_Login/build/MathCraft_Login.build/Debug-iphonesimulator/MathCraft_Login.build/DerivedSources/i386 -I/Users/bassnak/Documents/MathCraft_Login/build/MathCraft_Login.build/Debug-iphonesimulator/MathCraft_Login.build/DerivedSources -include /var/folders/ej/ejK985oRHrSLUwTFZzAjO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MathCraft_Login_Prefix-gslutsxjpwsapuaiqiqtfuzzkvie/MathCraft_Login_Prefix.pch -c /Users/bassnak/Documents/MathCraft_Login/Classes/mainmenu.m -o /Users/bassnak/Documents/MathCraft_Login/build/MathCraft_Login.build/Debug-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/mainmenu.o0#
-
-CCompileC build/MathCraft_Login.build/Debug-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/register.o /Users/bassnak/Documents/MathCraft_Login/Classes/register.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s289471980.519792
-e289471980.567366
-r0
-xCompileC
-xbuild/MathCraft_Login.build/Debug-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/register.o
-x/Users/bassnak/Documents/MathCraft_Login/Classes/register.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-oIn file included from /Users/bassnak/Documents/MathCraft_Login/Classes/register.m:9:
-o/Users/bassnak/Documents/MathCraft_Login/Classes/register.h:12: error: expected identifier or protocol references before 'register'
-o/Users/bassnak/Documents/MathCraft_Login/Classes/register.h:16: warning: '@end' must appear in an @implementation context
-o/Users/bassnak/Documents/MathCraft_Login/Classes/register.m:12: error: expected identifier or protocol references before 'register'
-o/Users/bassnak/Documents/MathCraft_Login/Classes/register.m:39: fatal error: method definition not in @implementation context
-ocompilation terminated.
-o{standard input}:34:FATAL:.abort  detected.  Assembly stopping.
-lSLF07#2@67"Compile /Users/bassnak/Documents/MathCraft_Login/Classes/register.m289471980#289471980#0(685"In file included from /Users/bassnak/Documents/MathCraft_Login/Classes/register.m:9:/Users/bassnak/Documents/MathCraft_Login/Classes/register.h:12: error: expected identifier or protocol references before 'register'/Users/bassnak/Documents/MathCraft_Login/Classes/register.h:16: warning: '@end' must appear in an @implementation context/Users/bassnak/Documents/MathCraft_Login/Classes/register.m:12: error: expected identifier or protocol references before 'register'/Users/bassnak/Documents/MathCraft_Login/Classes/register.m:39: fatal error: method definition not in @implementation contextcompilation terminated.{standard input}:34:FATAL:.abort  detected.  Assembly stopping.4(4@60"Expected identifier or protocol references before 'register'289471980#85#132#2(7@81"In file included from /Users/bassnak/Documents/MathCraft_Login/Classes/register.m289471980#18446744073709551615#0#0(6@59"/Users/bassnak/Documents/MathCraft_Login/Classes/register.m289471958#9#0#9#0#0"0(13@123"Expected identifier or protocol references before 'register' in /Users/bassnak/Documents/MathCraft_Login/Classes/register.h289471980#18446744073709551615#0#0(6@59"/Users/bassnak/Documents/MathCraft_Login/Classes/register.h289471165#12#0#12#0#0"0(6@59"/Users/bassnak/Documents/MathCraft_Login/Classes/register.h289471165#12#0#12#0#19"expected * before *0(22@48"'@end' must appear in an @implementation context289471980#217#122#2(7@81"In file included from /Users/bassnak/Documents/MathCraft_Login/Classes/register.m289471980#18446744073709551615#0#0(6@59"/Users/bassnak/Documents/MathCraft_Login/Classes/register.m289471958#9#0#9#0#0"0(13@111"'@end' must appear in an @implementation context in /Users/bassnak/Documents/MathCraft_Login/Classes/register.h289471980#18446744073709551615#0#0(6@59"/Users/bassnak/Documents/MathCraft_Login/Classes/register.h289471165#16#0#16#0#0"0(6@59"/Users/bassnak/Documents/MathCraft_Login/Classes/register.h289471165#16#0#16#0#0"0(4@60"Expected identifier or protocol references before 'register'289471980#339#132#0(6@59"/Users/bassnak/Documents/MathCraft_Login/Classes/register.m289471958#12#0#12#0#19"expected * before *0(4@48"Method definition not in @implementation context289471980#471#126#0(6@59"/Users/bassnak/Documents/MathCraft_Login/Classes/register.m289471958#39#0#39#0#48"method definition not in @implementation context0(0#0#59"/Users/bassnak/Documents/MathCraft_Login/Classes/register.m4300885448#2057"    cd /Users/bassnak/Documents/MathCraft_Login    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/bassnak/Documents/MathCraft_Login/build/MathCraft_Login.build/Debug-iphonesimulator/MathCraft_Login.build/MathCraft_Login-generated-files.hmap -I/Users/bassnak/Documents/MathCraft_Login/build/MathCraft_Login.build/Debug-iphonesimulator/MathCraft_Login.build/MathCraft_Login-own-target-headers.hmap -I/Users/bassnak/Documents/MathCraft_Login/build/MathCraft_Login.build/Debug-iphonesimulator/MathCraft_Login.build/MathCraft_Login-all-target-headers.hmap -iquote /Users/bassnak/Documents/MathCraft_Login/build/MathCraft_Login.build/Debug-iphonesimulator/MathCraft_Login.build/MathCraft_Login-project-headers.hmap -F/Users/bassnak/Documents/MathCraft_Login/build/Debug-iphonesimulator -I/Users/bassnak/Documents/MathCraft_Login/build/Debug-iphonesimulator/include -I/Users/bassnak/Documents/MathCraft_Login/build/MathCraft_Login.build/Debug-iphonesimulator/MathCraft_Login.build/DerivedSources/i386 -I/Users/bassnak/Documents/MathCraft_Login/build/MathCraft_Login.build/Debug-iphonesimulator/MathCraft_Login.build/DerivedSources -include /var/folders/ej/ejK985oRHrSLUwTFZzAjO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MathCraft_Login_Prefix-gslutsxjpwsapuaiqiqtfuzzkvie/MathCraft_Login_Prefix.pch -c /Users/bassnak/Documents/MathCraft_Login/Classes/register.m -o /Users/bassnak/Documents/MathCraft_Login/build/MathCraft_Login.build/Debug-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/register.o1#
-
-CCompileXIB /Users/bassnak/Documents/MathCraft_Login/Classes/mainmenu.xib
-s289471978.799219
-e289471979.095027
-r1
-xCompileXIB
-x/Users/bassnak/Documents/MathCraft_Login/Classes/mainmenu.xib
-lSLF07#2@31"CompileXIB Classes/mainmenu.xib289471978#289471979#0(0"0(0#0#61"/Users/bassnak/Documents/MathCraft_Login/Classes/mainmenu.xib4300885448#500"    cd /Users/bassnak/Documents/MathCraft_Login    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/bassnak/Documents/MathCraft_Login/build/Debug-iphonesimulator/MathCraft_Login.app/mainmenu.nib /Users/bassnak/Documents/MathCraft_Login/Classes/mainmenu.xib0#
-
-CCompileXIB /Users/bassnak/Documents/MathCraft_Login/Classes/register.xib
-s289471978.795127
-e289471979.097462
-r1
-xCompileXIB
-x/Users/bassnak/Documents/MathCraft_Login/Classes/register.xib
-lSLF07#2@31"CompileXIB Classes/register.xib289471978#289471979#0(0"0(0#0#61"/Users/bassnak/Documents/MathCraft_Login/Classes/register.xib4300885448#500"    cd /Users/bassnak/Documents/MathCraft_Login    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/bassnak/Documents/MathCraft_Login/build/Debug-iphonesimulator/MathCraft_Login.app/register.nib /Users/bassnak/Documents/MathCraft_Login/Classes/register.xib0#
-
-CCompileXIB /Users/bassnak/Documents/MathCraft_Login/MainWindow.xib
-s289471978.415613
-e289471978.799130
-r1
-xCompileXIB
-x/Users/bassnak/Documents/MathCraft_Login/MainWindow.xib
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-lSLF07#2@25"CompileXIB MainWindow.xib289471978#289471978#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#55"/Users/bassnak/Documents/MathCraft_Login/MainWindow.xib4300885448#496"    cd /Users/bassnak/Documents/MathCraft_Login    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/bassnak/Documents/MathCraft_Login/build/Debug-iphonesimulator/MathCraft_Login.app/MainWindow.nib /Users/bassnak/Documents/MathCraft_Login/MainWindow.xib0#
-
-CCompileXIB /Users/bassnak/Documents/MathCraft_Login/MathCraft_LoginViewController.xib
-s289471978.418543
-e289471978.795042
-r1
-xCompileXIB
-x/Users/bassnak/Documents/MathCraft_Login/MathCraft_LoginViewController.xib
-lSLF07#2@44"CompileXIB MathCraft_LoginViewController.xib289471978#289471978#0(0"0(0#0#74"/Users/bassnak/Documents/MathCraft_Login/MathCraft_LoginViewController.xib4300885448#534"    cd /Users/bassnak/Documents/MathCraft_Login    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/bassnak/Documents/MathCraft_Login/build/Debug-iphonesimulator/MathCraft_Login.app/MathCraft_LoginViewController.nib /Users/bassnak/Documents/MathCraft_Login/MathCraft_LoginViewController.xib0#
-
-CGenerateDSYMFile /Users/bassnak/Documents/MathCraft_Login/build/Debug-iphonesimulator/MathCraft_Login.app.dSYM /Users/bassnak/Documents/MathCraft_Login/build/Debug-iphonesimulator/MathCraft_Login.app/MathCraft_Login
-r0
-
-CLd /Users/bassnak/Documents/MathCraft_Login/build/Debug-iphonesimulator/MathCraft_Login.app/MathCraft_Login normal i386
-r0
-
-CProcessInfoPlistFile /Users/bassnak/Documents/MathCraft_Login/build/Debug-iphonesimulator/MathCraft_Login.app/Info.plist MathCraft_Login-Info.plist
-s289471978.383202
-e289471978.415530
-r1
-xProcessInfoPlistFile
-x/Users/bassnak/Documents/MathCraft_Login/build/Debug-iphonesimulator/MathCraft_Login.app/Info.plist
-xMathCraft_Login-Info.plist
-lSLF07#2@34"Process MathCraft_Login-Info.plist289471978#289471978#0(0"0(0#0#67"/Users/bassnak/Documents/MathCraft_Login/MathCraft_Login-Info.plist29555314943524940#509"    cd /Users/bassnak/Documents/MathCraft_Login    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility MathCraft_Login-Info.plist -genpkginfo /Users/bassnak/Documents/MathCraft_Login/build/Debug-iphonesimulator/MathCraft_Login.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/bassnak/Documents/MathCraft_Login/build/Debug-iphonesimulator/MathCraft_Login.app/Info.plist0#
-
-CProcessPCH /var/folders/ej/ejK985oRHrSLUwTFZzAjO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MathCraft_Login_Prefix-gslutsxjpwsapuaiqiqtfuzzkvie/MathCraft_Login_Prefix.pch.gch MathCraft_Login_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-s289471979.097669
-e289471980.322776
-r1
-xProcessPCH
-x/var/folders/ej/ejK985oRHrSLUwTFZzAjO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MathCraft_Login_Prefix-gslutsxjpwsapuaiqiqtfuzzkvie/MathCraft_Login_Prefix.pch.gch
-xMathCraft_Login_Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@37"Precompile MathCraft_Login_Prefix.pch289471979#289471980#0(0"0(0#0#67"/Users/bassnak/Documents/MathCraft_Login/MathCraft_Login_Prefix.pch4300885448#1923"    cd /Users/bassnak/Documents/MathCraft_Login    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/bassnak/Documents/MathCraft_Login/build/MathCraft_Login.build/Debug-iphonesimulator/MathCraft_Login.build/MathCraft_Login-generated-files.hmap -I/Users/bassnak/Documents/MathCraft_Login/build/MathCraft_Login.build/Debug-iphonesimulator/MathCraft_Login.build/MathCraft_Login-own-target-headers.hmap -I/Users/bassnak/Documents/MathCraft_Login/build/MathCraft_Login.build/Debug-iphonesimulator/MathCraft_Login.build/MathCraft_Login-all-target-headers.hmap -iquote /Users/bassnak/Documents/MathCraft_Login/build/MathCraft_Login.build/Debug-iphonesimulator/MathCraft_Login.build/MathCraft_Login-project-headers.hmap -F/Users/bassnak/Documents/MathCraft_Login/build/Debug-iphonesimulator -I/Users/bassnak/Documents/MathCraft_Login/build/Debug-iphonesimulator/include -I/Users/bassnak/Documents/MathCraft_Login/build/MathCraft_Login.build/Debug-iphonesimulator/MathCraft_Login.build/DerivedSources/i386 -I/Users/bassnak/Documents/MathCraft_Login/build/MathCraft_Login.build/Debug-iphonesimulator/MathCraft_Login.build/DerivedSources -c /Users/bassnak/Documents/MathCraft_Login/MathCraft_Login_Prefix.pch -o /var/folders/ej/ejK985oRHrSLUwTFZzAjO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MathCraft_Login_Prefix-gslutsxjpwsapuaiqiqtfuzzkvie/MathCraft_Login_Prefix.pch.gch0#
-
-CTouch /Users/bassnak/Documents/MathCraft_Login/build/Debug-iphonesimulator/MathCraft_Login.app
-r0
-
