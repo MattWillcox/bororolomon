@@ -1,5 +1,0 @@
-/Users/reza/WorkSpace/MathCraft_Login 2/Classes/MathCraft_LoginAppDelegate.m: In function '-[MathCraft_LoginAppDelegate applicationDidFinishLaunching:]':
-/Users/reza/WorkSpace/MathCraft_Login 2/Classes/MathCraft_LoginAppDelegate.m:30: warning: 'UIDevice' may not respond to '-setOrientation:'
-/Users/reza/WorkSpace/MathCraft_Login 2/Classes/MathCraft_LoginAppDelegate.m:30: warning: (Messages without a matching method signature
-/Users/reza/WorkSpace/MathCraft_Login 2/Classes/MathCraft_LoginAppDelegate.m:30: warning: will be assumed to return 'id' and accept
-/Users/reza/WorkSpace/MathCraft_Login 2/Classes/MathCraft_LoginAppDelegate.m:30: warning: '...' as arguments.)
