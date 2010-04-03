@@ -1,0 +1,1915 @@
+TMathCraft_Login
+v7
+r0
+t291595260.676234
+cCheck dependencies
+cProcessInfoPlistFile "/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/Info.plist" MathCraft_Login-Info.plist
+cCompileXIB "/MathCraft ver.2.2/MainWindow.xib"
+cCompileXIB "/MathCraft ver.2.2/MathCraft_LoginViewController.xib"
+cCompileXIB "/MathCraft ver.2.2/Classes/MathCraft_Register.xib"
+cCompileXIB "/MathCraft ver.2.2/Classes/MathCraft_Option.xib"
+cCompileXIB "/MathCraft ver.2.2/Classes/MathCraft_LeaderBoard.xib"
+cCpResource "build/Release-iphonesimulator/MathCraft_Login.app/2 Menu copy-1.jpg" "2 Menu copy-1.jpg"
+cCpResource "build/Release-iphonesimulator/MathCraft_Login.app/3 Game Selection copy.jpg" "3 Game Selection copy.jpg"
+cCpResource "build/Release-iphonesimulator/MathCraft_Login.app/5 View Progress copy.jpg" "5 View Progress copy.jpg"
+cCompileXIB "/MathCraft ver.2.2/Classes/MathCraft_GameMenu.xib"
+cCompileXIB "/MathCraft ver.2.2/Classes/MathCraft_Progress.xib"
+cCpResource "build/Release-iphonesimulator/MathCraft_Login.app/6 Option copy.jpg" "6 Option copy.jpg"
+cCpResource "build/Release-iphonesimulator/MathCraft_Login.app/1 login copy.jpg" "1 login copy.jpg"
+cCpResource build/Release-iphonesimulator/MathCraft_Login.app/Default.png Default.png
+cCompileXIB "/MathCraft ver.2.2/Equation_GameViewController.xib"
+cCpResource "build/Release-iphonesimulator/MathCraft_Login.app/Eq Game copy.jpg" "Eq Game copy.jpg"
+cCpResource "build/Release-iphonesimulator/MathCraft_Login.app/log in copy1.jpg" "log in copy1.jpg"
+cCompileXIB "/MathCraft ver.2.2/Classes/MathCraft_MainMenu.xib"
+cCpResource build/Release-iphonesimulator/MathCraft_Login.app/background.mp3 background.mp3
+cCpResource build/Release-iphonesimulator/MathCraft_Login.app/eq.mp3 eq.mp3
+cCpResource build/Release-iphonesimulator/MathCraft_Login.app/money.mp3 money.mp3
+cCpResource build/Release-iphonesimulator/MathCraft_Login.app/pattern.mp3 pattern.mp3
+cCpResource build/Release-iphonesimulator/MathCraft_Login.app/time.mp3 time.mp3
+cCopyPlistFile "/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/Data.plist" Data.plist
+cCompileXIB "/MathCraft ver.2.2/Classes/PatternGamesMenuViewController.xib"
+cCompileXIB "/MathCraft ver.2.2/Classes/EquationGamesMenuViewController.xib"
+cCompileXIB "/MathCraft ver.2.2/Classes/MathGame1_3ViewController.xib"
+cCompileXIB "/MathCraft ver.2.2/PatternGame2ViewController.xib"
+cCpResource build/Release-iphonesimulator/MathCraft_Login.app/blue.jpg blue.jpg
+cCpResource build/Release-iphonesimulator/MathCraft_Login.app/green.jpg green.jpg
+cCpResource build/Release-iphonesimulator/MathCraft_Login.app/red.jpg red.jpg
+cCpResource build/Release-iphonesimulator/MathCraft_Login.app/button.png button.png
+cCompileXIB "/MathCraft ver.2.2/Classes/ClockGamesMenu.xib"
+cCompileXIB "/MathCraft ver.2.2/Classes/Mirror_Game.xib"
+cCpResource "build/Release-iphonesimulator/MathCraft_Login.app/Clock Game copy.jpg" "Clock Game copy.jpg"
+cCpResource build/Release-iphonesimulator/MathCraft_Login.app/hr_hand.png hr_hand.png
+cCpResource build/Release-iphonesimulator/MathCraft_Login.app/min_hand.png min_hand.png
+cCompileXIB "/MathCraft ver.2.2/Classes/Clock_Game.xib"
+cCpResource build/Release-iphonesimulator/MathCraft_Login.app/min_hand1.png min_hand1.png
+cCpResource build/Release-iphonesimulator/MathCraft_Login.app/hr_hand1.png hr_hand1.png
+cCpResource "build/Release-iphonesimulator/MathCraft_Login.app/clockgamesubmenu copy1.jpg" "clockgamesubmenu copy1.jpg"
+cCpResource "build/Release-iphonesimulator/MathCraft_Login.app/eq_game_submenu copy1.jpg" "eq_game_submenu copy1.jpg"
+cCpResource "build/Release-iphonesimulator/MathCraft_Login.app/patterngamesubmenu copy1.jpg" "patterngamesubmenu copy1.jpg"
+cCompileXIB "/MathCraft ver.2.2/Classes/Clock_Game_Analog.xib"
+cCompileXIB "/MathCraft ver.2.2/Classes/MoneyGamesMenu.xib"
+cCpResource build/Release-iphonesimulator/MathCraft_Login.app/25cents.png 25cents.png
+cCpResource build/Release-iphonesimulator/MathCraft_Login.app/one_coin.png one_coin.png
+cCpResource build/Release-iphonesimulator/MathCraft_Login.app/two_coin.png two_coin.png
+cCompileXIB "/MathCraft ver.2.2/MoneyGameViewController.xib"
+cCpResource "build/Release-iphonesimulator/MathCraft_Login.app/moneyGame copy.jpg" "moneyGame copy.jpg"
+cCpResource "build/Release-iphonesimulator/MathCraft_Login.app/pattern game copy.jpg" "pattern game copy.jpg"
+cCpResource "build/Release-iphonesimulator/MathCraft_Login.app/register copy.jpg" "register copy.jpg"
+cCpResource "build/Release-iphonesimulator/MathCraft_Login.app/moneygamesubmenu copy.jpg" "moneygamesubmenu copy.jpg"
+cCpResource "build/Release-iphonesimulator/MathCraft_Login.app/Mirror game copy.jpg" "Mirror game copy.jpg"
+cProcessPCH /var/folders/wG/wGXVeMlFFWq9DplZeNPVJU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MathCraft_Login_Prefix-ffquzeexayqmsvfxtjnqudsqltaa/MathCraft_Login_Prefix.pch.gch MathCraft_Login_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/main.o "/MathCraft ver.2.2/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MathCraft_LoginAppDelegate.o "/MathCraft ver.2.2/Classes/MathCraft_LoginAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MathCraft_LoginViewController.o "/MathCraft ver.2.2/Classes/MathCraft_LoginViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MathCraft_Register.o "/MathCraft ver.2.2/Classes/MathCraft_Register.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MathCraft_Option.o "/MathCraft ver.2.2/Classes/MathCraft_Option.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MathCraft_LeaderBoard.o "/MathCraft ver.2.2/Classes/MathCraft_LeaderBoard.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MathCraft_GameMenu.o "/MathCraft ver.2.2/Classes/MathCraft_GameMenu.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MathCraft_Progress.o "/MathCraft ver.2.2/Classes/MathCraft_Progress.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MathCraft_User.o "/MathCraft ver.2.2/Classes/MathCraft_User.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/Equation_GameViewController.o "/MathCraft ver.2.2/Classes/Equation_GameViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MathCraft_MainMenu.o "/MathCraft ver.2.2/Classes/MathCraft_MainMenu.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MathCraft_Music.o "/MathCraft ver.2.2/Classes/MathCraft_Music.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/UserProfile.o "/MathCraft ver.2.2/Classes/UserProfile.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/ManageProfile.o "/MathCraft ver.2.2/Classes/ManageProfile.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/PatternGame2ViewController.o "/MathCraft ver.2.2/Classes/PatternGame2ViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/PatternGamesMenuViewController.o "/MathCraft ver.2.2/Classes/PatternGamesMenuViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/EquationGamesMenuViewController.o "/MathCraft ver.2.2/Classes/EquationGamesMenuViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MathGame1_3ViewController.o "/MathCraft ver.2.2/Classes/MathGame1_3ViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/ClockGamesMenu.o "/MathCraft ver.2.2/Classes/ClockGamesMenu.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/Mirror_Game.o "/MathCraft ver.2.2/Classes/Mirror_Game.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/Clock_Game.o "/MathCraft ver.2.2/Classes/Clock_Game.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/Clock_Game_Analog.o "/MathCraft ver.2.2/Classes/Clock_Game_Analog.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MoneyGamesMenu.o "/MathCraft ver.2.2/Classes/MoneyGamesMenu.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MoneyGameViewController.o "/MathCraft ver.2.2/Classes/MoneyGameViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/MathCraft_Login" normal i386
+cGenerateDSYMFile "/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app.dSYM" "/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/MathCraft_Login"
+cTouch "/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk
+c000000004B5775E100000000000000EE
+t1264023009
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004ABDC9F500000000000120D0
+t1253951989
+s73936
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVAudioPlayer.h
+c000000004ABDC9F40000000000000ED7
+t1253951988
+s3799
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004ABDC853000000000026EE30
+t1253951571
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004ABDC952000000000027E880
+t1253951826
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004ABDC93F0000000000001355
+t1253951807
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004ABDCAC8000000000000007D
+t1253952200
+s125
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004ABDEE1D0000000000000788
+t1253961245
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004ABDEEE200000000016721E0
+t1253961442
+s23536096
+
+N/MathCraft ver.2.2/1 login copy.jpg
+c000000004BB11174000000000002A226
+t1269895540
+s172582
+
+N/MathCraft ver.2.2/2 Menu copy-1.jpg
+c000000004BB11174000000000002BFFD
+t1269895540
+s180221
+
+N/MathCraft ver.2.2/25cents.png
+c000000004BB111740000000000001D28
+t1269895540
+s7464
+
+N/MathCraft ver.2.2/3 Game Selection copy.jpg
+c000000004BB11174000000000002D141
+t1269895540
+s184641
+
+N/MathCraft ver.2.2/5 View Progress copy.jpg
+c000000004BB1117400000000000291D5
+t1269895540
+s168405
+
+N/MathCraft ver.2.2/6 Option copy.jpg
+c000000004BB1117400000000000287E8
+t1269895540
+s165864
+
+N/MathCraft ver.2.2/Classes/ClockGamesMenu.h
+c000000004BB111740000000000000190
+t1269895540
+s400
+i<UIKit/UIKit.h>
+i"Clock_Game.h"
+i"MathCraft_Music.h"
+i"Clock_Game_Analog.h"
+
+N/MathCraft ver.2.2/Classes/ClockGamesMenu.m
+c000000004BB1117400000000000008F9
+t1269895540
+s2297
+i"ClockGamesMenu.h"
+
+N/MathCraft ver.2.2/Classes/ClockGamesMenu.xib
+c000000004BB1117400000000000059F9
+t1269895540
+s23033
+
+N/MathCraft ver.2.2/Classes/Clock_Game.h
+c000000004BB11174000000000000059A
+t1269895540
+s1434
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+
+N/MathCraft ver.2.2/Classes/Clock_Game.m
+c000000004BB111740000000000001049
+t1269895540
+s4169
+i"Clock_Game.h"
+i"MathCraft_Music.h"
+
+N/MathCraft ver.2.2/Classes/Clock_Game.xib
+c000000004BB11174000000000000A6C1
+t1269895540
+s42689
+
+N/MathCraft ver.2.2/Classes/Clock_Game_Analog.h
+c000000004BB1117400000000000005A5
+t1269895540
+s1445
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+
+N/MathCraft ver.2.2/Classes/Clock_Game_Analog.m
+c000000004BB1117400000000000012BF
+t1269895540
+s4799
+i"Clock_Game_Analog.h"
+i"MathCraft_Music.h"
+
+N/MathCraft ver.2.2/Classes/Clock_Game_Analog.xib
+c000000004BB11174000000000000A6E0
+t1269895540
+s42720
+
+N/MathCraft ver.2.2/Classes/EquationGamesMenuViewController.h
+c000000004BB11174000000000000015D
+t1269895540
+s349
+i<UIKit/UIKit.h>
+
+N/MathCraft ver.2.2/Classes/EquationGamesMenuViewController.m
+c000000004BB1117400000000000009F1
+t1269895540
+s2545
+i"EquationGamesMenuViewController.h"
+i"Equation_GameViewController.h"
+i"MathGame1_3ViewController.h"
+i"MathCraft_Music.h"
+
+N/MathCraft ver.2.2/Classes/EquationGamesMenuViewController.xib
+c000000004BB111740000000000005A0D
+t1269895540
+s23053
+
+N/MathCraft ver.2.2/Classes/Equation_GameViewController.h
+c000000004BB11174000000000000037D
+t1269895540
+s893
+i<UIKit/UIKit.h>
+i"NumberGenerate.h"
+
+N/MathCraft ver.2.2/Classes/Equation_GameViewController.m
+c000000004BB111740000000000001752
+t1269895540
+s5970
+i"Equation_GameViewController.h"
+i"MathCraft_Music.h"
+
+N/MathCraft ver.2.2/Classes/ManageProfile.h
+c000000004BB1117400000000000004DC
+t1269895540
+s1244
+i<Foundation/Foundation.h>
+i"UserProfile.h"
+
+N/MathCraft ver.2.2/Classes/ManageProfile.m
+c000000004BB11174000000000000123D
+t1269895540
+s4669
+i"ManageProfile.h"
+
+N/MathCraft ver.2.2/Classes/MathCraft_GameMenu.h
+c000000004BB111740000000000000350
+t1269895540
+s848
+i<UIKit/UIKit.h>
+
+N/MathCraft ver.2.2/Classes/MathCraft_GameMenu.m
+c000000004BB1117400000000000009B9
+t1269895540
+s2489
+i"MathCraft_GameMenu.h"
+i"PatternGamesMenuViewController.h"
+i"MathCraft_Music.h"
+i"EquationGamesMenuViewController.h"
+i"ClockGamesMenu.h"
+i"MoneyGamesMenu.h"
+
+N/MathCraft ver.2.2/Classes/MathCraft_GameMenu.xib
+c000000004BB11174000000000000675B
+t1269895540
+s26459
+
+N/MathCraft ver.2.2/Classes/MathCraft_LeaderBoard.h
+c000000004BB11174000000000000016C
+t1269895540
+s364
+i<UIKit/UIKit.h>
+
+N/MathCraft ver.2.2/Classes/MathCraft_LeaderBoard.m
+c000000004BB11174000000000000028B
+t1269895540
+s651
+i"MathCraft_LeaderBoard.h"
+
+N/MathCraft ver.2.2/Classes/MathCraft_LeaderBoard.xib
+c000000004BB11174000000000000454A
+t1269895540
+s17738
+
+N/MathCraft ver.2.2/Classes/MathCraft_LoginAppDelegate.h
+c000000004BB111740000000000000257
+t1269895540
+s599
+i<UIKit/UIKit.h>
+
+N/MathCraft ver.2.2/Classes/MathCraft_LoginAppDelegate.m
+c000000004BB11174000000000000032F
+t1269895540
+s815
+i"MathCraft_LoginAppDelegate.h"
+i"MathCraft_LoginViewController.h"
+
+N/MathCraft ver.2.2/Classes/MathCraft_LoginViewController.h
+c000000004BB111740000000000000576
+t1269895540
+s1398
+i<UIKit/UIKit.h>
+i"MathCraft_Register.h"
+i"MathCraft_User.h"
+i"MathCraft_Music.h"
+i"ManageProfile.h"
+
+N/MathCraft ver.2.2/Classes/MathCraft_LoginViewController.m
+c000000004BB111740000000000000EED
+t1269895540
+s3821
+i"MathCraft_LoginViewController.h"
+i"MathCraft_MainMenu.h"
+i"MathCraft_Register.h"
+
+N/MathCraft ver.2.2/Classes/MathCraft_MainMenu.h
+c000000004BB1117400000000000002D4
+t1269895540
+s724
+i<UIKit/UIKit.h>
+
+N/MathCraft ver.2.2/Classes/MathCraft_MainMenu.m
+c000000004BB1117400000000000008FA
+t1269895540
+s2298
+i"MathCraft_MainMenu.h"
+i"MathCraft_GameMenu.h"
+i"MathCraft_Progress.h"
+i"MathCraft_Option.h"
+
+N/MathCraft ver.2.2/Classes/MathCraft_MainMenu.xib
+c000000004BB111740000000000006739
+t1269895540
+s26425
+
+N/MathCraft ver.2.2/Classes/MathCraft_Music.h
+c000000004BB1117400000000000001FA
+t1269895540
+s506
+i<Foundation/Foundation.h>
+i<AVFoundation/AVAudioPlayer.h>
+
+N/MathCraft ver.2.2/Classes/MathCraft_Music.m
+c000000004BB111740000000000000B56
+t1269895540
+s2902
+i"MathCraft_Music.h"
+
+N/MathCraft ver.2.2/Classes/MathCraft_Option.h
+c000000004BB111740000000000000237
+t1269895540
+s567
+i<UIKit/UIKit.h>
+
+N/MathCraft ver.2.2/Classes/MathCraft_Option.m
+c000000004BB11174000000000000077F
+t1269895540
+s1919
+i"MathCraft_Option.h"
+i"MathCraft_Music.h"
+i"ManageProfile.h"
+
+N/MathCraft ver.2.2/Classes/MathCraft_Option.xib
+c000000004BB1117400000000000055D9
+t1269895540
+s21977
+
+N/MathCraft ver.2.2/Classes/MathCraft_Progress.h
+c000000004BB1117400000000000001AE
+t1269895540
+s430
+i<UIKit/UIKit.h>
+
+N/MathCraft ver.2.2/Classes/MathCraft_Progress.m
+c000000004BB111740000000000000401
+t1269895540
+s1025
+i"MathCraft_Progress.h"
+
+N/MathCraft ver.2.2/Classes/MathCraft_Progress.xib
+c000000004BB111740000000000004A70
+t1269895540
+s19056
+
+N/MathCraft ver.2.2/Classes/MathCraft_Register.h
+c000000004BB111740000000000000542
+t1269895540
+s1346
+i<UIKit/UIKit.h>
+i"ManageProfile.h"
+i"MathCraft_MainMenu.h"
+
+N/MathCraft ver.2.2/Classes/MathCraft_Register.m
+c000000004BB11174000000000000101B
+t1269895540
+s4123
+i"MathCraft_Register.h"
+
+N/MathCraft ver.2.2/Classes/MathCraft_Register.xib
+c000000004BB111740000000000007221
+t1269895540
+s29217
+
+N/MathCraft ver.2.2/Classes/MathCraft_User.h
+c000000004BB1117400000000000003A1
+t1269895540
+s929
+i<Foundation/Foundation.h>
+
+N/MathCraft ver.2.2/Classes/MathCraft_User.m
+c000000004BB111740000000000000329
+t1269895540
+s809
+i"MathCraft_User.h"
+
+N/MathCraft ver.2.2/Classes/MathGame1_3ViewController.h
+c000000004BB111740000000000000413
+t1269895540
+s1043
+i<UIKit/UIKit.h>
+
+N/MathCraft ver.2.2/Classes/MathGame1_3ViewController.m
+c000000004BB11174000000000000172C
+t1269895540
+s5932
+i"MathGame1_3ViewController.h"
+i"MathCraft_Music.h"
+
+N/MathCraft ver.2.2/Classes/MathGame1_3ViewController.xib
+c000000004BB11174000000000000B525
+t1269895540
+s46373
+
+N/MathCraft ver.2.2/Classes/Mirror_Game.h
+c000000004BB111740000000000000357
+t1269895540
+s855
+i<UIKit/UIKit.h>
+
+N/MathCraft ver.2.2/Classes/Mirror_Game.m
+c000000004BB11174000000000000149F
+t1269895540
+s5279
+i"Mirror_Game.h"
+i"MathCraft_Music.h"
+
+N/MathCraft ver.2.2/Classes/Mirror_Game.xib
+c000000004BB11174000000000000B7D5
+t1269895540
+s47061
+
+N/MathCraft ver.2.2/Classes/MoneyGameViewController.h
+c000000004BB1117400000000000005BE
+t1269895540
+s1470
+i<UIKit/UIKit.h>
+i"MathCraft_Music.h"
+
+N/MathCraft ver.2.2/Classes/MoneyGameViewController.m
+c000000004BB111740000000000001380
+t1269895540
+s4992
+i"MoneyGameViewController.h"
+
+N/MathCraft ver.2.2/Classes/MoneyGamesMenu.h
+c000000004BB111740000000000000132
+t1269895540
+s306
+i<UIKit/UIKit.h>
+
+N/MathCraft ver.2.2/Classes/MoneyGamesMenu.m
+c000000004BB1117400000000000007E2
+t1269895540
+s2018
+i"MoneyGamesMenu.h"
+i"MathCraft_Music.h"
+i"MoneyGameViewController.h"
+
+N/MathCraft ver.2.2/Classes/MoneyGamesMenu.xib
+c000000004BB1117400000000000059D8
+t1269895540
+s23000
+
+N/MathCraft ver.2.2/Classes/NumberGenerate.h
+c000000004BB1117400000000000000EB
+t1269895540
+s235
+i<Foundation/Foundation.h>
+
+N/MathCraft ver.2.2/Classes/PatternGame2ViewController.h
+c000000004BB111740000000000000333
+t1269895540
+s819
+i<UIKit/UIKit.h>
+
+N/MathCraft ver.2.2/Classes/PatternGame2ViewController.m
+c000000004BB1117400000000000015F8
+t1269895540
+s5624
+i"PatternGame2ViewController.h"
+i"MathCraft_Music.h"
+
+N/MathCraft ver.2.2/Classes/PatternGamesMenuViewController.h
+c000000004BB11174000000000000014F
+t1269895540
+s335
+i<UIKit/UIKit.h>
+
+N/MathCraft ver.2.2/Classes/PatternGamesMenuViewController.m
+c000000004BB1117400000000000009F5
+t1269895540
+s2549
+i"Mirror_Game.h"
+i"PatternGame2ViewController.h"
+i"PatternGamesMenuViewController.h"
+i"MathCraft_Music.h"
+
+N/MathCraft ver.2.2/Classes/PatternGamesMenuViewController.xib
+c000000004BB111740000000000004EC7
+t1269895540
+s20167
+
+N/MathCraft ver.2.2/Classes/UserProfile.h
+c000000004BB1117400000000000004ED
+t1269895540
+s1261
+i<Foundation/Foundation.h>
+
+N/MathCraft ver.2.2/Classes/UserProfile.m
+c000000004BB111740000000000000D16
+t1269895540
+s3350
+i"UserProfile.h"
+
+N/MathCraft ver.2.2/Clock Game copy.jpg
+c000000004BB1117400000000000298E3
+t1269895540
+s170211
+
+N/MathCraft ver.2.2/Data.plist
+c000000004BB1117400000000000000B5
+t1269895540
+s181
+
+N/MathCraft ver.2.2/Default.png
+c000000004BB11174000000000001AC1A
+t1269895540
+s109594
+
+N/MathCraft ver.2.2/Eq Game copy.jpg
+c000000004BB11174000000000000B29A
+t1269895540
+s45722
+
+N/MathCraft ver.2.2/Equation_GameViewController.xib
+c000000004BB11174000000000000A9EB
+t1269895540
+s43499
+
+N/MathCraft ver.2.2/MainWindow.xib
+c000000004BB1117400000000000024A6
+t1269895540
+s9382
+
+N/MathCraft ver.2.2/MathCraft_LoginViewController.xib
+c000000004BB11174000000000000724D
+t1269895540
+s29261
+
+N/MathCraft ver.2.2/MathCraft_Login_Prefix.pch
+c000000004BB1117400000000000000C7
+t1269895540
+s199
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/MathCraft ver.2.2/Mirror game copy.jpg
+c000000004BB1117400000000000124FA
+t1269895540
+s75002
+
+N/MathCraft ver.2.2/MoneyGameViewController.xib
+c000000004BB11174000000000000F060
+t1269895540
+s61536
+
+N/MathCraft ver.2.2/PatternGame2ViewController.xib
+c000000004BB11174000000000000C133
+t1269895540
+s49459
+
+N/MathCraft ver.2.2/background.mp3
+c000000004BB1117400000000000B0312
+t1269895540
+s721682
+
+N/MathCraft ver.2.2/blue.jpg
+c000000004BB111740000000000003037
+t1269895540
+s12343
+
+N/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/ClockGamesMenu.o
+t1269899001
+s34576
+
+N/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/Clock_Game.o
+t1269899001
+s46804
+
+N/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/Clock_Game_Analog.o
+t1269899001
+s47412
+
+N/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/EquationGamesMenuViewController.o
+t1269899001
+s34456
+
+N/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/Equation_GameViewController.o
+t1269899000
+s39080
+
+N/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/ManageProfile.o
+t1269899000
+s22700
+
+N/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MathCraft_GameMenu.o
+t1269899000
+s34704
+
+N/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MathCraft_LeaderBoard.o
+t1269899000
+s29764
+
+N/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MathCraft_Login.LinkFileList
+c000000004BB11EEF0000000000000CA1
+t1269898991
+s3233
+
+N/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MathCraft_LoginAppDelegate.o
+t1269898999
+s39504
+
+N/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MathCraft_LoginViewController.o
+t1269899000
+s46120
+
+N/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MathCraft_MainMenu.o
+t1269899000
+s36544
+
+N/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MathCraft_Music.o
+t1269899000
+s24152
+
+N/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MathCraft_Option.o
+t1269899000
+s34912
+
+N/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MathCraft_Progress.o
+t1269899000
+s30632
+
+N/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MathCraft_Register.o
+t1269898999
+s44636
+
+N/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MathCraft_User.o
+t1269899000
+s8688
+
+N/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MathGame1_3ViewController.o
+t1269899001
+s43532
+
+N/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/Mirror_Game.o
+t1269899001
+s38052
+
+N/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MoneyGameViewController.o
+t1269899001
+s41712
+
+N/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MoneyGamesMenu.o
+t1269899001
+s33404
+
+N/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/PatternGame2ViewController.o
+t1269899000
+s42284
+
+N/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/PatternGamesMenuViewController.o
+t1269899000
+s34436
+
+N/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/UserProfile.o
+t1269899000
+s22352
+
+N/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/main.o
+t1269898999
+s5896
+
+N/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app
+t1269899001
+s1972
+
+N/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app.dSYM
+t1269899001
+s102
+
+N/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/1 login copy.jpg
+t1269898994
+s172582
+
+N/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/2 Menu copy-1.jpg
+t1269898994
+s180221
+
+N/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/25cents.png
+t1269898998
+s7464
+
+N/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/3 Game Selection copy.jpg
+t1269898994
+s184641
+
+N/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/5 View Progress copy.jpg
+t1269898994
+s168405
+
+N/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/6 Option copy.jpg
+t1269898994
+s165864
+
+N/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/Clock Game copy.jpg
+t1269898997
+s170211
+
+N/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/ClockGamesMenu.nib
+t1269898997
+s3301
+
+N/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/Clock_Game.nib
+t1269898997
+s6579
+
+N/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/Clock_Game_Analog.nib
+t1269898998
+s6579
+
+N/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/Data.plist
+t1269898996
+s42
+
+N/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/Default.png
+t1269898994
+s109594
+
+N/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/Eq Game copy.jpg
+t1269898994
+s45722
+
+N/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/EquationGamesMenuViewController.nib
+t1269898996
+s3321
+
+N/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/Equation_GameViewController.nib
+t1269898995
+s6905
+
+N/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/Info.plist
+t1269898991
+s674
+
+N/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/MainWindow.nib
+t1269898993
+s1511
+
+N/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/MathCraft_GameMenu.nib
+t1269898994
+s3854
+
+N/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/MathCraft_LeaderBoard.nib
+t1269898994
+s1848
+
+N/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/MathCraft_Login
+t1269899001
+s113160
+
+N/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/MathCraft_LoginViewController.nib
+t1269898993
+s4477
+
+N/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/MathCraft_MainMenu.nib
+t1269898995
+s3854
+
+N/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/MathCraft_Option.nib
+t1269898993
+s3015
+
+N/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/MathCraft_Progress.nib
+t1269898994
+s2302
+
+N/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/MathCraft_Register.nib
+t1269898993
+s4310
+
+N/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/MathGame1_3ViewController.nib
+t1269898996
+s7185
+
+N/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/Mirror game copy.jpg
+t1269898998
+s75002
+
+N/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/Mirror_Game.nib
+t1269898997
+s7100
+
+N/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/MoneyGameViewController.nib
+t1269898998
+s9168
+
+N/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/MoneyGamesMenu.nib
+t1269898998
+s3292
+
+N/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/PatternGame2ViewController.nib
+t1269898997
+s7895
+
+N/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/PatternGamesMenuViewController.nib
+t1269898996
+s3311
+
+N/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/PkgInfo
+t1269898991
+s8
+
+N/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/background.mp3
+t1269898995
+s721682
+
+N/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/blue.jpg
+t1269898996
+s12343
+
+N/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/button.png
+t1269898996
+s5224
+
+N/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/clockgamesubmenu copy1.jpg
+t1269898997
+s185250
+
+N/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/eq.mp3
+t1269898995
+s425819
+
+N/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/eq_game_submenu copy1.jpg
+t1269898997
+s165306
+
+N/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/green.jpg
+t1269898996
+s12057
+
+N/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/hr_hand.png
+t1269898997
+s4837
+
+N/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/hr_hand1.png
+t1269898997
+s5541
+
+N/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/log in copy1.jpg
+t1269898994
+s170280
+
+N/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/min_hand.png
+t1269898997
+s4098
+
+N/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/min_hand1.png
+t1269898997
+s4283
+
+N/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/money.mp3
+t1269898995
+s522185
+
+N/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/moneyGame copy.jpg
+t1269898998
+s166812
+
+N/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/moneygamesubmenu copy.jpg
+t1269898998
+s182266
+
+N/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/one_coin.png
+t1269898998
+s12240
+
+N/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/pattern game copy.jpg
+t1269898998
+s79002
+
+N/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/pattern.mp3
+t1269898995
+s831945
+
+N/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/patterngamesubmenu copy1.jpg
+t1269898997
+s181846
+
+N/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/red.jpg
+t1269898996
+s12030
+
+N/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/register copy.jpg
+t1269898998
+s141796
+
+N/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/time.mp3
+t1269898995
+s654208
+
+N/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/two_coin.png
+t1269898998
+s10515
+
+N/MathCraft ver.2.2/button.png
+c000000004BB111740000000000001468
+t1269895540
+s5224
+
+N/MathCraft ver.2.2/clockgamesubmenu copy1.jpg
+c000000004BB11174000000000002D3A2
+t1269895540
+s185250
+
+N/MathCraft ver.2.2/eq.mp3
+c000000004BB111740000000000067F5B
+t1269895540
+s425819
+
+N/MathCraft ver.2.2/eq_game_submenu copy1.jpg
+c000000004BB1117400000000000285BA
+t1269895540
+s165306
+
+N/MathCraft ver.2.2/green.jpg
+c000000004BB111740000000000002F19
+t1269895540
+s12057
+
+N/MathCraft ver.2.2/hr_hand.png
+c000000004BB1117400000000000012E5
+t1269895540
+s4837
+
+N/MathCraft ver.2.2/hr_hand1.png
+c000000004BB1117400000000000015A5
+t1269895540
+s5541
+
+N/MathCraft ver.2.2/log in copy1.jpg
+c000000004BB111740000000000029928
+t1269895540
+s170280
+
+N/MathCraft ver.2.2/main.m
+c000000004BB111740000000000000174
+t1269895540
+s372
+i<UIKit/UIKit.h>
+
+N/MathCraft ver.2.2/min_hand.png
+c000000004BB111740000000000001002
+t1269895540
+s4098
+
+N/MathCraft ver.2.2/min_hand1.png
+c000000004BB1117400000000000010BB
+t1269895540
+s4283
+
+N/MathCraft ver.2.2/money.mp3
+c000000004BB11174000000000007F7C9
+t1269895540
+s522185
+
+N/MathCraft ver.2.2/moneyGame copy.jpg
+c000000004BB111740000000000028B9C
+t1269895540
+s166812
+
+N/MathCraft ver.2.2/moneygamesubmenu copy.jpg
+c000000004BB11174000000000002C7FA
+t1269895540
+s182266
+
+N/MathCraft ver.2.2/one_coin.png
+c000000004BB111740000000000002FD0
+t1269895540
+s12240
+
+N/MathCraft ver.2.2/pattern game copy.jpg
+c000000004BB11174000000000001349A
+t1269895540
+s79002
+
+N/MathCraft ver.2.2/pattern.mp3
+c000000004BB1117400000000000CB1C9
+t1269895540
+s831945
+
+N/MathCraft ver.2.2/patterngamesubmenu copy1.jpg
+c000000004BB11174000000000002C656
+t1269895540
+s181846
+
+N/MathCraft ver.2.2/red.jpg
+c000000004BB111740000000000002EFE
+t1269895540
+s12030
+
+N/MathCraft ver.2.2/register copy.jpg
+c000000004BB1117400000000000229E4
+t1269895540
+s141796
+
+N/MathCraft ver.2.2/time.mp3
+c000000004BB11174000000000009FB80
+t1269895540
+s654208
+
+N/MathCraft ver.2.2/two_coin.png
+c000000004BB111740000000000002913
+t1269895540
+s10515
+
+N/var/folders/wG/wGXVeMlFFWq9DplZeNPVJU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MathCraft_Login_Prefix-ffquzeexayqmsvfxtjnqudsqltaa/MathCraft_Login_Prefix.pch.gch
+t1269898999
+s12740048
+
+NMathCraft_Login-Info.plist
+c000000004BB1117400000000000003E7
+t1269895540
+s999
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies291595260#291595260#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/ClockGamesMenu.o "/MathCraft ver.2.2/Classes/ClockGamesMenu.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s291591801.110193
+e291591801.228975
+r1
+xCompileC
+xbuild/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/ClockGamesMenu.o
+x/MathCraft ver.2.2/Classes/ClockGamesMenu.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Compile /MathCraft ver.2.2/Classes/ClockGamesMenu.m291591801#291591801#0(0"0(0#0#43"/MathCraft ver.2.2/Classes/ClockGamesMenu.m4300885448#1884"    cd "/MathCraft ver.2.2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-generated-files.hmap" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-own-target-headers.hmap" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-all-target-headers.hmap" -iquote "/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-project-headers.hmap" "-F/MathCraft ver.2.2/build/Release-iphonesimulator" "-I/MathCraft ver.2.2/build/Release-iphonesimulator/include" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/DerivedSources/i386" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/DerivedSources" -include /var/folders/wG/wGXVeMlFFWq9DplZeNPVJU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MathCraft_Login_Prefix-ffquzeexayqmsvfxtjnqudsqltaa/MathCraft_Login_Prefix.pch -c "/MathCraft ver.2.2/Classes/ClockGamesMenu.m" -o "/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/ClockGamesMenu.o"0#
+
+CCompileC build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/Clock_Game.o "/MathCraft ver.2.2/Classes/Clock_Game.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s291591801.277749
+e291591801.530256
+r1
+xCompileC
+xbuild/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/Clock_Game.o
+x/MathCraft ver.2.2/Classes/Clock_Game.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@47"Compile /MathCraft ver.2.2/Classes/Clock_Game.m291591801#291591801#0(0"0(0#0#39"/MathCraft ver.2.2/Classes/Clock_Game.m4300885448#1876"    cd "/MathCraft ver.2.2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-generated-files.hmap" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-own-target-headers.hmap" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-all-target-headers.hmap" -iquote "/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-project-headers.hmap" "-F/MathCraft ver.2.2/build/Release-iphonesimulator" "-I/MathCraft ver.2.2/build/Release-iphonesimulator/include" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/DerivedSources/i386" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/DerivedSources" -include /var/folders/wG/wGXVeMlFFWq9DplZeNPVJU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MathCraft_Login_Prefix-ffquzeexayqmsvfxtjnqudsqltaa/MathCraft_Login_Prefix.pch -c "/MathCraft ver.2.2/Classes/Clock_Game.m" -o "/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/Clock_Game.o"0#
+
+CCompileC build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/Clock_Game_Analog.o "/MathCraft ver.2.2/Classes/Clock_Game_Analog.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s291591801.433286
+e291591801.731557
+r1
+xCompileC
+xbuild/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/Clock_Game_Analog.o
+x/MathCraft ver.2.2/Classes/Clock_Game_Analog.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /MathCraft ver.2.2/Classes/Clock_Game_Analog.m291591801#291591801#0(0"0(0#0#46"/MathCraft ver.2.2/Classes/Clock_Game_Analog.m4300885448#1890"    cd "/MathCraft ver.2.2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-generated-files.hmap" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-own-target-headers.hmap" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-all-target-headers.hmap" -iquote "/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-project-headers.hmap" "-F/MathCraft ver.2.2/build/Release-iphonesimulator" "-I/MathCraft ver.2.2/build/Release-iphonesimulator/include" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/DerivedSources/i386" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/DerivedSources" -include /var/folders/wG/wGXVeMlFFWq9DplZeNPVJU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MathCraft_Login_Prefix-ffquzeexayqmsvfxtjnqudsqltaa/MathCraft_Login_Prefix.pch -c "/MathCraft ver.2.2/Classes/Clock_Game_Analog.m" -o "/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/Clock_Game_Analog.o"0#
+
+CCompileC build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/EquationGamesMenuViewController.o "/MathCraft ver.2.2/Classes/EquationGamesMenuViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s291591800.934091
+e291591801.110075
+r1
+xCompileC
+xbuild/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/EquationGamesMenuViewController.o
+x/MathCraft ver.2.2/Classes/EquationGamesMenuViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /MathCraft ver.2.2/Classes/EquationGamesMenuViewController.m291591800#291591801#0(0"0(0#0#60"/MathCraft ver.2.2/Classes/EquationGamesMenuViewController.m4300885448#1918"    cd "/MathCraft ver.2.2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-generated-files.hmap" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-own-target-headers.hmap" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-all-target-headers.hmap" -iquote "/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-project-headers.hmap" "-F/MathCraft ver.2.2/build/Release-iphonesimulator" "-I/MathCraft ver.2.2/build/Release-iphonesimulator/include" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/DerivedSources/i386" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/DerivedSources" -include /var/folders/wG/wGXVeMlFFWq9DplZeNPVJU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MathCraft_Login_Prefix-ffquzeexayqmsvfxtjnqudsqltaa/MathCraft_Login_Prefix.pch -c "/MathCraft ver.2.2/Classes/EquationGamesMenuViewController.m" -o "/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/EquationGamesMenuViewController.o"0#
+
+CCompileC build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/Equation_GameViewController.o "/MathCraft ver.2.2/Classes/Equation_GameViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s291591800.264844
+e291591800.497469
+r1
+xCompileC
+xbuild/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/Equation_GameViewController.o
+x/MathCraft ver.2.2/Classes/Equation_GameViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /MathCraft ver.2.2/Classes/Equation_GameViewController.m291591800#291591800#0(0"0(0#0#56"/MathCraft ver.2.2/Classes/Equation_GameViewController.m4300885448#1910"    cd "/MathCraft ver.2.2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-generated-files.hmap" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-own-target-headers.hmap" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-all-target-headers.hmap" -iquote "/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-project-headers.hmap" "-F/MathCraft ver.2.2/build/Release-iphonesimulator" "-I/MathCraft ver.2.2/build/Release-iphonesimulator/include" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/DerivedSources/i386" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/DerivedSources" -include /var/folders/wG/wGXVeMlFFWq9DplZeNPVJU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MathCraft_Login_Prefix-ffquzeexayqmsvfxtjnqudsqltaa/MathCraft_Login_Prefix.pch -c "/MathCraft ver.2.2/Classes/Equation_GameViewController.m" -o "/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/Equation_GameViewController.o"0#
+
+CCompileC build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/ManageProfile.o "/MathCraft ver.2.2/Classes/ManageProfile.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s291591800.618642
+e291591800.840138
+r1
+xCompileC
+xbuild/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/ManageProfile.o
+x/MathCraft ver.2.2/Classes/ManageProfile.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@50"Compile /MathCraft ver.2.2/Classes/ManageProfile.m291591800#291591800#0(0"0(0#0#42"/MathCraft ver.2.2/Classes/ManageProfile.m4300885448#1882"    cd "/MathCraft ver.2.2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-generated-files.hmap" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-own-target-headers.hmap" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-all-target-headers.hmap" -iquote "/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-project-headers.hmap" "-F/MathCraft ver.2.2/build/Release-iphonesimulator" "-I/MathCraft ver.2.2/build/Release-iphonesimulator/include" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/DerivedSources/i386" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/DerivedSources" -include /var/folders/wG/wGXVeMlFFWq9DplZeNPVJU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MathCraft_Login_Prefix-ffquzeexayqmsvfxtjnqudsqltaa/MathCraft_Login_Prefix.pch -c "/MathCraft ver.2.2/Classes/ManageProfile.m" -o "/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/ManageProfile.o"0#
+
+CCompileC build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MathCraft_GameMenu.o "/MathCraft ver.2.2/Classes/MathCraft_GameMenu.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s291591800.101146
+e291591800.264728
+r1
+xCompileC
+xbuild/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MathCraft_GameMenu.o
+x/MathCraft ver.2.2/Classes/MathCraft_GameMenu.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /MathCraft ver.2.2/Classes/MathCraft_GameMenu.m291591800#291591800#0(0"0(0#0#47"/MathCraft ver.2.2/Classes/MathCraft_GameMenu.m4300885448#1892"    cd "/MathCraft ver.2.2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-generated-files.hmap" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-own-target-headers.hmap" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-all-target-headers.hmap" -iquote "/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-project-headers.hmap" "-F/MathCraft ver.2.2/build/Release-iphonesimulator" "-I/MathCraft ver.2.2/build/Release-iphonesimulator/include" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/DerivedSources/i386" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/DerivedSources" -include /var/folders/wG/wGXVeMlFFWq9DplZeNPVJU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MathCraft_Login_Prefix-ffquzeexayqmsvfxtjnqudsqltaa/MathCraft_Login_Prefix.pch -c "/MathCraft ver.2.2/Classes/MathCraft_GameMenu.m" -o "/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MathCraft_GameMenu.o"0#
+
+CCompileC build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MathCraft_LeaderBoard.o "/MathCraft ver.2.2/Classes/MathCraft_LeaderBoard.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s291591800.010469
+e291591800.101015
+r1
+xCompileC
+xbuild/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MathCraft_LeaderBoard.o
+x/MathCraft ver.2.2/Classes/MathCraft_LeaderBoard.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /MathCraft ver.2.2/Classes/MathCraft_LeaderBoard.m291591800#291591800#0(0"0(0#0#50"/MathCraft ver.2.2/Classes/MathCraft_LeaderBoard.m4300885448#1898"    cd "/MathCraft ver.2.2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-generated-files.hmap" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-own-target-headers.hmap" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-all-target-headers.hmap" -iquote "/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-project-headers.hmap" "-F/MathCraft ver.2.2/build/Release-iphonesimulator" "-I/MathCraft ver.2.2/build/Release-iphonesimulator/include" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/DerivedSources/i386" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/DerivedSources" -include /var/folders/wG/wGXVeMlFFWq9DplZeNPVJU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MathCraft_Login_Prefix-ffquzeexayqmsvfxtjnqudsqltaa/MathCraft_Login_Prefix.pch -c "/MathCraft ver.2.2/Classes/MathCraft_LeaderBoard.m" -o "/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MathCraft_LeaderBoard.o"0#
+
+CCompileC build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MathCraft_LoginAppDelegate.o "/MathCraft ver.2.2/Classes/MathCraft_LoginAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s291591799.711104
+e291591799.828863
+r1
+xCompileC
+xbuild/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MathCraft_LoginAppDelegate.o
+x/MathCraft ver.2.2/Classes/MathCraft_LoginAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /MathCraft ver.2.2/Classes/MathCraft_LoginAppDelegate.m291591799#291591799#0(0"0(0#0#55"/MathCraft ver.2.2/Classes/MathCraft_LoginAppDelegate.m4300885448#1908"    cd "/MathCraft ver.2.2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-generated-files.hmap" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-own-target-headers.hmap" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-all-target-headers.hmap" -iquote "/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-project-headers.hmap" "-F/MathCraft ver.2.2/build/Release-iphonesimulator" "-I/MathCraft ver.2.2/build/Release-iphonesimulator/include" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/DerivedSources/i386" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/DerivedSources" -include /var/folders/wG/wGXVeMlFFWq9DplZeNPVJU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MathCraft_Login_Prefix-ffquzeexayqmsvfxtjnqudsqltaa/MathCraft_Login_Prefix.pch -c "/MathCraft ver.2.2/Classes/MathCraft_LoginAppDelegate.m" -o "/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MathCraft_LoginAppDelegate.o"0#
+
+CCompileC build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MathCraft_LoginViewController.o "/MathCraft ver.2.2/Classes/MathCraft_LoginViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s291591799.777820
+e291591800.010347
+r1
+xCompileC
+xbuild/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MathCraft_LoginViewController.o
+x/MathCraft ver.2.2/Classes/MathCraft_LoginViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /MathCraft ver.2.2/Classes/MathCraft_LoginViewController.m291591799#291591800#0(0"0(0#0#58"/MathCraft ver.2.2/Classes/MathCraft_LoginViewController.m4300885448#1914"    cd "/MathCraft ver.2.2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-generated-files.hmap" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-own-target-headers.hmap" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-all-target-headers.hmap" -iquote "/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-project-headers.hmap" "-F/MathCraft ver.2.2/build/Release-iphonesimulator" "-I/MathCraft ver.2.2/build/Release-iphonesimulator/include" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/DerivedSources/i386" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/DerivedSources" -include /var/folders/wG/wGXVeMlFFWq9DplZeNPVJU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MathCraft_Login_Prefix-ffquzeexayqmsvfxtjnqudsqltaa/MathCraft_Login_Prefix.pch -c "/MathCraft ver.2.2/Classes/MathCraft_LoginViewController.m" -o "/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MathCraft_LoginViewController.o"0#
+
+CCompileC build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MathCraft_MainMenu.o "/MathCraft ver.2.2/Classes/MathCraft_MainMenu.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s291591800.313952
+e291591800.430343
+r1
+xCompileC
+xbuild/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MathCraft_MainMenu.o
+x/MathCraft ver.2.2/Classes/MathCraft_MainMenu.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /MathCraft ver.2.2/Classes/MathCraft_MainMenu.m291591800#291591800#0(0"0(0#0#47"/MathCraft ver.2.2/Classes/MathCraft_MainMenu.m4300885448#1892"    cd "/MathCraft ver.2.2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-generated-files.hmap" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-own-target-headers.hmap" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-all-target-headers.hmap" -iquote "/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-project-headers.hmap" "-F/MathCraft ver.2.2/build/Release-iphonesimulator" "-I/MathCraft ver.2.2/build/Release-iphonesimulator/include" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/DerivedSources/i386" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/DerivedSources" -include /var/folders/wG/wGXVeMlFFWq9DplZeNPVJU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MathCraft_Login_Prefix-ffquzeexayqmsvfxtjnqudsqltaa/MathCraft_Login_Prefix.pch -c "/MathCraft ver.2.2/Classes/MathCraft_MainMenu.m" -o "/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MathCraft_MainMenu.o"0#
+
+CCompileC build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MathCraft_Music.o "/MathCraft ver.2.2/Classes/MathCraft_Music.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s291591800.430472
+e291591800.618520
+r1
+xCompileC
+xbuild/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MathCraft_Music.o
+x/MathCraft ver.2.2/Classes/MathCraft_Music.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/MathCraft ver.2.2/Classes/MathCraft_Music.m: In function '-[MathCraft_Music changeTrack:]':
+o/MathCraft ver.2.2/Classes/MathCraft_Music.m:39: warning: class 'MathCraft_Music' does not implement the 'AVAudioPlayerDelegate' protocol
+o/MathCraft ver.2.2/Classes/MathCraft_Music.m:49: warning: class 'MathCraft_Music' does not implement the 'AVAudioPlayerDelegate' protocol
+o/MathCraft ver.2.2/Classes/MathCraft_Music.m:59: warning: class 'MathCraft_Music' does not implement the 'AVAudioPlayerDelegate' protocol
+o/MathCraft ver.2.2/Classes/MathCraft_Music.m:68: warning: class 'MathCraft_Music' does not implement the 'AVAudioPlayerDelegate' protocol
+o/MathCraft ver.2.2/Classes/MathCraft_Music.m:77: warning: class 'MathCraft_Music' does not implement the 'AVAudioPlayerDelegate' protocol
+lSLF07#2@52"Compile /MathCraft ver.2.2/Classes/MathCraft_Music.m291591800#291591800#0(783"/MathCraft ver.2.2/Classes/MathCraft_Music.m: In function '-[MathCraft_Music changeTrack:]':/MathCraft ver.2.2/Classes/MathCraft_Music.m:39: warning: class 'MathCraft_Music' does not implement the 'AVAudioPlayerDelegate' protocol/MathCraft ver.2.2/Classes/MathCraft_Music.m:49: warning: class 'MathCraft_Music' does not implement the 'AVAudioPlayerDelegate' protocol/MathCraft ver.2.2/Classes/MathCraft_Music.m:59: warning: class 'MathCraft_Music' does not implement the 'AVAudioPlayerDelegate' protocol/MathCraft ver.2.2/Classes/MathCraft_Music.m:68: warning: class 'MathCraft_Music' does not implement the 'AVAudioPlayerDelegate' protocol/MathCraft ver.2.2/Classes/MathCraft_Music.m:77: warning: class 'MathCraft_Music' does not implement the 'AVAudioPlayerDelegate' protocol5(22@79"Class 'MathCraft_Music' does not implement the 'AVAudioPlayerDelegate' protocol291591800#93#138#0(6@44"/MathCraft ver.2.2/Classes/MathCraft_Music.m291588340#39#0#39#0#45"class '*' does not implement the '*' protocol0(22@79"Class 'MathCraft_Music' does not implement the 'AVAudioPlayerDelegate' protocol291591800#231#138#0(6@44"/MathCraft ver.2.2/Classes/MathCraft_Music.m291588340#49#0#49#0#45"class '*' does not implement the '*' protocol0(22@79"Class 'MathCraft_Music' does not implement the 'AVAudioPlayerDelegate' protocol291591800#369#138#0(6@44"/MathCraft ver.2.2/Classes/MathCraft_Music.m291588340#59#0#59#0#45"class '*' does not implement the '*' protocol0(22@79"Class 'MathCraft_Music' does not implement the 'AVAudioPlayerDelegate' protocol291591800#507#138#0(6@44"/MathCraft ver.2.2/Classes/MathCraft_Music.m291588340#68#0#68#0#45"class '*' does not implement the '*' protocol0(22@79"Class 'MathCraft_Music' does not implement the 'AVAudioPlayerDelegate' protocol291591800#645#138#0(6@44"/MathCraft ver.2.2/Classes/MathCraft_Music.m291588340#77#0#77#0#45"class '*' does not implement the '*' protocol0(0#0#44"/MathCraft ver.2.2/Classes/MathCraft_Music.m4300885448#1886"    cd "/MathCraft ver.2.2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-generated-files.hmap" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-own-target-headers.hmap" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-all-target-headers.hmap" -iquote "/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-project-headers.hmap" "-F/MathCraft ver.2.2/build/Release-iphonesimulator" "-I/MathCraft ver.2.2/build/Release-iphonesimulator/include" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/DerivedSources/i386" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/DerivedSources" -include /var/folders/wG/wGXVeMlFFWq9DplZeNPVJU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MathCraft_Login_Prefix-ffquzeexayqmsvfxtjnqudsqltaa/MathCraft_Login_Prefix.pch -c "/MathCraft ver.2.2/Classes/MathCraft_Music.m" -o "/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MathCraft_Music.o"0#
+
+CCompileC build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MathCraft_Option.o "/MathCraft ver.2.2/Classes/MathCraft_Option.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s291591799.992609
+e291591800.122197
+r1
+xCompileC
+xbuild/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MathCraft_Option.o
+x/MathCraft ver.2.2/Classes/MathCraft_Option.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /MathCraft ver.2.2/Classes/MathCraft_Option.m291591799#291591800#0(0"0(0#0#45"/MathCraft ver.2.2/Classes/MathCraft_Option.m4300885448#1888"    cd "/MathCraft ver.2.2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-generated-files.hmap" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-own-target-headers.hmap" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-all-target-headers.hmap" -iquote "/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-project-headers.hmap" "-F/MathCraft ver.2.2/build/Release-iphonesimulator" "-I/MathCraft ver.2.2/build/Release-iphonesimulator/include" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/DerivedSources/i386" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/DerivedSources" -include /var/folders/wG/wGXVeMlFFWq9DplZeNPVJU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MathCraft_Login_Prefix-ffquzeexayqmsvfxtjnqudsqltaa/MathCraft_Login_Prefix.pch -c "/MathCraft ver.2.2/Classes/MathCraft_Option.m" -o "/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MathCraft_Option.o"0#
+
+CCompileC build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MathCraft_Progress.o "/MathCraft ver.2.2/Classes/MathCraft_Progress.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s291591800.122313
+e291591800.207827
+r1
+xCompileC
+xbuild/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MathCraft_Progress.o
+x/MathCraft ver.2.2/Classes/MathCraft_Progress.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /MathCraft ver.2.2/Classes/MathCraft_Progress.m291591800#291591800#0(0"0(0#0#47"/MathCraft ver.2.2/Classes/MathCraft_Progress.m4300885448#1892"    cd "/MathCraft ver.2.2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-generated-files.hmap" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-own-target-headers.hmap" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-all-target-headers.hmap" -iquote "/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-project-headers.hmap" "-F/MathCraft ver.2.2/build/Release-iphonesimulator" "-I/MathCraft ver.2.2/build/Release-iphonesimulator/include" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/DerivedSources/i386" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/DerivedSources" -include /var/folders/wG/wGXVeMlFFWq9DplZeNPVJU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MathCraft_Login_Prefix-ffquzeexayqmsvfxtjnqudsqltaa/MathCraft_Login_Prefix.pch -c "/MathCraft ver.2.2/Classes/MathCraft_Progress.m" -o "/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MathCraft_Progress.o"0#
+
+CCompileC build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MathCraft_Register.o "/MathCraft ver.2.2/Classes/MathCraft_Register.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s291591799.828995
+e291591799.992381
+r1
+xCompileC
+xbuild/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MathCraft_Register.o
+x/MathCraft ver.2.2/Classes/MathCraft_Register.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /MathCraft ver.2.2/Classes/MathCraft_Register.m291591799#291591799#0(0"0(0#0#47"/MathCraft ver.2.2/Classes/MathCraft_Register.m4300885448#1892"    cd "/MathCraft ver.2.2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-generated-files.hmap" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-own-target-headers.hmap" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-all-target-headers.hmap" -iquote "/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-project-headers.hmap" "-F/MathCraft ver.2.2/build/Release-iphonesimulator" "-I/MathCraft ver.2.2/build/Release-iphonesimulator/include" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/DerivedSources/i386" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/DerivedSources" -include /var/folders/wG/wGXVeMlFFWq9DplZeNPVJU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MathCraft_Login_Prefix-ffquzeexayqmsvfxtjnqudsqltaa/MathCraft_Login_Prefix.pch -c "/MathCraft ver.2.2/Classes/MathCraft_Register.m" -o "/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MathCraft_Register.o"0#
+
+CCompileC build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MathCraft_User.o "/MathCraft ver.2.2/Classes/MathCraft_User.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s291591800.207950
+e291591800.313829
+r1
+xCompileC
+xbuild/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MathCraft_User.o
+x/MathCraft ver.2.2/Classes/MathCraft_User.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Compile /MathCraft ver.2.2/Classes/MathCraft_User.m291591800#291591800#0(0"0(0#0#43"/MathCraft ver.2.2/Classes/MathCraft_User.m4300885448#1884"    cd "/MathCraft ver.2.2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-generated-files.hmap" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-own-target-headers.hmap" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-all-target-headers.hmap" -iquote "/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-project-headers.hmap" "-F/MathCraft ver.2.2/build/Release-iphonesimulator" "-I/MathCraft ver.2.2/build/Release-iphonesimulator/include" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/DerivedSources/i386" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/DerivedSources" -include /var/folders/wG/wGXVeMlFFWq9DplZeNPVJU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MathCraft_Login_Prefix-ffquzeexayqmsvfxtjnqudsqltaa/MathCraft_Login_Prefix.pch -c "/MathCraft ver.2.2/Classes/MathCraft_User.m" -o "/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MathCraft_User.o"0#
+
+CCompileC build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MathGame1_3ViewController.o "/MathCraft ver.2.2/Classes/MathGame1_3ViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s291591800.959714
+e291591801.277621
+r1
+xCompileC
+xbuild/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MathGame1_3ViewController.o
+x/MathCraft ver.2.2/Classes/MathGame1_3ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /MathCraft ver.2.2/Classes/MathGame1_3ViewController.m291591800#291591801#0(0"0(0#0#54"/MathCraft ver.2.2/Classes/MathGame1_3ViewController.m4300885448#1906"    cd "/MathCraft ver.2.2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-generated-files.hmap" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-own-target-headers.hmap" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-all-target-headers.hmap" -iquote "/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-project-headers.hmap" "-F/MathCraft ver.2.2/build/Release-iphonesimulator" "-I/MathCraft ver.2.2/build/Release-iphonesimulator/include" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/DerivedSources/i386" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/DerivedSources" -include /var/folders/wG/wGXVeMlFFWq9DplZeNPVJU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MathCraft_Login_Prefix-ffquzeexayqmsvfxtjnqudsqltaa/MathCraft_Login_Prefix.pch -c "/MathCraft ver.2.2/Classes/MathGame1_3ViewController.m" -o "/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MathGame1_3ViewController.o"0#
+
+CCompileC build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/Mirror_Game.o "/MathCraft ver.2.2/Classes/Mirror_Game.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s291591801.229092
+e291591801.433164
+r1
+xCompileC
+xbuild/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/Mirror_Game.o
+x/MathCraft ver.2.2/Classes/Mirror_Game.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /MathCraft ver.2.2/Classes/Mirror_Game.m291591801#291591801#0(0"0(0#0#40"/MathCraft ver.2.2/Classes/Mirror_Game.m4300885448#1878"    cd "/MathCraft ver.2.2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-generated-files.hmap" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-own-target-headers.hmap" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-all-target-headers.hmap" -iquote "/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-project-headers.hmap" "-F/MathCraft ver.2.2/build/Release-iphonesimulator" "-I/MathCraft ver.2.2/build/Release-iphonesimulator/include" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/DerivedSources/i386" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/DerivedSources" -include /var/folders/wG/wGXVeMlFFWq9DplZeNPVJU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MathCraft_Login_Prefix-ffquzeexayqmsvfxtjnqudsqltaa/MathCraft_Login_Prefix.pch -c "/MathCraft ver.2.2/Classes/Mirror_Game.m" -o "/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/Mirror_Game.o"0#
+
+CCompileC build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MoneyGameViewController.o "/MathCraft ver.2.2/Classes/MoneyGameViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s291591801.640344
+e291591801.840824
+r1
+xCompileC
+xbuild/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MoneyGameViewController.o
+x/MathCraft ver.2.2/Classes/MoneyGameViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/MathCraft ver.2.2/Classes/MoneyGameViewController.m:259: warning: property 'score' requires method '-score' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/MathCraft ver.2.2/Classes/MoneyGameViewController.m:259: warning: property 'score' requires the method 'setScore:' to be defined - use @synthesize, @dynamic or provide a method implementation
+lSLF07#2@60"Compile /MathCraft ver.2.2/Classes/MoneyGameViewController.m291591801#291591801#0(379"/MathCraft ver.2.2/Classes/MoneyGameViewController.m:259: warning: property 'score' requires method '-score' to be defined - use @synthesize, @dynamic or provide a method implementation/MathCraft ver.2.2/Classes/MoneyGameViewController.m:259: warning: property 'score' requires the method 'setScore:' to be defined - use @synthesize, @dynamic or provide a method implementation2(22@118"Property 'score' requires method '-score' to be defined - use @synthesize, @dynamic or provide a method implementation291591801#0#186#0(6@52"/MathCraft ver.2.2/Classes/MoneyGameViewController.m291588340#259#0#259#0#0"0(22@125"Property 'score' requires the method 'setScore:' to be defined - use @synthesize, @dynamic or provide a method implementation291591801#186#193#0(6@52"/MathCraft ver.2.2/Classes/MoneyGameViewController.m291588340#259#0#259#0#0"0(0#0#52"/MathCraft ver.2.2/Classes/MoneyGameViewController.m4300885448#1902"    cd "/MathCraft ver.2.2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-generated-files.hmap" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-own-target-headers.hmap" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-all-target-headers.hmap" -iquote "/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-project-headers.hmap" "-F/MathCraft ver.2.2/build/Release-iphonesimulator" "-I/MathCraft ver.2.2/build/Release-iphonesimulator/include" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/DerivedSources/i386" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/DerivedSources" -include /var/folders/wG/wGXVeMlFFWq9DplZeNPVJU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MathCraft_Login_Prefix-ffquzeexayqmsvfxtjnqudsqltaa/MathCraft_Login_Prefix.pch -c "/MathCraft ver.2.2/Classes/MoneyGameViewController.m" -o "/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MoneyGameViewController.o"0#
+
+CCompileC build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MoneyGamesMenu.o "/MathCraft ver.2.2/Classes/MoneyGamesMenu.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s291591801.530484
+e291591801.640221
+r1
+xCompileC
+xbuild/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MoneyGamesMenu.o
+x/MathCraft ver.2.2/Classes/MoneyGamesMenu.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Compile /MathCraft ver.2.2/Classes/MoneyGamesMenu.m291591801#291591801#0(0"0(0#0#43"/MathCraft ver.2.2/Classes/MoneyGamesMenu.m4300885448#1884"    cd "/MathCraft ver.2.2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-generated-files.hmap" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-own-target-headers.hmap" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-all-target-headers.hmap" -iquote "/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-project-headers.hmap" "-F/MathCraft ver.2.2/build/Release-iphonesimulator" "-I/MathCraft ver.2.2/build/Release-iphonesimulator/include" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/DerivedSources/i386" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/DerivedSources" -include /var/folders/wG/wGXVeMlFFWq9DplZeNPVJU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MathCraft_Login_Prefix-ffquzeexayqmsvfxtjnqudsqltaa/MathCraft_Login_Prefix.pch -c "/MathCraft ver.2.2/Classes/MoneyGamesMenu.m" -o "/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MoneyGamesMenu.o"0#
+
+CCompileC build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/PatternGame2ViewController.o "/MathCraft ver.2.2/Classes/PatternGame2ViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s291591800.709680
+e291591800.933952
+r1
+xCompileC
+xbuild/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/PatternGame2ViewController.o
+x/MathCraft ver.2.2/Classes/PatternGame2ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/MathCraft ver.2.2/Classes/PatternGame2ViewController.m: In function '-[PatternGame2ViewController dealloc]':
+o/MathCraft ver.2.2/Classes/PatternGame2ViewController.m:229: warning: invalid receiver type 'int'
+lSLF07#2@63"Compile /MathCraft ver.2.2/Classes/PatternGame2ViewController.m291591800#291591800#0(208"/MathCraft ver.2.2/Classes/PatternGame2ViewController.m: In function '-[PatternGame2ViewController dealloc]':/MathCraft ver.2.2/Classes/PatternGame2ViewController.m:229: warning: invalid receiver type 'int'1(22@27"Invalid receiver type 'int'291591800#110#98#0(6@55"/MathCraft ver.2.2/Classes/PatternGame2ViewController.m291588340#229#0#229#0#0"0(0#0#55"/MathCraft ver.2.2/Classes/PatternGame2ViewController.m4300885448#1908"    cd "/MathCraft ver.2.2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-generated-files.hmap" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-own-target-headers.hmap" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-all-target-headers.hmap" -iquote "/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-project-headers.hmap" "-F/MathCraft ver.2.2/build/Release-iphonesimulator" "-I/MathCraft ver.2.2/build/Release-iphonesimulator/include" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/DerivedSources/i386" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/DerivedSources" -include /var/folders/wG/wGXVeMlFFWq9DplZeNPVJU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MathCraft_Login_Prefix-ffquzeexayqmsvfxtjnqudsqltaa/MathCraft_Login_Prefix.pch -c "/MathCraft ver.2.2/Classes/PatternGame2ViewController.m" -o "/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/PatternGame2ViewController.o"0#
+
+CCompileC build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/PatternGamesMenuViewController.o "/MathCraft ver.2.2/Classes/PatternGamesMenuViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s291591800.840257
+e291591800.959590
+r1
+xCompileC
+xbuild/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/PatternGamesMenuViewController.o
+x/MathCraft ver.2.2/Classes/PatternGamesMenuViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /MathCraft ver.2.2/Classes/PatternGamesMenuViewController.m291591800#291591800#0(0"0(0#0#59"/MathCraft ver.2.2/Classes/PatternGamesMenuViewController.m4300885448#1916"    cd "/MathCraft ver.2.2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-generated-files.hmap" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-own-target-headers.hmap" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-all-target-headers.hmap" -iquote "/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-project-headers.hmap" "-F/MathCraft ver.2.2/build/Release-iphonesimulator" "-I/MathCraft ver.2.2/build/Release-iphonesimulator/include" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/DerivedSources/i386" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/DerivedSources" -include /var/folders/wG/wGXVeMlFFWq9DplZeNPVJU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MathCraft_Login_Prefix-ffquzeexayqmsvfxtjnqudsqltaa/MathCraft_Login_Prefix.pch -c "/MathCraft ver.2.2/Classes/PatternGamesMenuViewController.m" -o "/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/PatternGamesMenuViewController.o"0#
+
+CCompileC build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/UserProfile.o "/MathCraft ver.2.2/Classes/UserProfile.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s291591800.497782
+e291591800.709559
+r1
+xCompileC
+xbuild/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/UserProfile.o
+x/MathCraft ver.2.2/Classes/UserProfile.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /MathCraft ver.2.2/Classes/UserProfile.m291591800#291591800#0(0"0(0#0#40"/MathCraft ver.2.2/Classes/UserProfile.m4300885448#1878"    cd "/MathCraft ver.2.2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-generated-files.hmap" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-own-target-headers.hmap" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-all-target-headers.hmap" -iquote "/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-project-headers.hmap" "-F/MathCraft ver.2.2/build/Release-iphonesimulator" "-I/MathCraft ver.2.2/build/Release-iphonesimulator/include" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/DerivedSources/i386" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/DerivedSources" -include /var/folders/wG/wGXVeMlFFWq9DplZeNPVJU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MathCraft_Login_Prefix-ffquzeexayqmsvfxtjnqudsqltaa/MathCraft_Login_Prefix.pch -c "/MathCraft ver.2.2/Classes/UserProfile.m" -o "/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/UserProfile.o"0#
+
+CCompileC build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/main.o "/MathCraft ver.2.2/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s291591799.709950
+e291591799.777697
+r1
+xCompileC
+xbuild/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/main.o
+x/MathCraft ver.2.2/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Compile /MathCraft ver.2.2/main.m291591799#291591799#0(0"0(0#0#25"/MathCraft ver.2.2/main.m4300885448#1856"    cd "/MathCraft ver.2.2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-generated-files.hmap" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-own-target-headers.hmap" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-all-target-headers.hmap" -iquote "/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-project-headers.hmap" "-F/MathCraft ver.2.2/build/Release-iphonesimulator" "-I/MathCraft ver.2.2/build/Release-iphonesimulator/include" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/DerivedSources/i386" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/DerivedSources" -include /var/folders/wG/wGXVeMlFFWq9DplZeNPVJU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MathCraft_Login_Prefix-ffquzeexayqmsvfxtjnqudsqltaa/MathCraft_Login_Prefix.pch -c "/MathCraft ver.2.2/main.m" -o "/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/MathCraft ver.2.2/Classes/ClockGamesMenu.xib"
+s291591796.903423
+e291591797.319989
+r1
+xCompileXIB
+x/MathCraft ver.2.2/Classes/ClockGamesMenu.xib
+lSLF07#2@37"CompileXIB Classes/ClockGamesMenu.xib291591796#291591797#0(0"0(0#0#45"/MathCraft ver.2.2/Classes/ClockGamesMenu.xib4300885448#454"    cd "/MathCraft ver.2.2"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/ClockGamesMenu.nib" "/MathCraft ver.2.2/Classes/ClockGamesMenu.xib"0#
+
+CCompileXIB "/MathCraft ver.2.2/Classes/Clock_Game.xib"
+s291591797.325009
+e291591797.896840
+r1
+xCompileXIB
+x/MathCraft ver.2.2/Classes/Clock_Game.xib
+lSLF07#2@33"CompileXIB Classes/Clock_Game.xib291591797#291591797#0(0"0(0#0#41"/MathCraft ver.2.2/Classes/Clock_Game.xib4300885448#446"    cd "/MathCraft ver.2.2"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/Clock_Game.nib" "/MathCraft ver.2.2/Classes/Clock_Game.xib"0#
+
+CCompileXIB "/MathCraft ver.2.2/Classes/Clock_Game_Analog.xib"
+s291591797.839011
+e291591798.389827
+r1
+xCompileXIB
+x/MathCraft ver.2.2/Classes/Clock_Game_Analog.xib
+lSLF07#2@40"CompileXIB Classes/Clock_Game_Analog.xib291591797#291591798#0(0"0(0#0#48"/MathCraft ver.2.2/Classes/Clock_Game_Analog.xib4300885448#460"    cd "/MathCraft ver.2.2"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/Clock_Game_Analog.nib" "/MathCraft ver.2.2/Classes/Clock_Game_Analog.xib"0#
+
+CCompileXIB "/MathCraft ver.2.2/Classes/EquationGamesMenuViewController.xib"
+s291591796.164727
+e291591796.558969
+r1
+xCompileXIB
+x/MathCraft ver.2.2/Classes/EquationGamesMenuViewController.xib
+lSLF07#2@54"CompileXIB Classes/EquationGamesMenuViewController.xib291591796#291591796#0(0"0(0#0#62"/MathCraft ver.2.2/Classes/EquationGamesMenuViewController.xib4300885448#488"    cd "/MathCraft ver.2.2"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/EquationGamesMenuViewController.nib" "/MathCraft ver.2.2/Classes/EquationGamesMenuViewController.xib"0#
+
+CCompileXIB "/MathCraft ver.2.2/Classes/MathCraft_GameMenu.xib"
+s291591794.034092
+e291591794.480167
+r1
+xCompileXIB
+x/MathCraft ver.2.2/Classes/MathCraft_GameMenu.xib
+lSLF07#2@41"CompileXIB Classes/MathCraft_GameMenu.xib291591794#291591794#0(0"0(0#0#49"/MathCraft ver.2.2/Classes/MathCraft_GameMenu.xib4300885448#462"    cd "/MathCraft ver.2.2"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/MathCraft_GameMenu.nib" "/MathCraft ver.2.2/Classes/MathCraft_GameMenu.xib"0#
+
+CCompileXIB "/MathCraft ver.2.2/Classes/MathCraft_LeaderBoard.xib"
+s291591793.986403
+e291591794.614892
+r1
+xCompileXIB
+x/MathCraft ver.2.2/Classes/MathCraft_LeaderBoard.xib
+lSLF07#2@44"CompileXIB Classes/MathCraft_LeaderBoard.xib291591793#291591794#0(0"0(0#0#52"/MathCraft ver.2.2/Classes/MathCraft_LeaderBoard.xib4300885448#468"    cd "/MathCraft ver.2.2"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/MathCraft_LeaderBoard.nib" "/MathCraft ver.2.2/Classes/MathCraft_LeaderBoard.xib"0#
+
+CCompileXIB "/MathCraft ver.2.2/Classes/MathCraft_MainMenu.xib"
+s291591794.859974
+e291591795.501341
+r1
+xCompileXIB
+x/MathCraft ver.2.2/Classes/MathCraft_MainMenu.xib
+lSLF07#2@41"CompileXIB Classes/MathCraft_MainMenu.xib291591794#291591795#0(0"0(0#0#49"/MathCraft ver.2.2/Classes/MathCraft_MainMenu.xib4300885448#462"    cd "/MathCraft ver.2.2"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/MathCraft_MainMenu.nib" "/MathCraft ver.2.2/Classes/MathCraft_MainMenu.xib"0#
+
+CCompileXIB "/MathCraft ver.2.2/Classes/MathCraft_Option.xib"
+s291591793.557885
+e291591794.029164
+r1
+xCompileXIB
+x/MathCraft ver.2.2/Classes/MathCraft_Option.xib
+lSLF07#2@39"CompileXIB Classes/MathCraft_Option.xib291591793#291591794#0(0"0(0#0#47"/MathCraft ver.2.2/Classes/MathCraft_Option.xib4300885448#458"    cd "/MathCraft ver.2.2"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/MathCraft_Option.nib" "/MathCraft ver.2.2/Classes/MathCraft_Option.xib"0#
+
+CCompileXIB "/MathCraft ver.2.2/Classes/MathCraft_Progress.xib"
+s291591794.480292
+e291591794.856654
+r1
+xCompileXIB
+x/MathCraft ver.2.2/Classes/MathCraft_Progress.xib
+lSLF07#2@41"CompileXIB Classes/MathCraft_Progress.xib291591794#291591794#0(0"0(0#0#49"/MathCraft ver.2.2/Classes/MathCraft_Progress.xib4300885448#462"    cd "/MathCraft ver.2.2"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/MathCraft_Progress.nib" "/MathCraft ver.2.2/Classes/MathCraft_Progress.xib"0#
+
+CCompileXIB "/MathCraft ver.2.2/Classes/MathCraft_Register.xib"
+s291591793.501986
+e291591793.986289
+r1
+xCompileXIB
+x/MathCraft ver.2.2/Classes/MathCraft_Register.xib
+lSLF07#2@41"CompileXIB Classes/MathCraft_Register.xib291591793#291591793#0(0"0(0#0#49"/MathCraft ver.2.2/Classes/MathCraft_Register.xib4300885448#462"    cd "/MathCraft ver.2.2"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/MathCraft_Register.nib" "/MathCraft ver.2.2/Classes/MathCraft_Register.xib"0#
+
+CCompileXIB "/MathCraft ver.2.2/Classes/MathGame1_3ViewController.xib"
+s291591796.282655
+e291591796.900506
+r1
+xCompileXIB
+x/MathCraft ver.2.2/Classes/MathGame1_3ViewController.xib
+lSLF07#2@48"CompileXIB Classes/MathGame1_3ViewController.xib291591796#291591796#0(0"0(0#0#56"/MathCraft ver.2.2/Classes/MathGame1_3ViewController.xib4300885448#476"    cd "/MathCraft ver.2.2"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/MathGame1_3ViewController.nib" "/MathCraft ver.2.2/Classes/MathGame1_3ViewController.xib"0#
+
+CCompileXIB "/MathCraft ver.2.2/Classes/Mirror_Game.xib"
+s291591797.265867
+e291591797.835426
+r1
+xCompileXIB
+x/MathCraft ver.2.2/Classes/Mirror_Game.xib
+lSLF07#2@34"CompileXIB Classes/Mirror_Game.xib291591797#291591797#0(0"0(0#0#42"/MathCraft ver.2.2/Classes/Mirror_Game.xib4300885448#448"    cd "/MathCraft ver.2.2"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/Mirror_Game.nib" "/MathCraft ver.2.2/Classes/Mirror_Game.xib"0#
+
+CCompileXIB "/MathCraft ver.2.2/Classes/MoneyGamesMenu.xib"
+s291591797.896943
+e291591798.282152
+r1
+xCompileXIB
+x/MathCraft ver.2.2/Classes/MoneyGamesMenu.xib
+lSLF07#2@37"CompileXIB Classes/MoneyGamesMenu.xib291591797#291591798#0(0"0(0#0#45"/MathCraft ver.2.2/Classes/MoneyGamesMenu.xib4300885448#454"    cd "/MathCraft ver.2.2"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/MoneyGamesMenu.nib" "/MathCraft ver.2.2/Classes/MoneyGamesMenu.xib"0#
+
+CCompileXIB "/MathCraft ver.2.2/Classes/PatternGamesMenuViewController.xib"
+s291591795.789713
+e291591796.282546
+r1
+xCompileXIB
+x/MathCraft ver.2.2/Classes/PatternGamesMenuViewController.xib
+o/* com.apple.ibtool.document.warnings */
+o/MathCraft ver.2.2/Classes/PatternGamesMenuViewController.xib:-1: warning: The 'view' outlet of 'File's Owner' is connected to 'View' but 'view' is no longer defined on PatterGamesMenuViewController.
+o/MathCraft ver.2.2/Classes/PatternGamesMenuViewController.xib:12: warning: The 'Touch Up Inside' event of 'Rounded Rect Button' is connected to the 'Game2_Push' selector of 'File's Owner', but 'Game2_Push' is no longer defined on 'PatterGamesMenuViewController'.
+o/MathCraft ver.2.2/Classes/PatternGamesMenuViewController.xib:11: warning: The 'Touch Up Inside' event of 'Rounded Rect Button' is connected to the 'Game1_Push' selector of 'File's Owner', but 'Game1_Push' is no longer defined on 'PatterGamesMenuViewController'.
+o/MathCraft ver.2.2/Classes/PatternGamesMenuViewController.xib:14: warning: The 'Touch Up Inside' event of 'Rounded Rect Button' is connected to the 'Back_Push' selector of 'File's Owner', but 'Back_Push' is no longer defined on 'PatterGamesMenuViewController'.
+lSLF07#2@53"CompileXIB Classes/PatternGamesMenuViewController.xib291591795#291591796#0(1028"/* com.apple.ibtool.document.warnings *//MathCraft ver.2.2/Classes/PatternGamesMenuViewController.xib:-1: warning: The 'view' outlet of 'File's Owner' is connected to 'View' but 'view' is no longer defined on PatterGamesMenuViewController./MathCraft ver.2.2/Classes/PatternGamesMenuViewController.xib:12: warning: The 'Touch Up Inside' event of 'Rounded Rect Button' is connected to the 'Game2_Push' selector of 'File's Owner', but 'Game2_Push' is no longer defined on 'PatterGamesMenuViewController'./MathCraft ver.2.2/Classes/PatternGamesMenuViewController.xib:11: warning: The 'Touch Up Inside' event of 'Rounded Rect Button' is connected to the 'Game1_Push' selector of 'File's Owner', but 'Game1_Push' is no longer defined on 'PatterGamesMenuViewController'./MathCraft ver.2.2/Classes/PatternGamesMenuViewController.xib:14: warning: The 'Touch Up Inside' event of 'Rounded Rect Button' is connected to the 'Back_Push' selector of 'File's Owner', but 'Back_Push' is no longer defined on 'PatterGamesMenuViewController'.4(22@124"The 'view' outlet of 'File's Owner' is connected to 'View' but 'view' is no longer defined on PatterGamesMenuViewController.291591796#18446744073709551615#0#0(6@61"/MathCraft ver.2.2/Classes/PatternGamesMenuViewController.xib291588340#18446744073709551615#0#18446744073709551615#0#0"0(22@187"The 'Touch Up Inside' event of 'Rounded Rect Button' is connected to the 'Game2_Push' selector of 'File's Owner', but 'Game2_Push' is no longer defined on 'PatterGamesMenuViewController'.291591796#18446744073709551615#0#0(6@61"/MathCraft ver.2.2/Classes/PatternGamesMenuViewController.xib291588340#12#0#12#0#0"0(22@187"The 'Touch Up Inside' event of 'Rounded Rect Button' is connected to the 'Game1_Push' selector of 'File's Owner', but 'Game1_Push' is no longer defined on 'PatterGamesMenuViewController'.291591796#18446744073709551615#0#0(6@61"/MathCraft ver.2.2/Classes/PatternGamesMenuViewController.xib291588340#11#0#11#0#0"0(22@185"The 'Touch Up Inside' event of 'Rounded Rect Button' is connected to the 'Back_Push' selector of 'File's Owner', but 'Back_Push' is no longer defined on 'PatterGamesMenuViewController'.291591796#18446744073709551615#0#0(6@61"/MathCraft ver.2.2/Classes/PatternGamesMenuViewController.xib291588340#14#0#14#0#0"0(0#0#61"/MathCraft ver.2.2/Classes/PatternGamesMenuViewController.xib4300885448#486"    cd "/MathCraft ver.2.2"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/PatternGamesMenuViewController.nib" "/MathCraft ver.2.2/Classes/PatternGamesMenuViewController.xib"0#
+
+CCompileXIB "/MathCraft ver.2.2/Equation_GameViewController.xib"
+s291591794.619933
+e291591795.179528
+r1
+xCompileXIB
+x/MathCraft ver.2.2/Equation_GameViewController.xib
+lSLF07#2@42"CompileXIB Equation_GameViewController.xib291591794#291591795#0(0"0(0#0#50"/MathCraft ver.2.2/Equation_GameViewController.xib4300885448#472"    cd "/MathCraft ver.2.2"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/Equation_GameViewController.nib" "/MathCraft ver.2.2/Equation_GameViewController.xib"0#
+
+CCompileXIB "/MathCraft ver.2.2/MainWindow.xib"
+s291591791.985378
+e291591793.501772
+r1
+xCompileXIB
+x/MathCraft ver.2.2/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib291591791#291591793#0(0"0(0#0#33"/MathCraft ver.2.2/MainWindow.xib4300885448#438"    cd "/MathCraft ver.2.2"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/MainWindow.nib" "/MathCraft ver.2.2/MainWindow.xib"0#
+
+CCompileXIB "/MathCraft ver.2.2/MathCraft_LoginViewController.xib"
+s291591791.986124
+e291591793.557771
+r1
+xCompileXIB
+x/MathCraft ver.2.2/MathCraft_LoginViewController.xib
+lSLF07#2@44"CompileXIB MathCraft_LoginViewController.xib291591791#291591793#0(0"0(0#0#52"/MathCraft ver.2.2/MathCraft_LoginViewController.xib4300885448#476"    cd "/MathCraft ver.2.2"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/MathCraft_LoginViewController.nib" "/MathCraft ver.2.2/MathCraft_LoginViewController.xib"0#
+
+CCompileXIB "/MathCraft ver.2.2/MoneyGameViewController.xib"
+s291591798.284807
+e291591798.835186
+r1
+xCompileXIB
+x/MathCraft ver.2.2/MoneyGameViewController.xib
+lSLF07#2@38"CompileXIB MoneyGameViewController.xib291591798#291591798#0(0"0(0#0#46"/MathCraft ver.2.2/MoneyGameViewController.xib4300885448#464"    cd "/MathCraft ver.2.2"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/MoneyGameViewController.nib" "/MathCraft ver.2.2/MoneyGameViewController.xib"0#
+
+CCompileXIB "/MathCraft ver.2.2/PatternGame2ViewController.xib"
+s291591796.559079
+e291591797.265762
+r1
+xCompileXIB
+x/MathCraft ver.2.2/PatternGame2ViewController.xib
+lSLF07#2@41"CompileXIB PatternGame2ViewController.xib291591796#291591797#0(0"0(0#0#49"/MathCraft ver.2.2/PatternGame2ViewController.xib4300885448#470"    cd "/MathCraft ver.2.2"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/PatternGame2ViewController.nib" "/MathCraft ver.2.2/PatternGame2ViewController.xib"0#
+
+CCopyPlistFile "/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/Data.plist" Data.plist
+s291591795.184238
+e291591796.164575
+r1
+xCopyPlistFile
+x/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/Data.plist
+xData.plist
+lSLF07#2@15"Copy Data.plist291591795#291591796#0(0"0(0#0#29"/MathCraft ver.2.2/Data.plist4300885448#359"    cd "/MathCraft ver.2.2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 Data.plist --outdir "/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app"0#
+
+CCpResource "build/Release-iphonesimulator/MathCraft_Login.app/1 login copy.jpg" "1 login copy.jpg"
+s291591794.616301
+e291591794.628972
+r1
+xCpResource
+xbuild/Release-iphonesimulator/MathCraft_Login.app/1 login copy.jpg
+x1 login copy.jpg
+lSLF07#2@21"Copy 1 login copy.jpg291591794#291591794#0(0"0(0#0#35"/MathCraft ver.2.2/1 login copy.jpg4300885448#437"    cd "/MathCraft ver.2.2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/MathCraft ver.2.2/1 login copy.jpg" "/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app"0#
+
+CCpResource "build/Release-iphonesimulator/MathCraft_Login.app/2 Menu copy-1.jpg" "2 Menu copy-1.jpg"
+s291591794.029275
+e291591794.173725
+r1
+xCpResource
+xbuild/Release-iphonesimulator/MathCraft_Login.app/2 Menu copy-1.jpg
+x2 Menu copy-1.jpg
+lSLF07#2@22"Copy 2 Menu copy-1.jpg291591794#291591794#0(0"0(0#0#36"/MathCraft ver.2.2/2 Menu copy-1.jpg4300885448#438"    cd "/MathCraft ver.2.2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/MathCraft ver.2.2/2 Menu copy-1.jpg" "/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app"0#
+
+CCpResource "build/Release-iphonesimulator/MathCraft_Login.app/3 Game Selection copy.jpg" "3 Game Selection copy.jpg"
+s291591794.031217
+e291591794.155911
+r1
+xCpResource
+xbuild/Release-iphonesimulator/MathCraft_Login.app/3 Game Selection copy.jpg
+x3 Game Selection copy.jpg
+lSLF07#2@30"Copy 3 Game Selection copy.jpg291591794#291591794#0(0"0(0#0#44"/MathCraft ver.2.2/3 Game Selection copy.jpg4300885448#446"    cd "/MathCraft ver.2.2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/MathCraft ver.2.2/3 Game Selection copy.jpg" "/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app"0#
+
+CCpResource "build/Release-iphonesimulator/MathCraft_Login.app/5 View Progress copy.jpg" "5 View Progress copy.jpg"
+s291591794.032396
+e291591794.156087
+r1
+xCpResource
+xbuild/Release-iphonesimulator/MathCraft_Login.app/5 View Progress copy.jpg
+x5 View Progress copy.jpg
+lSLF07#2@29"Copy 5 View Progress copy.jpg291591794#291591794#0(0"0(0#0#43"/MathCraft ver.2.2/5 View Progress copy.jpg4300885448#445"    cd "/MathCraft ver.2.2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/MathCraft ver.2.2/5 View Progress copy.jpg" "/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app"0#
+
+CCpResource "build/Release-iphonesimulator/MathCraft_Login.app/6 Option copy.jpg" "6 Option copy.jpg"
+s291591794.615009
+e291591794.636077
+r1
+xCpResource
+xbuild/Release-iphonesimulator/MathCraft_Login.app/6 Option copy.jpg
+x6 Option copy.jpg
+lSLF07#2@22"Copy 6 Option copy.jpg291591794#291591794#0(0"0(0#0#36"/MathCraft ver.2.2/6 Option copy.jpg4300885448#438"    cd "/MathCraft ver.2.2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/MathCraft ver.2.2/6 Option copy.jpg" "/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app"0#
+
+CCpResource "build/Release-iphonesimulator/MathCraft_Login.app/Clock Game copy.jpg" "Clock Game copy.jpg"
+s291591797.320107
+e291591797.329955
+r1
+xCpResource
+xbuild/Release-iphonesimulator/MathCraft_Login.app/Clock Game copy.jpg
+xClock Game copy.jpg
+lSLF07#2@24"Copy Clock Game copy.jpg291591797#291591797#0(0"0(0#0#38"/MathCraft ver.2.2/Clock Game copy.jpg4300885448#440"    cd "/MathCraft ver.2.2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/MathCraft ver.2.2/Clock Game copy.jpg" "/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app"0#
+
+CCpResource "build/Release-iphonesimulator/MathCraft_Login.app/Eq Game copy.jpg" "Eq Game copy.jpg"
+s291591794.856748
+e291591794.865691
+r1
+xCpResource
+xbuild/Release-iphonesimulator/MathCraft_Login.app/Eq Game copy.jpg
+xEq Game copy.jpg
+lSLF07#2@21"Copy Eq Game copy.jpg291591794#291591794#0(0"0(0#0#35"/MathCraft ver.2.2/Eq Game copy.jpg4300885448#437"    cd "/MathCraft ver.2.2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/MathCraft ver.2.2/Eq Game copy.jpg" "/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app"0#
+
+CCpResource "build/Release-iphonesimulator/MathCraft_Login.app/Mirror game copy.jpg" "Mirror game copy.jpg"
+s291591798.396979
+e291591798.409083
+r1
+xCpResource
+xbuild/Release-iphonesimulator/MathCraft_Login.app/Mirror game copy.jpg
+xMirror game copy.jpg
+lSLF07#2@25"Copy Mirror game copy.jpg291591798#291591798#0(0"0(0#0#39"/MathCraft ver.2.2/Mirror game copy.jpg4300885448#441"    cd "/MathCraft ver.2.2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/MathCraft ver.2.2/Mirror game copy.jpg" "/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app"0#
+
+CCpResource "build/Release-iphonesimulator/MathCraft_Login.app/clockgamesubmenu copy1.jpg" "clockgamesubmenu copy1.jpg"
+s291591797.836997
+e291591797.880239
+r1
+xCpResource
+xbuild/Release-iphonesimulator/MathCraft_Login.app/clockgamesubmenu copy1.jpg
+xclockgamesubmenu copy1.jpg
+lSLF07#2@31"Copy clockgamesubmenu copy1.jpg291591797#291591797#0(0"0(0#0#45"/MathCraft ver.2.2/clockgamesubmenu copy1.jpg4300885448#447"    cd "/MathCraft ver.2.2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/MathCraft ver.2.2/clockgamesubmenu copy1.jpg" "/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app"0#
+
+CCpResource "build/Release-iphonesimulator/MathCraft_Login.app/eq_game_submenu copy1.jpg" "eq_game_submenu copy1.jpg"
+s291591797.837692
+e291591797.847779
+r1
+xCpResource
+xbuild/Release-iphonesimulator/MathCraft_Login.app/eq_game_submenu copy1.jpg
+xeq_game_submenu copy1.jpg
+lSLF07#2@30"Copy eq_game_submenu copy1.jpg291591797#291591797#0(0"0(0#0#44"/MathCraft ver.2.2/eq_game_submenu copy1.jpg4300885448#446"    cd "/MathCraft ver.2.2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/MathCraft ver.2.2/eq_game_submenu copy1.jpg" "/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app"0#
+
+CCpResource "build/Release-iphonesimulator/MathCraft_Login.app/log in copy1.jpg" "log in copy1.jpg"
+s291591794.858174
+e291591794.865839
+r1
+xCpResource
+xbuild/Release-iphonesimulator/MathCraft_Login.app/log in copy1.jpg
+xlog in copy1.jpg
+lSLF07#2@21"Copy log in copy1.jpg291591794#291591794#0(0"0(0#0#35"/MathCraft ver.2.2/log in copy1.jpg4300885448#437"    cd "/MathCraft ver.2.2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/MathCraft ver.2.2/log in copy1.jpg" "/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app"0#
+
+CCpResource "build/Release-iphonesimulator/MathCraft_Login.app/moneyGame copy.jpg" "moneyGame copy.jpg"
+s291591798.389937
+e291591798.399190
+r1
+xCpResource
+xbuild/Release-iphonesimulator/MathCraft_Login.app/moneyGame copy.jpg
+xmoneyGame copy.jpg
+lSLF07#2@23"Copy moneyGame copy.jpg291591798#291591798#0(0"0(0#0#37"/MathCraft ver.2.2/moneyGame copy.jpg4300885448#439"    cd "/MathCraft ver.2.2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/MathCraft ver.2.2/moneyGame copy.jpg" "/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app"0#
+
+CCpResource "build/Release-iphonesimulator/MathCraft_Login.app/moneygamesubmenu copy.jpg" "moneygamesubmenu copy.jpg"
+s291591798.393287
+e291591798.407583
+r1
+xCpResource
+xbuild/Release-iphonesimulator/MathCraft_Login.app/moneygamesubmenu copy.jpg
+xmoneygamesubmenu copy.jpg
+lSLF07#2@30"Copy moneygamesubmenu copy.jpg291591798#291591798#0(0"0(0#0#44"/MathCraft ver.2.2/moneygamesubmenu copy.jpg4300885448#446"    cd "/MathCraft ver.2.2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/MathCraft ver.2.2/moneygamesubmenu copy.jpg" "/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app"0#
+
+CCpResource "build/Release-iphonesimulator/MathCraft_Login.app/pattern game copy.jpg" "pattern game copy.jpg"
+s291591798.390776
+e291591798.401175
+r1
+xCpResource
+xbuild/Release-iphonesimulator/MathCraft_Login.app/pattern game copy.jpg
+xpattern game copy.jpg
+lSLF07#2@26"Copy pattern game copy.jpg291591798#291591798#0(0"0(0#0#40"/MathCraft ver.2.2/pattern game copy.jpg4300885448#442"    cd "/MathCraft ver.2.2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/MathCraft ver.2.2/pattern game copy.jpg" "/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app"0#
+
+CCpResource "build/Release-iphonesimulator/MathCraft_Login.app/patterngamesubmenu copy1.jpg" "patterngamesubmenu copy1.jpg"
+s291591797.838347
+e291591797.851855
+r1
+xCpResource
+xbuild/Release-iphonesimulator/MathCraft_Login.app/patterngamesubmenu copy1.jpg
+xpatterngamesubmenu copy1.jpg
+lSLF07#2@33"Copy patterngamesubmenu copy1.jpg291591797#291591797#0(0"0(0#0#47"/MathCraft ver.2.2/patterngamesubmenu copy1.jpg4300885448#449"    cd "/MathCraft ver.2.2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/MathCraft ver.2.2/patterngamesubmenu copy1.jpg" "/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app"0#
+
+CCpResource "build/Release-iphonesimulator/MathCraft_Login.app/register copy.jpg" "register copy.jpg"
+s291591798.391523
+e291591798.402916
+r1
+xCpResource
+xbuild/Release-iphonesimulator/MathCraft_Login.app/register copy.jpg
+xregister copy.jpg
+lSLF07#2@22"Copy register copy.jpg291591798#291591798#0(0"0(0#0#36"/MathCraft ver.2.2/register copy.jpg4300885448#438"    cd "/MathCraft ver.2.2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/MathCraft ver.2.2/register copy.jpg" "/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app"0#
+
+CCpResource build/Release-iphonesimulator/MathCraft_Login.app/25cents.png 25cents.png
+s291591798.282259
+e291591798.294414
+r1
+xCpResource
+xbuild/Release-iphonesimulator/MathCraft_Login.app/25cents.png
+x25cents.png
+lSLF07#2@16"Copy 25cents.png291591798#291591798#0(0"0(0#0#30"/MathCraft ver.2.2/25cents.png4300885448#432"    cd "/MathCraft ver.2.2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/MathCraft ver.2.2/25cents.png" "/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app"0#
+
+CCpResource build/Release-iphonesimulator/MathCraft_Login.app/Default.png Default.png
+s291591794.618082
+e291591794.634454
+r1
+xCpResource
+xbuild/Release-iphonesimulator/MathCraft_Login.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png291591794#291591794#0(0"0(0#0#30"/MathCraft ver.2.2/Default.png4300885448#432"    cd "/MathCraft ver.2.2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/MathCraft ver.2.2/Default.png" "/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app"0#
+
+CCpResource build/Release-iphonesimulator/MathCraft_Login.app/background.mp3 background.mp3
+s291591795.179745
+e291591795.630788
+r1
+xCpResource
+xbuild/Release-iphonesimulator/MathCraft_Login.app/background.mp3
+xbackground.mp3
+lSLF07#2@19"Copy background.mp3291591795#291591795#0(0"0(0#0#33"/MathCraft ver.2.2/background.mp34300885448#435"    cd "/MathCraft ver.2.2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/MathCraft ver.2.2/background.mp3" "/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app"0#
+
+CCpResource build/Release-iphonesimulator/MathCraft_Login.app/blue.jpg blue.jpg
+s291591796.900701
+e291591796.924049
+r1
+xCpResource
+xbuild/Release-iphonesimulator/MathCraft_Login.app/blue.jpg
+xblue.jpg
+lSLF07#2@13"Copy blue.jpg291591796#291591796#0(0"0(0#0#27"/MathCraft ver.2.2/blue.jpg4300885448#429"    cd "/MathCraft ver.2.2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/MathCraft ver.2.2/blue.jpg" "/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app"0#
+
+CCpResource build/Release-iphonesimulator/MathCraft_Login.app/button.png button.png
+s291591796.902800
+e291591796.915263
+r1
+xCpResource
+xbuild/Release-iphonesimulator/MathCraft_Login.app/button.png
+xbutton.png
+lSLF07#2@15"Copy button.png291591796#291591796#0(0"0(0#0#29"/MathCraft ver.2.2/button.png4300885448#431"    cd "/MathCraft ver.2.2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/MathCraft ver.2.2/button.png" "/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app"0#
+
+CCpResource build/Release-iphonesimulator/MathCraft_Login.app/eq.mp3 eq.mp3
+s291591795.180531
+e291591795.789602
+r1
+xCpResource
+xbuild/Release-iphonesimulator/MathCraft_Login.app/eq.mp3
+xeq.mp3
+lSLF07#2@11"Copy eq.mp3291591795#291591795#0(0"0(0#0#25"/MathCraft ver.2.2/eq.mp34300885448#427"    cd "/MathCraft ver.2.2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/MathCraft ver.2.2/eq.mp3" "/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app"0#
+
+CCpResource build/Release-iphonesimulator/MathCraft_Login.app/green.jpg green.jpg
+s291591796.901504
+e291591796.921445
+r1
+xCpResource
+xbuild/Release-iphonesimulator/MathCraft_Login.app/green.jpg
+xgreen.jpg
+lSLF07#2@14"Copy green.jpg291591796#291591796#0(0"0(0#0#28"/MathCraft ver.2.2/green.jpg4300885448#430"    cd "/MathCraft ver.2.2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/MathCraft ver.2.2/green.jpg" "/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app"0#
+
+CCpResource build/Release-iphonesimulator/MathCraft_Login.app/hr_hand.png hr_hand.png
+s291591797.321327
+e291591797.330900
+r1
+xCpResource
+xbuild/Release-iphonesimulator/MathCraft_Login.app/hr_hand.png
+xhr_hand.png
+lSLF07#2@16"Copy hr_hand.png291591797#291591797#0(0"0(0#0#30"/MathCraft ver.2.2/hr_hand.png4300885448#432"    cd "/MathCraft ver.2.2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/MathCraft ver.2.2/hr_hand.png" "/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app"0#
+
+CCpResource build/Release-iphonesimulator/MathCraft_Login.app/hr_hand1.png hr_hand1.png
+s291591797.836324
+e291591797.855660
+r1
+xCpResource
+xbuild/Release-iphonesimulator/MathCraft_Login.app/hr_hand1.png
+xhr_hand1.png
+lSLF07#2@17"Copy hr_hand1.png291591797#291591797#0(0"0(0#0#31"/MathCraft ver.2.2/hr_hand1.png4300885448#433"    cd "/MathCraft ver.2.2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/MathCraft ver.2.2/hr_hand1.png" "/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app"0#
+
+CCpResource build/Release-iphonesimulator/MathCraft_Login.app/min_hand.png min_hand.png
+s291591797.323142
+e291591797.336465
+r1
+xCpResource
+xbuild/Release-iphonesimulator/MathCraft_Login.app/min_hand.png
+xmin_hand.png
+lSLF07#2@17"Copy min_hand.png291591797#291591797#0(0"0(0#0#31"/MathCraft ver.2.2/min_hand.png4300885448#433"    cd "/MathCraft ver.2.2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/MathCraft ver.2.2/min_hand.png" "/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app"0#
+
+CCpResource build/Release-iphonesimulator/MathCraft_Login.app/min_hand1.png min_hand1.png
+s291591797.835533
+e291591797.842484
+r1
+xCpResource
+xbuild/Release-iphonesimulator/MathCraft_Login.app/min_hand1.png
+xmin_hand1.png
+lSLF07#2@18"Copy min_hand1.png291591797#291591797#0(0"0(0#0#32"/MathCraft ver.2.2/min_hand1.png4300885448#434"    cd "/MathCraft ver.2.2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/MathCraft ver.2.2/min_hand1.png" "/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app"0#
+
+CCpResource build/Release-iphonesimulator/MathCraft_Login.app/money.mp3 money.mp3
+s291591795.181190
+e291591795.533373
+r1
+xCpResource
+xbuild/Release-iphonesimulator/MathCraft_Login.app/money.mp3
+xmoney.mp3
+lSLF07#2@14"Copy money.mp3291591795#291591795#0(0"0(0#0#28"/MathCraft ver.2.2/money.mp34300885448#430"    cd "/MathCraft ver.2.2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/MathCraft ver.2.2/money.mp3" "/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app"0#
+
+CCpResource build/Release-iphonesimulator/MathCraft_Login.app/one_coin.png one_coin.png
+s291591798.283481
+e291591798.301757
+r1
+xCpResource
+xbuild/Release-iphonesimulator/MathCraft_Login.app/one_coin.png
+xone_coin.png
+lSLF07#2@17"Copy one_coin.png291591798#291591798#0(0"0(0#0#31"/MathCraft ver.2.2/one_coin.png4300885448#433"    cd "/MathCraft ver.2.2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/MathCraft ver.2.2/one_coin.png" "/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app"0#
+
+CCpResource build/Release-iphonesimulator/MathCraft_Login.app/pattern.mp3 pattern.mp3
+s291591795.181829
+e291591795.549613
+r1
+xCpResource
+xbuild/Release-iphonesimulator/MathCraft_Login.app/pattern.mp3
+xpattern.mp3
+lSLF07#2@16"Copy pattern.mp3291591795#291591795#0(0"0(0#0#30"/MathCraft ver.2.2/pattern.mp34300885448#432"    cd "/MathCraft ver.2.2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/MathCraft ver.2.2/pattern.mp3" "/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app"0#
+
+CCpResource build/Release-iphonesimulator/MathCraft_Login.app/red.jpg red.jpg
+s291591796.902158
+e291591796.912792
+r1
+xCpResource
+xbuild/Release-iphonesimulator/MathCraft_Login.app/red.jpg
+xred.jpg
+lSLF07#2@12"Copy red.jpg291591796#291591796#0(0"0(0#0#26"/MathCraft ver.2.2/red.jpg4300885448#428"    cd "/MathCraft ver.2.2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/MathCraft ver.2.2/red.jpg" "/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app"0#
+
+CCpResource build/Release-iphonesimulator/MathCraft_Login.app/time.mp3 time.mp3
+s291591795.182496
+e291591795.630127
+r1
+xCpResource
+xbuild/Release-iphonesimulator/MathCraft_Login.app/time.mp3
+xtime.mp3
+lSLF07#2@13"Copy time.mp3291591795#291591795#0(0"0(0#0#27"/MathCraft ver.2.2/time.mp34300885448#429"    cd "/MathCraft ver.2.2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/MathCraft ver.2.2/time.mp3" "/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app"0#
+
+CCpResource build/Release-iphonesimulator/MathCraft_Login.app/two_coin.png two_coin.png
+s291591798.284175
+e291591798.291354
+r1
+xCpResource
+xbuild/Release-iphonesimulator/MathCraft_Login.app/two_coin.png
+xtwo_coin.png
+lSLF07#2@17"Copy two_coin.png291591798#291591798#0(0"0(0#0#31"/MathCraft ver.2.2/two_coin.png4300885448#433"    cd "/MathCraft ver.2.2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/MathCraft ver.2.2/two_coin.png" "/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app"0#
+
+CGenerateDSYMFile "/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app.dSYM" "/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/MathCraft_Login"
+s291591801.888870
+e291591801.946509
+r1
+xGenerateDSYMFile
+x/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app.dSYM
+x/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/MathCraft_Login
+lSLF07#2@137"GenerateDSYMFile build/Release-iphonesimulator/MathCraft_Login.app.dSYM build/Release-iphonesimulator/MathCraft_Login.app/MathCraft_Login291591801#291591801#0(0"0(0#0#84"/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/MathCraft_Login4300885448#357"    cd "/MathCraft ver.2.2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/MathCraft_Login" -o "/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app.dSYM"0#
+
+CLd "/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/MathCraft_Login" normal i386
+s291591801.840931
+e291591801.888744
+r1
+xLd
+x/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/MathCraft_Login
+xnormal
+xi386
+lSLF07#2@89"Link /MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/MathCraft_Login291591801#291591801#0(0"0(0#0#0"4300885448#846"    cd "/MathCraft ver.2.2"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk "-L/MathCraft ver.2.2/build/Release-iphonesimulator" "-F/MathCraft ver.2.2/build/Release-iphonesimulator" -filelist "/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/Objects-normal/i386/MathCraft_Login.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework AVFoundation -o "/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/MathCraft_Login"0#
+
+CProcessInfoPlistFile "/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/Info.plist" MathCraft_Login-Info.plist
+s291591791.981994
+e291591791.985284
+r1
+xProcessInfoPlistFile
+x/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/Info.plist
+xMathCraft_Login-Info.plist
+lSLF07#2@34"Process MathCraft_Login-Info.plist291591791#291591791#0(0"0(0#0#45"/MathCraft ver.2.2/MathCraft_Login-Info.plist4300885448#453"    cd "/MathCraft ver.2.2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility MathCraft_Login-Info.plist -genpkginfo "/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app/Info.plist"0#
+
+CProcessPCH /var/folders/wG/wGXVeMlFFWq9DplZeNPVJU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MathCraft_Login_Prefix-ffquzeexayqmsvfxtjnqudsqltaa/MathCraft_Login_Prefix.pch.gch MathCraft_Login_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s291591798.835332
+e291591799.709802
+r1
+xProcessPCH
+x/var/folders/wG/wGXVeMlFFWq9DplZeNPVJU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MathCraft_Login_Prefix-ffquzeexayqmsvfxtjnqudsqltaa/MathCraft_Login_Prefix.pch.gch
+xMathCraft_Login_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile MathCraft_Login_Prefix.pch291591798#291591799#0(0"0(0#0#45"/MathCraft ver.2.2/MathCraft_Login_Prefix.pch4300885448#1756"    cd "/MathCraft ver.2.2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-generated-files.hmap" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-own-target-headers.hmap" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-all-target-headers.hmap" -iquote "/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/MathCraft_Login-project-headers.hmap" "-F/MathCraft ver.2.2/build/Release-iphonesimulator" "-I/MathCraft ver.2.2/build/Release-iphonesimulator/include" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/DerivedSources/i386" "-I/MathCraft ver.2.2/build/MathCraft_Login.build/Release-iphonesimulator/MathCraft_Login.build/DerivedSources" -c "/MathCraft ver.2.2/MathCraft_Login_Prefix.pch" -o /var/folders/wG/wGXVeMlFFWq9DplZeNPVJU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MathCraft_Login_Prefix-ffquzeexayqmsvfxtjnqudsqltaa/MathCraft_Login_Prefix.pch.gch0#
+
+CTouch "/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app"
+s291591801.946614
+e291591801.952126
+r1
+xTouch
+x/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app
+lSLF07#2@74"Touch /MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app291591801#291591801#0(0"0(0#0#0"4300885448#252"    cd "/MathCraft ver.2.2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/MathCraft ver.2.2/build/Release-iphonesimulator/MathCraft_Login.app"0#
+
