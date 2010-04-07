@@ -1,0 +1,2375 @@
+// !$*UTF8*$!
+{
+	120FEBE7115AB5FF007B1FAF /* UserProfile.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 988}}";
+			sepNavSelRange = "{894, 0}";
+			sepNavVisRange = "{712, 479}";
+		};
+	};
+	120FEBE8115AB5FF007B1FAF /* UserProfile.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 1625}}";
+			sepNavSelRange = "{3138, 0}";
+			sepNavVisRange = "{21, 252}";
+		};
+	};
+	1224966B115EDE4100717CDA /* Clock_Game_Analog.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 897}}";
+			sepNavSelRange = "{437, 65}";
+			sepNavVisRange = "{172, 404}";
+		};
+	};
+	1224966C115EDE4100717CDA /* Clock_Game_Analog.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 3185}}";
+			sepNavSelRange = "{5406, 0}";
+			sepNavVisRange = "{5119, 313}";
+		};
+	};
+	122CF4971149BA8F00804E20 /* MathCraft_Progress.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 339}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 272}";
+		};
+	};
+	122CF4981149BA8F00804E20 /* MathCraft_Progress.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1146, 832}}";
+			sepNavSelRange = "{260, 0}";
+			sepNavVisRange = "{0, 690}";
+		};
+	};
+	1240B74A114B1EE800808C92 /* MathCraft_User.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 364}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{3, 583}";
+		};
+	};
+	124E42C5114DDB600058C646 /* Eq Game copy.jpg */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 121}, {535, 652}}";
+		};
+	};
+	125D2DBF1148530500EE222A /* MathCraft_Option.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 494}}";
+			sepNavSelRange = "{339, 0}";
+			sepNavVisRange = "{221, 291}";
+			sepNavWindowFrame = "{{15, 84}, {1234, 694}}";
+		};
+	};
+	125D2DC01148530500EE222A /* MathCraft_Option.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 1352}}";
+			sepNavSelRange = "{564, 28}";
+			sepNavVisRange = "{339, 316}";
+		};
+	};
+	125D2DD611485C2200EE222A /* MathCraft_LeaderBoard.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 312}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{94, 270}";
+		};
+	};
+	125D2DD711485C2200EE222A /* MathCraft_LeaderBoard.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1175, 689}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1259}";
+			sepNavWindowFrame = "{{15, 84}, {1234, 694}}";
+		};
+	};
+	125D2E70114867D000EE222A /* MathCraft_GameMenu.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 559}}";
+			sepNavSelRange = "{274, 0}";
+			sepNavVisRange = "{134, 331}";
+		};
+	};
+	125D2E71114867D000EE222A /* MathCraft_GameMenu.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {908, 1196}}";
+			sepNavSelRange = "{1278, 0}";
+			sepNavVisRange = "{1244, 701}";
+			sepNavWindowFrame = "{{15, 84}, {1234, 694}}";
+		};
+	};
+	1265277B114EBE0B009F67CB /* MathCraft_MainMenu.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 559}}";
+			sepNavSelRange = "{265, 31}";
+			sepNavVisRange = "{0, 337}";
+		};
+	};
+	1265277C114EBE0B009F67CB /* MathCraft_MainMenu.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 1300}}";
+			sepNavSelRange = "{317, 0}";
+			sepNavVisRange = "{0, 357}";
+		};
+	};
+	12937B9F1155873600C730DE /* MathCraft_Music.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 1885}}";
+			sepNavSelRange = "{737, 0}";
+			sepNavVisRange = "{483, 587}";
+		};
+	};
+	129AFAB611602C190034B959 /* MoneyGamesMenu.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 1365}}";
+			sepNavSelRange = "{243, 0}";
+			sepNavVisRange = "{0, 339}";
+		};
+	};
+	129AFAD611602D230034B959 /* MoneyGameViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 884}}";
+			sepNavSelRange = "{1207, 0}";
+			sepNavVisRange = "{1104, 250}";
+		};
+	};
+	129AFB19116038030034B959 /* MoneyGameViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 4125}}";
+			sepNavSelRange = "{6497, 0}";
+			sepNavVisRange = "{6323, 204}";
+		};
+	};
+	12A83DDC115E97640007DA66 /* Mirror_Game.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 689}}";
+			sepNavSelRange = "{757, 0}";
+			sepNavVisRange = "{401, 482}";
+		};
+	};
+	12A83DDD115E97640007DA66 /* Mirror_Game.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {936, 2873}}";
+			sepNavSelRange = "{2397, 0}";
+			sepNavVisRange = "{1173, 1384}";
+		};
+	};
+	12A83EF0115EA5550007DA66 /* Clock_Game.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 884}}";
+			sepNavSelRange = "{430, 65}";
+			sepNavVisRange = "{207, 360}";
+		};
+	};
+	12A83EF1115EA5550007DA66 /* Clock_Game.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 2678}}";
+			sepNavSelRange = "{4410, 0}";
+			sepNavVisRange = "{4199, 241}";
+		};
+	};
+	12B4C81E115C7B3C00D0EC86 /* ManageProfile.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 611}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{911, 333}";
+		};
+	};
+	12B4C81F115C7B3C00D0EC86 /* ManageProfile.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 3029}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{231, 410}";
+		};
+	};
+	12ECDBED1140FF950002F94C /* MathCraft_Register.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 494}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 633}";
+		};
+	};
+	12ECDBEE1140FF950002F94C /* MathCraft_Register.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1468, 2522}}";
+			sepNavSelRange = "{1301, 324}";
+			sepNavVisRange = "{3775, 295}";
+		};
+	};
+	1D3623240D0F684500981E51 /* MathCraft_LoginAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 347}}";
+			sepNavSelRange = "{381, 0}";
+			sepNavVisRange = "{0, 532}";
+		};
+	};
+	1D3623250D0F684500981E51 /* MathCraft_LoginAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 507}}";
+			sepNavSelRange = "{572, 0}";
+			sepNavVisRange = "{290, 526}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* MathCraft_Login */ = {
+		activeExec = 0;
+		executables = (
+			C8471ED3114C6EF2008EBB99 /* MathCraft_Login */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* MathCraft_LoginViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 793}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 471}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* MathCraft_LoginViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 3094}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 463}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = C8471ED3114C6EF2008EBB99 /* MathCraft_Login */;
+		activeSDKPreference = iphonesimulator3.1.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* MathCraft_Login */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* MathCraft_Login */,
+		);
+		breakpoints = (
+			C8490FC4114D84EF00885144 /* Equation_GameViewController.m:12 */,
+			C88A6AFE1151914000F13399 /* ButtonPush.h:13 */,
+			C810EB881154A6E0005653A9 /* Equation_GameViewController.m:362 */,
+			C810EBE51154B913005653A9 /* Equation_GameViewController.m:362 */,
+			C8F6490A11557786008E1BEE /* Equation_GameViewController.m:119 */,
+			C856AAEC115DD5DF0084BB81 /* MathGame1_3ViewController.m:33 */,
+		);
+		codeSenseManager = C8471EED114C6F08008EBB99 /* Code sense */;
+		executables = (
+			C8471ED3114C6EF2008EBB99 /* MathCraft_Login */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					198,
+					20,
+					99,
+					99,
+					29,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					729,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					689,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 292373887;
+			PBXWorkspaceStateSaveDate = 292373887;
+		};
+		perUserProjectItems = {
+			C810EBD01154B286005653A9 = C810EBD01154B286005653A9 /* PBXTextBookmark */;
+			C810EBD11154B286005653A9 = C810EBD11154B286005653A9 /* PBXTextBookmark */;
+			C810EC141154D513005653A9 = C810EC141154D513005653A9 /* PBXTextBookmark */;
+			C8490F9C114D80E400885144 = C8490F9C114D80E400885144 /* PBXTextBookmark */;
+			C8490FD8114D851500885144 = C8490FD8114D851500885144 /* PBXTextBookmark */;
+			C8490FDC114D851500885144 = C8490FDC114D851500885144 /* PBXTextBookmark */;
+			C849107D114D99F000885144 = C849107D114D99F000885144 /* PBXTextBookmark */;
+			C849107E114D99F000885144 = C849107E114D99F000885144 /* PBXTextBookmark */;
+			C84910D4114D9F9700885144 = C84910D4114D9F9700885144 /* PBXTextBookmark */;
+			C84910D8114D9F9700885144 = C84910D8114D9F9700885144 /* PBXTextBookmark */;
+			C84910D9114D9F9700885144 = C84910D9114D9F9700885144 /* PBXTextBookmark */;
+			C8491115114DA11800885144 = C8491115114DA11800885144 /* PBXTextBookmark */;
+			C8491116114DA11800885144 = C8491116114DA11800885144 /* PBXTextBookmark */;
+			C8491117114DA11800885144 = C8491117114DA11800885144 /* PBXTextBookmark */;
+			C8491118114DA11800885144 = C8491118114DA11800885144 /* PBXTextBookmark */;
+			C8491119114DA11800885144 = C8491119114DA11800885144 /* PBXTextBookmark */;
+			C84A5A531167097D0093CA75 = C84A5A531167097D0093CA75 /* PBXTextBookmark */;
+			C84A5A541167097D0093CA75 = C84A5A541167097D0093CA75 /* PBXTextBookmark */;
+			C84A5A551167097D0093CA75 = C84A5A551167097D0093CA75 /* PBXTextBookmark */;
+			C84A5A561167097D0093CA75 = C84A5A561167097D0093CA75 /* PBXTextBookmark */;
+			C84A5A571167097D0093CA75 = C84A5A571167097D0093CA75 /* PBXTextBookmark */;
+			C84A5A581167097D0093CA75 = C84A5A581167097D0093CA75 /* PBXTextBookmark */;
+			C84A5A591167097D0093CA75 = C84A5A591167097D0093CA75 /* PBXTextBookmark */;
+			C84A5A5A1167097D0093CA75 = C84A5A5A1167097D0093CA75 /* PBXBookmark */;
+			C84A5A5B1167097D0093CA75 = C84A5A5B1167097D0093CA75 /* PBXTextBookmark */;
+			C84A5A5C1167097D0093CA75 = C84A5A5C1167097D0093CA75 /* PBXTextBookmark */;
+			C84A5A6E11670B520093CA75 = C84A5A6E11670B520093CA75 /* PBXTextBookmark */;
+			C84A5A6F11670B520093CA75 = C84A5A6F11670B520093CA75 /* PBXTextBookmark */;
+			C84A5A7611670BE10093CA75 = C84A5A7611670BE10093CA75 /* PBXTextBookmark */;
+			C84A5A7711670BE10093CA75 = C84A5A7711670BE10093CA75 /* PBXTextBookmark */;
+			C84A5A8411670ECA0093CA75 = C84A5A8411670ECA0093CA75 /* PBXTextBookmark */;
+			C84A5A8511670ECA0093CA75 = C84A5A8511670ECA0093CA75 /* PBXTextBookmark */;
+			C84A5A8811670F1F0093CA75 = C84A5A8811670F1F0093CA75 /* PBXTextBookmark */;
+			C84A5A8911670F1F0093CA75 = C84A5A8911670F1F0093CA75 /* PBXTextBookmark */;
+			C84A5A8A11670F1F0093CA75 = C84A5A8A11670F1F0093CA75 /* PBXTextBookmark */;
+			C84A5A8C11670F1F0093CA75 = C84A5A8C11670F1F0093CA75 /* PBXTextBookmark */;
+			C84A5A8D11670F1F0093CA75 = C84A5A8D11670F1F0093CA75 /* PBXTextBookmark */;
+			C84A5A8E11670F1F0093CA75 = C84A5A8E11670F1F0093CA75 /* PBXTextBookmark */;
+			C84A5A8F11670F1F0093CA75 = C84A5A8F11670F1F0093CA75 /* PBXTextBookmark */;
+			C84A5A9011670F1F0093CA75 = C84A5A9011670F1F0093CA75 /* PBXTextBookmark */;
+			C84A5A9111670F1F0093CA75 = C84A5A9111670F1F0093CA75 /* PBXTextBookmark */;
+			C84A5A9211670F1F0093CA75 = C84A5A9211670F1F0093CA75 /* PBXTextBookmark */;
+			C84A5A9311670F1F0093CA75 = C84A5A9311670F1F0093CA75 /* PBXTextBookmark */;
+			C84A5A9411670F1F0093CA75 = C84A5A9411670F1F0093CA75 /* PBXTextBookmark */;
+			C84A5A9511670F1F0093CA75 = C84A5A9511670F1F0093CA75 /* PBXTextBookmark */;
+			C84A5A9611670F1F0093CA75 = C84A5A9611670F1F0093CA75 /* PBXTextBookmark */;
+			C84A5A9711670F1F0093CA75 = C84A5A9711670F1F0093CA75 /* PBXTextBookmark */;
+			C84A5A9811670F1F0093CA75 = C84A5A9811670F1F0093CA75 /* PBXTextBookmark */;
+			C84A5A9911670F1F0093CA75 = C84A5A9911670F1F0093CA75 /* PBXTextBookmark */;
+			C84A5A9A11670F1F0093CA75 = C84A5A9A11670F1F0093CA75 /* PBXTextBookmark */;
+			C84A5A9B11670F1F0093CA75 = C84A5A9B11670F1F0093CA75 /* PBXTextBookmark */;
+			C84A5A9C11670F1F0093CA75 = C84A5A9C11670F1F0093CA75 /* PBXTextBookmark */;
+			C84A5A9D11670F1F0093CA75 = C84A5A9D11670F1F0093CA75 /* PBXTextBookmark */;
+			C84A5A9E11670F1F0093CA75 = C84A5A9E11670F1F0093CA75 /* PBXTextBookmark */;
+			C84A5A9F11670F1F0093CA75 = C84A5A9F11670F1F0093CA75 /* PBXTextBookmark */;
+			C84A5ADB11671D120093CA75 = C84A5ADB11671D120093CA75 /* PBXTextBookmark */;
+			C84A5ADC11671D120093CA75 = C84A5ADC11671D120093CA75 /* PBXTextBookmark */;
+			C84A5ADD11671D120093CA75 = C84A5ADD11671D120093CA75 /* PBXTextBookmark */;
+			C84A5ADE11671D120093CA75 = C84A5ADE11671D120093CA75 /* PBXTextBookmark */;
+			C84A5ADF11671D120093CA75 = C84A5ADF11671D120093CA75 /* PBXTextBookmark */;
+			C84A5AE011671D120093CA75 = C84A5AE011671D120093CA75 /* PBXTextBookmark */;
+			C84A5AE111671D120093CA75 = C84A5AE111671D120093CA75 /* PBXTextBookmark */;
+			C84A5AE211671D120093CA75 = C84A5AE211671D120093CA75 /* PBXTextBookmark */;
+			C84A5AE311671D120093CA75 = C84A5AE311671D120093CA75 /* PBXTextBookmark */;
+			C84A5AE411671D120093CA75 = C84A5AE411671D120093CA75 /* PBXTextBookmark */;
+			C84A5AE511671D120093CA75 = C84A5AE511671D120093CA75 /* PBXTextBookmark */;
+			C84A5AE611671D120093CA75 = C84A5AE611671D120093CA75 /* PBXTextBookmark */;
+			C84A5AE711671D120093CA75 = C84A5AE711671D120093CA75 /* PBXTextBookmark */;
+			C84A5AE811671D120093CA75 = C84A5AE811671D120093CA75 /* PBXTextBookmark */;
+			C84A5AFB11672D120093CA75 = C84A5AFB11672D120093CA75 /* PBXTextBookmark */;
+			C84A5AFC11672D120093CA75 = C84A5AFC11672D120093CA75 /* PBXTextBookmark */;
+			C84A5AFD11672D120093CA75 = C84A5AFD11672D120093CA75 /* PBXTextBookmark */;
+			C84A5AFE11672D310093CA75 = C84A5AFE11672D310093CA75 /* PBXTextBookmark */;
+			C84A5AFF11672D310093CA75 = C84A5AFF11672D310093CA75 /* PBXTextBookmark */;
+			C84A5B0011672D310093CA75 = C84A5B0011672D310093CA75 /* PBXTextBookmark */;
+			C84A5B0B11672F920093CA75 = C84A5B0B11672F920093CA75 /* PBXTextBookmark */;
+			C84A5B0C11672F920093CA75 = C84A5B0C11672F920093CA75 /* PBXTextBookmark */;
+			C84A5B0D11672F920093CA75 = C84A5B0D11672F920093CA75 /* PBXTextBookmark */;
+			C84A5B0E11672F920093CA75 = C84A5B0E11672F920093CA75 /* PBXTextBookmark */;
+			C84A5B0F11672F920093CA75 = C84A5B0F11672F920093CA75 /* PBXTextBookmark */;
+			C84A5B1011672F920093CA75 = C84A5B1011672F920093CA75 /* PBXTextBookmark */;
+			C84A5B1111672F920093CA75 = C84A5B1111672F920093CA75 /* PBXTextBookmark */;
+			C84A5B1211672F920093CA75 = C84A5B1211672F920093CA75 /* PBXTextBookmark */;
+			C84A5B1311672F920093CA75 = C84A5B1311672F920093CA75 /* PBXTextBookmark */;
+			C84A5B1411672F920093CA75 = C84A5B1411672F920093CA75 /* PBXTextBookmark */;
+			C84A5B1511672F920093CA75 = C84A5B1511672F920093CA75 /* PBXTextBookmark */;
+			C84A5B1611672F920093CA75 = C84A5B1611672F920093CA75 /* PBXTextBookmark */;
+			C84A5B1711672F920093CA75 = C84A5B1711672F920093CA75 /* PBXTextBookmark */;
+			C84A5B1811672F920093CA75 = C84A5B1811672F920093CA75 /* PBXTextBookmark */;
+			C84A5B1911672F920093CA75 = C84A5B1911672F920093CA75 /* PBXTextBookmark */;
+			C84A5B1A11672F920093CA75 = C84A5B1A11672F920093CA75 /* PBXTextBookmark */;
+			C84A5B1B11672F920093CA75 = C84A5B1B11672F920093CA75 /* PBXTextBookmark */;
+			C84A5B1C11672F920093CA75 = C84A5B1C11672F920093CA75 /* PBXTextBookmark */;
+			C84A5B1D11672F920093CA75 = C84A5B1D11672F920093CA75 /* PBXTextBookmark */;
+			C84A5B1E116730E40093CA75 = C84A5B1E116730E40093CA75 /* PBXTextBookmark */;
+			C84A5B1F116730E40093CA75 = C84A5B1F116730E40093CA75 /* PBXTextBookmark */;
+			C84A5B20116730E40093CA75 = C84A5B20116730E40093CA75 /* PBXTextBookmark */;
+			C84A5B21116730E40093CA75 = C84A5B21116730E40093CA75 /* PBXTextBookmark */;
+			C84A5B22116730E40093CA75 = C84A5B22116730E40093CA75 /* PBXTextBookmark */;
+			C84A5B23116730E40093CA75 = C84A5B23116730E40093CA75 /* PBXTextBookmark */;
+			C84A5B24116730E40093CA75 = C84A5B24116730E40093CA75 /* PBXTextBookmark */;
+			C84A5B25116730E40093CA75 = C84A5B25116730E40093CA75 /* PBXTextBookmark */;
+			C84A5B26116730E40093CA75 = C84A5B26116730E40093CA75 /* PBXTextBookmark */;
+			C84A5B27116730E40093CA75 = C84A5B27116730E40093CA75 /* PBXTextBookmark */;
+			C84A5B28116730E40093CA75 = C84A5B28116730E40093CA75 /* PBXTextBookmark */;
+			C84A5B29116730E40093CA75 = C84A5B29116730E40093CA75 /* PBXTextBookmark */;
+			C84A5B2A116730E40093CA75 = C84A5B2A116730E40093CA75 /* PBXTextBookmark */;
+			C84A5B2B116730E40093CA75 = C84A5B2B116730E40093CA75 /* PBXTextBookmark */;
+			C84A5B2C116730E40093CA75 = C84A5B2C116730E40093CA75 /* PBXTextBookmark */;
+			C84A5B2F116730FA0093CA75 = C84A5B2F116730FA0093CA75 /* PBXTextBookmark */;
+			C84A5B30116730FA0093CA75 = C84A5B30116730FA0093CA75 /* PBXTextBookmark */;
+			C856AAA7115DBC080084BB81 = C856AAA7115DBC080084BB81 /* PBXTextBookmark */;
+			C856AAAC115DBC080084BB81 = C856AAAC115DBC080084BB81 /* PBXTextBookmark */;
+			C856AAAE115DBC080084BB81 = C856AAAE115DBC080084BB81 /* PBXTextBookmark */;
+			C856AAAF115DBC080084BB81 = C856AAAF115DBC080084BB81 /* PBXTextBookmark */;
+			C856AAB6115DBC3D0084BB81 = C856AAB6115DBC3D0084BB81 /* PBXTextBookmark */;
+			C856AAB8115DBC3D0084BB81 = C856AAB8115DBC3D0084BB81 /* PBXTextBookmark */;
+			C856AABC115DBCA70084BB81 = C856AABC115DBCA70084BB81 /* PBXTextBookmark */;
+			C856AAD2115DD5200084BB81 = C856AAD2115DD5200084BB81 /* PBXTextBookmark */;
+			C856AAD3115DD5200084BB81 = C856AAD3115DD5200084BB81 /* PBXBookmark */;
+			C856AAD4115DD5200084BB81 = C856AAD4115DD5200084BB81 /* PBXBookmark */;
+			C856AAD5115DD5200084BB81 = C856AAD5115DD5200084BB81 /* PBXBookmark */;
+			C856AAE9115DD5D10084BB81 = C856AAE9115DD5D10084BB81 /* PBXTextBookmark */;
+			C856AB3A115DED1A0084BB81 = C856AB3A115DED1A0084BB81 /* PBXTextBookmark */;
+			C856AB3B115DED1A0084BB81 = C856AB3B115DED1A0084BB81 /* PBXBookmark */;
+			C856AB3C115DED1A0084BB81 = C856AB3C115DED1A0084BB81 /* PBXBookmark */;
+			C856AB3D115DED1A0084BB81 = C856AB3D115DED1A0084BB81 /* PBXTextBookmark */;
+			C856AB3E115DED1A0084BB81 = C856AB3E115DED1A0084BB81 /* PBXTextBookmark */;
+			C856AB3F115DED1A0084BB81 = C856AB3F115DED1A0084BB81 /* PBXTextBookmark */;
+			C856AB6E115DFEC20084BB81 = C856AB6E115DFEC20084BB81 /* PBXTextBookmark */;
+			C86FBF3311519CA200D79896 = C86FBF3311519CA200D79896 /* PBXTextBookmark */;
+			C8812E4C116D458F0030286D /* PBXTextBookmark */ = C8812E4C116D458F0030286D /* PBXTextBookmark */;
+			C8812E73116D46B40030286D /* XCBuildMessageTextBookmark */ = C8812E73116D46B40030286D /* XCBuildMessageTextBookmark */;
+			C8812E74116D46B40030286D /* PBXTextBookmark */ = C8812E74116D46B40030286D /* PBXTextBookmark */;
+			C8812E79116D46B90030286D /* PBXTextBookmark */ = C8812E79116D46B90030286D /* PBXTextBookmark */;
+			C8812E7A116D46B90030286D /* PBXTextBookmark */ = C8812E7A116D46B90030286D /* PBXTextBookmark */;
+			C8812E7B116D46B90030286D /* XCBuildMessageTextBookmark */ = C8812E7B116D46B90030286D /* XCBuildMessageTextBookmark */;
+			C8812E7C116D46B90030286D /* PBXTextBookmark */ = C8812E7C116D46B90030286D /* PBXTextBookmark */;
+			C88A6AA011518BDD00F13399 = C88A6AA011518BDD00F13399 /* PBXTextBookmark */;
+			C88A6B5B1151962900F13399 = C88A6B5B1151962900F13399 /* PBXTextBookmark */;
+			C89F91051169C5DC00429349 = C89F91051169C5DC00429349 /* PBXTextBookmark */;
+			C89F91061169C5DC00429349 = C89F91061169C5DC00429349 /* PBXTextBookmark */;
+			C89F91101169C5EC00429349 = C89F91101169C5EC00429349 /* PBXTextBookmark */;
+			C89F91111169C5EC00429349 = C89F91111169C5EC00429349 /* PBXTextBookmark */;
+			C89F91161169C5F400429349 = C89F91161169C5F400429349 /* PBXBookmark */;
+			C89F91171169C5F400429349 = C89F91171169C5F400429349 /* PBXBookmark */;
+			C89F91181169C5F400429349 = C89F91181169C5F400429349 /* PBXTextBookmark */;
+			C89F91191169C5F400429349 = C89F91191169C5F400429349 /* PBXTextBookmark */;
+			C89F911A1169C5F400429349 = C89F911A1169C5F400429349 /* PBXTextBookmark */;
+			C89F911B1169C5F400429349 = C89F911B1169C5F400429349 /* PBXTextBookmark */;
+			C89F911C1169C5F400429349 = C89F911C1169C5F400429349 /* PBXTextBookmark */;
+			C89F911D1169C5F400429349 = C89F911D1169C5F400429349 /* PBXTextBookmark */;
+			C89F911E1169C5F400429349 = C89F911E1169C5F400429349 /* PBXTextBookmark */;
+			C89F911F1169C5F400429349 = C89F911F1169C5F400429349 /* PBXTextBookmark */;
+			C89F91271169C66300429349 = C89F91271169C66300429349 /* PBXTextBookmark */;
+			C89F912C1169C77500429349 = C89F912C1169C77500429349 /* PBXTextBookmark */;
+			C89F91331169D1DC00429349 = C89F91331169D1DC00429349 /* PBXTextBookmark */;
+			C89F91341169D1DC00429349 = C89F91341169D1DC00429349 /* PBXTextBookmark */;
+			C89F91351169D1DC00429349 = C89F91351169D1DC00429349 /* PBXTextBookmark */;
+			C89F91361169D1DC00429349 = C89F91361169D1DC00429349 /* PBXTextBookmark */;
+			C8BB86B3114DA16C005D4459 = C8BB86B3114DA16C005D4459 /* PBXTextBookmark */;
+			C8C9B8BF115D916800319707 = C8C9B8BF115D916800319707 /* PBXTextBookmark */;
+			C8F09B69115D968800A618CF = C8F09B69115D968800A618CF /* PBXTextBookmark */;
+			C8F09BED115D99DF00A618CF = C8F09BED115D99DF00A618CF /* PBXTextBookmark */;
+		};
+		sourceControlManager = C8471EEC114C6F08008EBB99 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	32CA4F630368D1EE00C91783 /* MathCraft_Login_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 197}}";
+			sepNavSelRange = "{266, 0}";
+			sepNavVisRange = "{0, 274}";
+		};
+	};
+	AF3973CA11613DF500360690 /* Unit Testing */ = {
+		activeExec = 0;
+	};
+	AF3973D111613E2000360690 /* TestScript.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {803, 2067}}";
+			sepNavSelRange = "{2698, 0}";
+			sepNavVisRange = "{0, 70}";
+		};
+	};
+	C810EB881154A6E0005653A9 /* Equation_GameViewController.m:362 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = C8B38646114DB3A20080B365 /* Equation_GameViewController.m */;
+		functionName = "-Button_Pressed:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 362;
+		location = MathCraft_Login;
+		modificationTime = 291362278.176192;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	C810EBD01154B286005653A9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* MathCraft_LoginViewController.m */;
+		name = "MathCraft_LoginViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 463;
+		vrLoc = 0;
+	};
+	C810EBD11154B286005653A9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* MathCraft_LoginViewController.h */;
+		name = "MathCraft_LoginViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 471;
+		vrLoc = 0;
+	};
+	C810EBE51154B913005653A9 /* Equation_GameViewController.m:362 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = C8B38646114DB3A20080B365 /* Equation_GameViewController.m */;
+		functionName = "-Button_Pressed:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 362;
+		location = MathCraft_Login;
+		modificationTime = 291362278.176237;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	C810EC141154D513005653A9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 12ECDBEE1140FF950002F94C /* MathCraft_Register.m */;
+		name = "MathCraft_Register.m: 55";
+		rLen = 324;
+		rLoc = 1301;
+		rType = 0;
+		vrLen = 295;
+		vrLoc = 3775;
+	};
+	C8471ED3114C6EF2008EBB99 /* MathCraft_Login */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = MathCraft_Login;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	C8471EEC114C6F08008EBB99 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	C8471EED114C6F08008EBB99 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	C8490F9C114D80E400885144 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* MathCraft_LoginAppDelegate.h */;
+		name = "MathCraft_LoginAppDelegate.h: 18";
+		rLen = 0;
+		rLoc = 381;
+		rType = 0;
+		vrLen = 532;
+		vrLoc = 0;
+	};
+	C8490FC4114D84EF00885144 /* Equation_GameViewController.m:12 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = C8B38646114DB3A20080B365 /* Equation_GameViewController.m */;
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 12;
+		location = MathCraft_Login;
+		modificationTime = 291362278.176033;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	C8490FD8114D851500885144 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 125D2DD711485C2200EE222A /* MathCraft_LeaderBoard.m */;
+		name = "MathCraft_LeaderBoard.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 767;
+		vrLoc = 0;
+	};
+	C8490FDC114D851500885144 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1240B74A114B1EE800808C92 /* MathCraft_User.h */;
+		name = "MathCraft_User.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 583;
+		vrLoc = 3;
+	};
+	C849107D114D99F000885144 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* MathCraft_LoginAppDelegate.m */;
+		name = "MathCraft_LoginAppDelegate.m: 26";
+		rLen = 0;
+		rLoc = 572;
+		rType = 0;
+		vrLen = 575;
+		vrLoc = 247;
+	};
+	C849107E114D99F000885144 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		name = "MathCraft_MM.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 231;
+		vrLoc = 0;
+	};
+	C84910D4114D9F9700885144 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 125D2DD611485C2200EE222A /* MathCraft_LeaderBoard.h */;
+		name = "MathCraft_LeaderBoard.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 253;
+		vrLoc = 0;
+	};
+	C84910D8114D9F9700885144 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 125D2DBF1148530500EE222A /* MathCraft_Option.h */;
+		name = "MathCraft_Option.h: 21";
+		rLen = 10;
+		rLoc = 291;
+		rType = 0;
+		vrLen = 453;
+		vrLoc = 0;
+	};
+	C84910D9114D9F9700885144 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 12ECDBED1140FF950002F94C /* MathCraft_Register.h */;
+		name = "MathCraft_Register.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 633;
+		vrLoc = 0;
+	};
+	C8491115114DA11800885144 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 122CF4981149BA8F00804E20 /* MathCraft_Progress.m */;
+		name = "MathCraft_Progress.m: 16";
+		rLen = 0;
+		rLoc = 260;
+		rType = 0;
+		vrLen = 690;
+		vrLoc = 0;
+	};
+	C8491116114DA11800885144 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 122CF4971149BA8F00804E20 /* MathCraft_Progress.h */;
+		name = "MathCraft_Progress.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 272;
+		vrLoc = 0;
+	};
+	C8491117114DA11800885144 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		name = "MathCraft_MM.h: 14";
+		rLen = 0;
+		rLoc = 251;
+		rType = 0;
+		vrLen = 592;
+		vrLoc = 147;
+	};
+	C8491118114DA11800885144 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 125D2DC01148530500EE222A /* MathCraft_Option.m */;
+		name = "MathCraft_Option.m: 14";
+		rLen = 21;
+		rLoc = 220;
+		rType = 0;
+		vrLen = 401;
+		vrLoc = 0;
+	};
+	C8491119114DA11800885144 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		name = "MathCraft_MM.m: 114";
+		rLen = 23;
+		rLoc = 2694;
+		rType = 0;
+		vrLen = 579;
+		vrLoc = 2169;
+	};
+	C84A5A531167097D0093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 12B4C81F115C7B3C00D0EC86 /* ManageProfile.m */;
+		name = "ManageProfile.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 436;
+		vrLoc = 231;
+	};
+	C84A5A541167097D0093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8B38645114DB3A20080B365 /* Equation_GameViewController.h */;
+		name = "Equation_GameViewController.h: 34";
+		rLen = 0;
+		rLoc = 774;
+		rType = 0;
+		vrLen = 470;
+		vrLoc = 37;
+	};
+	C84A5A551167097D0093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1265277C114EBE0B009F67CB /* MathCraft_MainMenu.m */;
+		name = "MathCraft_MainMenu.m: 62";
+		rLen = 0;
+		rLoc = 1794;
+		rType = 0;
+		vrLen = 575;
+		vrLoc = 1435;
+	};
+	C84A5A561167097D0093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 120FEBE7115AB5FF007B1FAF /* UserProfile.h */;
+		name = "UserProfile.h: 43";
+		rLen = 18;
+		rLoc = 782;
+		rType = 0;
+		vrLen = 287;
+		vrLoc = 0;
+	};
+	C84A5A571167097D0093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 12B4C81E115C7B3C00D0EC86 /* ManageProfile.h */;
+		name = "ManageProfile.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 368;
+		vrLoc = 0;
+	};
+	C84A5A581167097D0093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 125D2DBF1148530500EE222A /* MathCraft_Option.h */;
+		name = "MathCraft_Option.h: 17";
+		rLen = 10;
+		rLoc = 291;
+		rType = 0;
+		vrLen = 340;
+		vrLoc = 0;
+	};
+	C84A5A591167097D0093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 125D2DC01148530500EE222A /* MathCraft_Option.m */;
+		name = "MathCraft_Option.m: 32";
+		rLen = 28;
+		rLoc = 564;
+		rType = 0;
+		vrLen = 316;
+		vrLoc = 339;
+	};
+	C84A5A5A1167097D0093CA75 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 124E42C6114DDB600058C646 /* log in copy1.jpg */;
+	};
+	C84A5A5B1167097D0093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8B38646114DB3A20080B365 /* Equation_GameViewController.m */;
+		name = "Equation_GameViewController.m: 52";
+		rLen = 0;
+		rLoc = 1842;
+		rType = 0;
+		vrLen = 434;
+		vrLoc = 1491;
+	};
+	C84A5A5C1167097D0093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8B38646114DB3A20080B365 /* Equation_GameViewController.m */;
+		name = "Equation_GameViewController.m: 52";
+		rLen = 0;
+		rLoc = 1705;
+		rType = 0;
+		vrLen = 452;
+		vrLoc = 1581;
+	};
+	C84A5A6E11670B520093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "'addition' undeclared (first use in this function)";
+		fRef = C8F09BE4115D99CA00A618CF /* MathGame1_3ViewController.m */;
+		rLen = 1;
+		rLoc = 237;
+		rType = 1;
+	};
+	C84A5A6F11670B520093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8F09BE4115D99CA00A618CF /* MathGame1_3ViewController.m */;
+		name = "MathGame1_3ViewController.m: 144";
+		rLen = 0;
+		rLoc = 6205;
+		rType = 0;
+		vrLen = 103;
+		vrLoc = 3650;
+	};
+	C84A5A7611670BE10093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Invalid receiver type 'int'";
+		fRef = C8C9B85A115D8C4200319707 /* PatternGame2ViewController.m */;
+		rLen = 1;
+		rLoc = 417;
+		rType = 1;
+	};
+	C84A5A7711670BE10093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8C9B85A115D8C4200319707 /* PatternGame2ViewController.m */;
+		name = "PatternGame2ViewController.m: 238";
+		rLen = 0;
+		rLoc = 11210;
+		rType = 0;
+		vrLen = 118;
+		vrLoc = 6220;
+	};
+	C84A5A8411670ECA0093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Request for member 'EquationGameScore' in something not a structure or union";
+		fRef = AF3973D111613E2000360690 /* TestScript.m */;
+		rLen = 1;
+		rLoc = 91;
+		rType = 1;
+	};
+	C84A5A8511670ECA0093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = AF3973D111613E2000360690 /* TestScript.m */;
+		name = "TestScript.m: 92";
+		rLen = 0;
+		rLoc = 2698;
+		rType = 0;
+		vrLen = 339;
+		vrLoc = 2698;
+	};
+	C84A5A8811670F1F0093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8B38646114DB3A20080B365 /* Equation_GameViewController.m */;
+		name = "Equation_GameViewController.m: 51";
+		rLen = 201;
+		rLoc = 1641;
+		rType = 0;
+		vrLen = 500;
+		vrLoc = 1581;
+	};
+	C84A5A8911670F1F0093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 129AFB19116038030034B959 /* MoneyGameViewController.m */;
+		name = "MoneyGameViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 357;
+		vrLoc = 0;
+	};
+	C84A5A8A11670F1F0093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 129AFB19116038030034B959 /* MoneyGameViewController.m */;
+		name = "MoneyGameViewController.m: 10";
+		rLen = 0;
+		rLoc = 212;
+		rType = 0;
+		vrLen = 0;
+		vrLoc = 0;
+	};
+	C84A5A8C11670F1F0093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 129AFAD611602D230034B959 /* MoneyGameViewController.h */;
+		name = "MoneyGameViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 284;
+		vrLoc = 902;
+	};
+	C84A5A8D11670F1F0093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 129AFB19116038030034B959 /* MoneyGameViewController.m */;
+		name = "MoneyGameViewController.m: 79";
+		rLen = 0;
+		rLoc = 1712;
+		rType = 0;
+		vrLen = 505;
+		vrLoc = 1343;
+	};
+	C84A5A8E11670F1F0093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8F09BE3115D99CA00A618CF /* MathGame1_3ViewController.h */;
+		name = "MathGame1_3ViewController.h: 24";
+		rLen = 0;
+		rLoc = 583;
+		rType = 0;
+		vrLen = 453;
+		vrLoc = 51;
+	};
+	C84A5A8F11670F1F0093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8F09BE4115D99CA00A618CF /* MathGame1_3ViewController.m */;
+		name = "MathGame1_3ViewController.m: 130";
+		rLen = 0;
+		rLoc = 5979;
+		rType = 0;
+		vrLen = 544;
+		vrLoc = 3113;
+	};
+	C84A5A9011670F1F0093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8C9B859115D8C4200319707 /* PatternGame2ViewController.h */;
+		name = "PatternGame2ViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 359;
+		vrLoc = 244;
+	};
+	C84A5A9111670F1F0093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8C9B85A115D8C4200319707 /* PatternGame2ViewController.m */;
+		name = "PatternGame2ViewController.m: 126";
+		rLen = 0;
+		rLoc = 3584;
+		rType = 0;
+		vrLen = 431;
+		vrLoc = 2865;
+	};
+	C84A5A9211670F1F0093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8B38645114DB3A20080B365 /* Equation_GameViewController.h */;
+		name = "Equation_GameViewController.h: 34";
+		rLen = 0;
+		rLoc = 774;
+		rType = 0;
+		vrLen = 470;
+		vrLoc = 37;
+	};
+	C84A5A9311670F1F0093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8B38646114DB3A20080B365 /* Equation_GameViewController.m */;
+		name = "Equation_GameViewController.m: 52";
+		rLen = 0;
+		rLoc = 1747;
+		rType = 0;
+		vrLen = 500;
+		vrLoc = 1581;
+	};
+	C84A5A9411670F1F0093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 12A83DDC115E97640007DA66 /* Mirror_Game.h */;
+		name = "Mirror_Game.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 350;
+		vrLoc = 462;
+	};
+	C84A5A9511670F1F0093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 12A83DDD115E97640007DA66 /* Mirror_Game.m */;
+		name = "Mirror_Game.m: 99";
+		rLen = 0;
+		rLoc = 4139;
+		rType = 0;
+		vrLen = 477;
+		vrLoc = 3286;
+	};
+	C84A5A9611670F1F0093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1224966B115EDE4100717CDA /* Clock_Game_Analog.h */;
+		name = "Clock_Game_Analog.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 348;
+		vrLoc = 344;
+	};
+	C84A5A9711670F1F0093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1224966C115EDE4100717CDA /* Clock_Game_Analog.m */;
+		name = "Clock_Game_Analog.m: 208";
+		rLen = 192;
+		rLoc = 4398;
+		rType = 0;
+		vrLen = 508;
+		vrLoc = 4248;
+	};
+	C84A5A9811670F1F0093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 12A83EF0115EA5550007DA66 /* Clock_Game.h */;
+		name = "Clock_Game.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 430;
+		vrLoc = 0;
+	};
+	C84A5A9911670F1F0093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 12A83EF1115EA5550007DA66 /* Clock_Game.m */;
+		name = "Clock_Game.m: 11";
+		rLen = 0;
+		rLoc = 224;
+		rType = 0;
+		vrLen = 365;
+		vrLoc = 0;
+	};
+	C84A5A9A11670F1F0093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 12B4C81E115C7B3C00D0EC86 /* ManageProfile.h */;
+		name = "ManageProfile.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 368;
+		vrLoc = 0;
+	};
+	C84A5A9B11670F1F0093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 12B4C81F115C7B3C00D0EC86 /* ManageProfile.m */;
+		name = "ManageProfile.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 434;
+		vrLoc = 231;
+	};
+	C84A5A9C11670F1F0093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 120FEBE7115AB5FF007B1FAF /* UserProfile.h */;
+		name = "UserProfile.h: 53";
+		rLen = 0;
+		rLoc = 991;
+		rType = 0;
+		vrLen = 482;
+		vrLoc = 751;
+	};
+	C84A5A9D11670F1F0093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 120FEBE8115AB5FF007B1FAF /* UserProfile.m */;
+		name = "UserProfile.m: 112";
+		rLen = 0;
+		rLoc = 3138;
+		rType = 0;
+		vrLen = 256;
+		vrLoc = 0;
+	};
+	C84A5A9E11670F1F0093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Request for member 'EquationGameScore' in something not a structure or union";
+		fRef = AF3973D111613E2000360690 /* TestScript.m */;
+		rLen = 1;
+		rLoc = 91;
+		rType = 1;
+	};
+	C84A5A9F11670F1F0093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = AF3973D111613E2000360690 /* TestScript.m */;
+		name = "TestScript.m: 119";
+		rLen = 0;
+		rLoc = 4071;
+		rType = 0;
+		vrLen = 1022;
+		vrLoc = 3359;
+	};
+	C84A5ABE11671A200093CA75 /* ViewProgressViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {476, 524}}";
+			sepNavSelRange = "{266, 23}";
+			sepNavVisRange = "{0, 622}";
+			sepNavWindowFrame = "{{61, 79}, {535, 652}}";
+		};
+	};
+	C84A5ABF11671A200093CA75 /* ViewProgressViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 1053}}";
+			sepNavSelRange = "{1281, 513}";
+			sepNavVisRange = "{789, 1034}";
+			sepNavWindowFrame = "{{38, 100}, {535, 652}}";
+		};
+	};
+	C84A5ADB11671D120093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 129AFB19116038030034B959 /* MoneyGameViewController.m */;
+		name = "MoneyGameViewController.m: 10";
+		rLen = 0;
+		rLoc = 212;
+		rType = 0;
+		vrLen = 0;
+		vrLoc = 0;
+	};
+	C84A5ADC11671D120093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = AF3973D111613E2000360690 /* TestScript.m */;
+		name = "TestScript.m: 119";
+		rLen = 0;
+		rLoc = 4071;
+		rType = 0;
+		vrLen = 1022;
+		vrLoc = 3359;
+	};
+	C84A5ADD11671D120093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 120FEBE8115AB5FF007B1FAF /* UserProfile.m */;
+		name = "UserProfile.m: 112";
+		rLen = 0;
+		rLoc = 3138;
+		rType = 0;
+		vrLen = 256;
+		vrLoc = 0;
+	};
+	C84A5ADE11671D120093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 125D2DD611485C2200EE222A /* MathCraft_LeaderBoard.h */;
+		name = "MathCraft_LeaderBoard.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 270;
+		vrLoc = 94;
+	};
+	C84A5ADF11671D120093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 129AFAD611602D230034B959 /* MoneyGameViewController.h */;
+		name = "MoneyGameViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 329;
+		vrLoc = 902;
+	};
+	C84A5AE011671D120093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 129AFB19116038030034B959 /* MoneyGameViewController.m */;
+		name = "MoneyGameViewController.m: 215";
+		rLen = 48;
+		rLoc = 4599;
+		rType = 0;
+		vrLen = 375;
+		vrLoc = 4420;
+	};
+	C84A5AE111671D120093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 12B4C81E115C7B3C00D0EC86 /* ManageProfile.h */;
+		name = "ManageProfile.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 368;
+		vrLoc = 0;
+	};
+	C84A5AE211671D120093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 125D2DBF1148530500EE222A /* MathCraft_Option.h */;
+		name = "MathCraft_Option.h: 18";
+		rLen = 0;
+		rLoc = 339;
+		rType = 0;
+		vrLen = 291;
+		vrLoc = 221;
+	};
+	C84A5AE311671D120093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C84A5ABE11671A200093CA75 /* ViewProgressViewController.h */;
+		name = "ViewProgressViewController.h: 14";
+		rLen = 23;
+		rLoc = 266;
+		rType = 0;
+		vrLen = 458;
+		vrLoc = 0;
+	};
+	C84A5AE411671D120093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8B38646114DB3A20080B365 /* Equation_GameViewController.m */;
+		name = "Equation_GameViewController.m: 66";
+		rLen = 45;
+		rLoc = 2054;
+		rType = 0;
+		vrLen = 424;
+		vrLoc = 1957;
+	};
+	C84A5AE511671D120093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C84A5ABF11671A200093CA75 /* ViewProgressViewController.m */;
+		name = "ViewProgressViewController.m: 81";
+		rLen = 0;
+		rLoc = 2713;
+		rType = 0;
+		vrLen = 424;
+		vrLoc = 2313;
+	};
+	C84A5AE611671D120093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 125D2E71114867D000EE222A /* MathCraft_GameMenu.m */;
+		name = "MathCraft_GameMenu.m: 51";
+		rLen = 261;
+		rLoc = 1310;
+		rType = 0;
+		vrLen = 632;
+		vrLoc = 981;
+	};
+	C84A5AE711671D120093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1265277C114EBE0B009F67CB /* MathCraft_MainMenu.m */;
+		name = "MathCraft_MainMenu.m: 62";
+		rLen = 0;
+		rLoc = 1794;
+		rType = 0;
+		vrLen = 465;
+		vrLoc = 969;
+	};
+	C84A5AE811671D120093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1265277C114EBE0B009F67CB /* MathCraft_MainMenu.m */;
+		name = "MathCraft_MainMenu.m: 13";
+		rLen = 0;
+		rLoc = 317;
+		rType = 0;
+		vrLen = 355;
+		vrLoc = 0;
+	};
+	C84A5AFB11672D120093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = AF3973D111613E2000360690 /* TestScript.m */;
+		name = "TestScript.m: 92";
+		rLen = 0;
+		rLoc = 2698;
+		rType = 0;
+		vrLen = 289;
+		vrLoc = 2698;
+	};
+	C84A5AFC11672D120093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Property 'score' requires method '-score' to be defined - use @synthesize, @dynamic or provide a method implementation";
+		fRef = 129AFB19116038030034B959 /* MoneyGameViewController.m */;
+		rLen = 1;
+		rLoc = 306;
+		rType = 1;
+	};
+	C84A5AFD11672D120093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 129AFB19116038030034B959 /* MoneyGameViewController.m */;
+		name = "MoneyGameViewController.m: 276";
+		rLen = 0;
+		rLoc = 6522;
+		rType = 0;
+		vrLen = 48;
+		vrLoc = 5952;
+	};
+	C84A5AFE11672D310093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = AF3973D111613E2000360690 /* TestScript.m */;
+		name = "TestScript.m: 92";
+		rLen = 0;
+		rLoc = 2698;
+		rType = 0;
+		vrLen = 70;
+		vrLoc = 0;
+	};
+	C84A5AFF11672D310093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Property 'score' requires method '-score' to be defined - use @synthesize, @dynamic or provide a method implementation";
+		fRef = 129AFB19116038030034B959 /* MoneyGameViewController.m */;
+		rLen = 1;
+		rLoc = 306;
+		rType = 1;
+	};
+	C84A5B0011672D310093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 129AFB19116038030034B959 /* MoneyGameViewController.m */;
+		name = "MoneyGameViewController.m: 276";
+		rLen = 0;
+		rLoc = 6522;
+		rType = 0;
+		vrLen = 48;
+		vrLoc = 5952;
+	};
+	C84A5B0B11672F920093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8B38646114DB3A20080B365 /* Equation_GameViewController.m */;
+		name = "Equation_GameViewController.m: 51";
+		rLen = 201;
+		rLoc = 1641;
+		rType = 0;
+		vrLen = 500;
+		vrLoc = 1581;
+	};
+	C84A5B0C11672F920093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8B38646114DB3A20080B365 /* Equation_GameViewController.m */;
+		name = "Equation_GameViewController.m: 51";
+		rLen = 201;
+		rLoc = 1641;
+		rType = 0;
+		vrLen = 0;
+		vrLoc = 0;
+	};
+	C84A5B0D11672F920093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1265277C114EBE0B009F67CB /* MathCraft_MainMenu.m */;
+		name = "MathCraft_MainMenu.m: 13";
+		rLen = 0;
+		rLoc = 317;
+		rType = 0;
+		vrLen = 357;
+		vrLoc = 0;
+	};
+	C84A5B0E11672F920093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 12A83DDC115E97640007DA66 /* Mirror_Game.h */;
+		name = "Mirror_Game.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 292;
+		vrLoc = 462;
+	};
+	C84A5B0F11672F920093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 12B4C81F115C7B3C00D0EC86 /* ManageProfile.m */;
+		name = "ManageProfile.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 410;
+		vrLoc = 231;
+	};
+	C84A5B1011672F920093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 12B4C81E115C7B3C00D0EC86 /* ManageProfile.h */;
+		name = "ManageProfile.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 333;
+		vrLoc = 911;
+	};
+	C84A5B1111672F920093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 120FEBE7115AB5FF007B1FAF /* UserProfile.h */;
+		name = "UserProfile.h: 50";
+		rLen = 0;
+		rLoc = 894;
+		rType = 0;
+		vrLen = 479;
+		vrLoc = 712;
+	};
+	C84A5B1211672F920093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 120FEBE8115AB5FF007B1FAF /* UserProfile.m */;
+		name = "UserProfile.m: 112";
+		rLen = 0;
+		rLoc = 3138;
+		rType = 0;
+		vrLen = 252;
+		vrLoc = 21;
+	};
+	C84A5B1311672F920093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8C9B85A115D8C4200319707 /* PatternGame2ViewController.m */;
+		name = "PatternGame2ViewController.m: 125";
+		rLen = 0;
+		rLoc = 3495;
+		rType = 0;
+		vrLen = 381;
+		vrLoc = 2866;
+	};
+	C84A5B1411672F920093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 12A83EF1115EA5550007DA66 /* Clock_Game.m */;
+		name = "Clock_Game.m: 173";
+		rLen = 0;
+		rLoc = 3464;
+		rType = 0;
+		vrLen = 458;
+		vrLoc = 3255;
+	};
+	C84A5B1511672F920093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1224966C115EDE4100717CDA /* Clock_Game_Analog.m */;
+		name = "Clock_Game_Analog.m: 209";
+		rLen = 0;
+		rLoc = 4460;
+		rType = 0;
+		vrLen = 458;
+		vrLoc = 4251;
+	};
+	C84A5B1611672F920093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 12A83DDD115E97640007DA66 /* Mirror_Game.m */;
+		name = "Mirror_Game.m: 98";
+		rLen = 0;
+		rLoc = 4050;
+		rType = 0;
+		vrLen = 440;
+		vrLoc = 2838;
+	};
+	C84A5B1711672F920093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8B38646114DB3A20080B365 /* Equation_GameViewController.m */;
+		name = "Equation_GameViewController.m: 52";
+		rLen = 0;
+		rLoc = 1705;
+		rType = 0;
+		vrLen = 423;
+		vrLoc = 1415;
+	};
+	C84A5B1811672F920093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C84A5ABF11671A200093CA75 /* ViewProgressViewController.m */;
+		name = "ViewProgressViewController.m: 42";
+		rLen = 513;
+		rLoc = 1281;
+		rType = 0;
+		vrLen = 1034;
+		vrLoc = 789;
+	};
+	C84A5B1911672F920093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8F09BE3115D99CA00A618CF /* MathGame1_3ViewController.h */;
+		name = "MathGame1_3ViewController.h: 12";
+		rLen = 345;
+		rLoc = 238;
+		rType = 0;
+		vrLen = 288;
+		vrLoc = 612;
+	};
+	C84A5B1A11672F920093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8F09BE4115D99CA00A618CF /* MathGame1_3ViewController.m */;
+		name = "MathGame1_3ViewController.m: 129";
+		rLen = 0;
+		rLoc = 5884;
+		rType = 0;
+		vrLen = 245;
+		vrLoc = 6373;
+	};
+	C84A5B1B11672F920093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 129AFB19116038030034B959 /* MoneyGameViewController.m */;
+		name = "MoneyGameViewController.m: 303";
+		rLen = 0;
+		rLoc = 6497;
+		rType = 0;
+		vrLen = 187;
+		vrLoc = 6340;
+	};
+	C84A5B1C11672F920093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 129AFAD611602D230034B959 /* MoneyGameViewController.h */;
+		name = "MoneyGameViewController.h: 56";
+		rLen = 0;
+		rLoc = 1184;
+		rType = 0;
+		vrLen = 186;
+		vrLoc = 1087;
+	};
+	C84A5B1D11672F920093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 129AFAD611602D230034B959 /* MoneyGameViewController.h */;
+		name = "MoneyGameViewController.h: 57";
+		rLen = 0;
+		rLoc = 1207;
+		rType = 0;
+		vrLen = 250;
+		vrLoc = 1104;
+	};
+	C84A5B1E116730E40093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8B38646114DB3A20080B365 /* Equation_GameViewController.m */;
+		name = "Equation_GameViewController.m: 51";
+		rLen = 201;
+		rLoc = 1641;
+		rType = 0;
+		vrLen = 0;
+		vrLoc = 0;
+	};
+	C84A5B1F116730E40093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 129AFAD611602D230034B959 /* MoneyGameViewController.h */;
+		name = "MoneyGameViewController.h: 57";
+		rLen = 0;
+		rLoc = 1207;
+		rType = 0;
+		vrLen = 250;
+		vrLoc = 1104;
+	};
+	C84A5B20116730E40093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 129AFB19116038030034B959 /* MoneyGameViewController.m */;
+		name = "MoneyGameViewController.m: 303";
+		rLen = 0;
+		rLoc = 6497;
+		rType = 0;
+		vrLen = 204;
+		vrLoc = 6323;
+	};
+	C84A5B21116730E40093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8F09BE3115D99CA00A618CF /* MathGame1_3ViewController.h */;
+		name = "MathGame1_3ViewController.h: 27";
+		rLen = 0;
+		rLoc = 618;
+		rType = 0;
+		vrLen = 284;
+		vrLoc = 584;
+	};
+	C84A5B22116730E40093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8F09BE4115D99CA00A618CF /* MathGame1_3ViewController.m */;
+		name = "MathGame1_3ViewController.m: 129";
+		rLen = 0;
+		rLoc = 5884;
+		rType = 0;
+		vrLen = 298;
+		vrLoc = 6306;
+	};
+	C84A5B23116730E40093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8C9B85A115D8C4200319707 /* PatternGame2ViewController.m */;
+		name = "PatternGame2ViewController.m: 125";
+		rLen = 0;
+		rLoc = 3495;
+		rType = 0;
+		vrLen = 188;
+		vrLoc = 6150;
+	};
+	C84A5B24116730E40093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8C9B859115D8C4200319707 /* PatternGame2ViewController.h */;
+		name = "PatternGame2ViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 281;
+		vrLoc = 244;
+	};
+	C84A5B25116730E40093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8B38646114DB3A20080B365 /* Equation_GameViewController.m */;
+		name = "Equation_GameViewController.m: 52";
+		rLen = 0;
+		rLoc = 1705;
+		rType = 0;
+		vrLen = 352;
+		vrLoc = 5694;
+	};
+	C84A5B26116730E40093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 12A83DDD115E97640007DA66 /* Mirror_Game.m */;
+		name = "Mirror_Game.m: 199";
+		rLen = 13;
+		rLoc = 6921;
+		rType = 0;
+		vrLen = 222;
+		vrLoc = 5553;
+	};
+	C84A5B27116730E40093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 12A83DDC115E97640007DA66 /* Mirror_Game.h */;
+		name = "Mirror_Game.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 341;
+		vrLoc = 372;
+	};
+	C84A5B28116730E40093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1224966B115EDE4100717CDA /* Clock_Game_Analog.h */;
+		name = "Clock_Game_Analog.h: 19";
+		rLen = 65;
+		rLoc = 437;
+		rType = 0;
+		vrLen = 345;
+		vrLoc = 206;
+	};
+	C84A5B29116730E40093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1224966C115EDE4100717CDA /* Clock_Game_Analog.m */;
+		name = "Clock_Game_Analog.m: 245";
+		rLen = 0;
+		rLoc = 5406;
+		rType = 0;
+		vrLen = 206;
+		vrLoc = 5227;
+	};
+	C84A5B2A116730E40093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 12A83EF0115EA5550007DA66 /* Clock_Game.h */;
+		name = "Clock_Game.h: 19";
+		rLen = 65;
+		rLoc = 430;
+		rType = 0;
+		vrLen = 360;
+		vrLoc = 207;
+	};
+	C84A5B2B116730E40093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 12A83EF1115EA5550007DA66 /* Clock_Game.m */;
+		name = "Clock_Game.m: 173";
+		rLen = 0;
+		rLoc = 3464;
+		rType = 0;
+		vrLen = 191;
+		vrLoc = 4199;
+	};
+	C84A5B2C116730E40093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 12A83EF1115EA5550007DA66 /* Clock_Game.m */;
+		name = "Clock_Game.m: 209";
+		rLen = 0;
+		rLoc = 4410;
+		rType = 0;
+		vrLen = 235;
+		vrLoc = 4199;
+	};
+	C84A5B2F116730FA0093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8B38646114DB3A20080B365 /* Equation_GameViewController.m */;
+		name = "Equation_GameViewController.m: 51";
+		rLen = 201;
+		rLoc = 1641;
+		rType = 0;
+		vrLen = 0;
+		vrLoc = 0;
+	};
+	C84A5B30116730FA0093CA75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 12A83EF1115EA5550007DA66 /* Clock_Game.m */;
+		name = "Clock_Game.m: 209";
+		rLen = 0;
+		rLoc = 4410;
+		rType = 0;
+		vrLen = 241;
+		vrLoc = 4199;
+	};
+	C856AAA7115DBC080084BB81 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8F09BDE115D99BB00A618CF /* EquationGamesMenuViewController.h */;
+		name = "EquationGamesMenuViewController.h: 2";
+		rLen = 31;
+		rLoc = 7;
+		rType = 0;
+		vrLen = 343;
+		vrLoc = 0;
+	};
+	C856AAAC115DBC080084BB81 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8C9B859115D8C4200319707 /* PatternGame2ViewController.h */;
+		name = "PatternGame2ViewController.h: 32";
+		rLen = 0;
+		rLoc = 664;
+		rType = 0;
+		vrLen = 339;
+		vrLoc = 480;
+	};
+	C856AAAE115DBC080084BB81 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8B38646114DB3A20080B365 /* Equation_GameViewController.m */;
+		name = "Equation_GameViewController.m: 9";
+		rLen = 0;
+		rLoc = 248;
+		rType = 0;
+		vrLen = 585;
+		vrLoc = 950;
+	};
+	C856AAAF115DBC080084BB81 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8C9B8A0115D8FFF00319707 /* PatternGamesMenuViewController.m */;
+		name = "PatternGamesMenuViewController.m: 22";
+		rLen = 281;
+		rLoc = 544;
+		rType = 0;
+		vrLen = 749;
+		vrLoc = 1149;
+	};
+	C856AAB6115DBC3D0084BB81 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8C9B89F115D8FFF00319707 /* PatternGamesMenuViewController.h */;
+		name = "PatternGamesMenuViewController.h: 10";
+		rLen = 0;
+		rLoc = 223;
+		rType = 0;
+		vrLen = 381;
+		vrLoc = 0;
+	};
+	C856AAB8115DBC3D0084BB81 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 125D2E70114867D000EE222A /* MathCraft_GameMenu.h */;
+		name = "MathCraft_GameMenu.h: 15";
+		rLen = 0;
+		rLoc = 274;
+		rType = 0;
+		vrLen = 436;
+		vrLoc = 115;
+	};
+	C856AABC115DBCA70084BB81 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 125D2E71114867D000EE222A /* MathCraft_GameMenu.m */;
+		name = "MathCraft_GameMenu.m: 51";
+		rLen = 0;
+		rLoc = 1278;
+		rType = 0;
+		vrLen = 652;
+		vrLoc = 930;
+	};
+	C856AAD2115DD5200084BB81 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8F09BDF115D99BB00A618CF /* EquationGamesMenuViewController.m */;
+		name = "EquationGamesMenuViewController.m: 43";
+		rLen = 0;
+		rLoc = 1404;
+		rType = 0;
+		vrLen = 675;
+		vrLoc = 1618;
+	};
+	C856AAD3115DD5200084BB81 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 1240B64A114B040700808C92 /* Default.png */;
+	};
+	C856AAD4115DD5200084BB81 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 122CF4E01149D2B200804E20 /* 1 login copy.jpg */;
+	};
+	C856AAD5115DD5200084BB81 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 124E42C5114DDB600058C646 /* Eq Game copy.jpg */;
+	};
+	C856AAE9115DD5D10084BB81 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8F09BE3115D99CA00A618CF /* MathGame1_3ViewController.h */;
+		name = "MathGame1_3ViewController.h: 24";
+		rLen = 0;
+		rLoc = 583;
+		rType = 0;
+		vrLen = 464;
+		vrLoc = 295;
+	};
+	C856AAEC115DD5DF0084BB81 /* MathGame1_3ViewController.m:33 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = C8F09BE4115D99CA00A618CF /* MathGame1_3ViewController.m */;
+		functionName = "-viewDidLoad";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 33;
+		location = MathCraft_Login;
+		modificationTime = 291362282.933803;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	C856AB3A115DED1A0084BB81 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8F09BE4115D99CA00A618CF /* MathGame1_3ViewController.m */;
+		name = "MathGame1_3ViewController.m: 34";
+		rLen = 0;
+		rLoc = 763;
+		rType = 0;
+		vrLen = 498;
+		vrLoc = 354;
+	};
+	C856AB3B115DED1A0084BB81 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+	};
+	C856AB3C115DED1A0084BB81 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+	};
+	C856AB3D115DED1A0084BB81 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8F09B3F115D958B00A618CF /* MIrrorGameViewController.h */;
+		name = "MIrrorGameViewController.h: 31";
+		rLen = 17;
+		rLoc = 704;
+		rType = 0;
+		vrLen = 413;
+		vrLoc = 327;
+	};
+	C856AB3E115DED1A0084BB81 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8C9B85A115D8C4200319707 /* PatternGame2ViewController.m */;
+		name = "PatternGame2ViewController.m: 11";
+		rLen = 0;
+		rLoc = 252;
+		rType = 0;
+		vrLen = 275;
+		vrLoc = 2374;
+	};
+	C856AB3F115DED1A0084BB81 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8F09B40115D958B00A618CF /* MIrrorGameViewController.m */;
+		name = "MIrrorGameViewController.m: 98";
+		rLen = 0;
+		rLoc = 3242;
+		rType = 0;
+		vrLen = 562;
+		vrLoc = 3017;
+	};
+	C856AB6E115DFEC20084BB81 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8F09B40115D958B00A618CF /* MIrrorGameViewController.m */;
+		name = "MIrrorGameViewController.m: 60";
+		rLen = 0;
+		rLoc = 2151;
+		rType = 0;
+		vrLen = 1125;
+		vrLoc = 1092;
+	};
+	C86FBF18115199EB00D79896 /* NumberGenerate.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NumberGenerate.h;
+		path = "/MathCraft ver.1/Classes/NumberGenerate.h";
+		sourceTree = "<absolute>";
+	};
+	C86FBF3311519CA200D79896 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C86FBF18115199EB00D79896 /* NumberGenerate.h */;
+		name = "NumberGenerate.h: 12";
+		rLen = 0;
+		rLoc = 187;
+		rType = 0;
+		vrLen = 235;
+		vrLoc = 0;
+	};
+	C8812E4C116D458F0030286D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8F09BE4115D99CA00A618CF /* MathGame1_3ViewController.m */;
+		name = "MathGame1_3ViewController.m: 362";
+		rLen = 0;
+		rLoc = 9156;
+		rType = 0;
+		vrLen = 469;
+		vrLoc = 8402;
+	};
+	C8812E73116D46B40030286D /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Class 'MathCraft_Music' does not implement the 'AVAudioPlayerDelegate' protocol";
+		fRef = 12937B9F1155873600C730DE /* MathCraft_Music.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 38;
+		rType = 1;
+	};
+	C8812E74116D46B40030286D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 12937B9F1155873600C730DE /* MathCraft_Music.m */;
+		name = "MathCraft_Music.m: 39";
+		rLen = 0;
+		rLoc = 737;
+		rType = 0;
+		vrLen = 270;
+		vrLoc = 606;
+	};
+	C8812E79116D46B90030286D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8F09BE4115D99CA00A618CF /* MathGame1_3ViewController.m */;
+		name = "MathGame1_3ViewController.m: 362";
+		rLen = 0;
+		rLoc = 9156;
+		rType = 0;
+		vrLen = 469;
+		vrLoc = 8402;
+	};
+	C8812E7A116D46B90030286D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* MathCraft_Login_Prefix.pch */;
+		name = "MathCraft_Login_Prefix.pch: 9";
+		rLen = 0;
+		rLoc = 266;
+		rType = 0;
+		vrLen = 274;
+		vrLoc = 0;
+	};
+	C8812E7B116D46B90030286D /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Class 'MathCraft_Music' does not implement the 'AVAudioPlayerDelegate' protocol";
+		fRef = 12937B9F1155873600C730DE /* MathCraft_Music.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 38;
+		rType = 1;
+	};
+	C8812E7C116D46B90030286D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 12937B9F1155873600C730DE /* MathCraft_Music.m */;
+		name = "MathCraft_Music.m: 39";
+		rLen = 0;
+		rLoc = 737;
+		rType = 0;
+		vrLen = 587;
+		vrLoc = 483;
+	};
+	C88A6A8011518A8700F13399 /* ButtonPush.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = ButtonPush.h;
+		path = "/MathCraft ver.1/Classes/ButtonPush.h";
+		sourceTree = "<absolute>";
+	};
+	C88A6AA011518BDD00F13399 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8959500114D7C0100D5E299 /* Equation_GameViewController.m */;
+		name = "Equation_GameViewController.m: 446";
+		rLen = 0;
+		rLoc = 15555;
+		rType = 0;
+		vrLen = 843;
+		vrLoc = 14066;
+	};
+	C88A6AFE1151914000F13399 /* ButtonPush.h:13 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = C88A6A8011518A8700F13399 /* ButtonPush.h */;
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 13;
+		modificationTime = 291362304.871004;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	C88A6B52115195F900F13399 /* ButtonPush.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = ButtonPush.h;
+		path = "/MathCraft ver.1/Classes/ButtonPush.h";
+		sourceTree = "<absolute>";
+	};
+	C88A6B5B1151962900F13399 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C88A6B52115195F900F13399 /* ButtonPush.h */;
+		name = "ButtonPush.h: 13";
+		rLen = 0;
+		rLoc = 223;
+		rType = 0;
+		vrLen = 318;
+		vrLoc = 0;
+	};
+	C89594FD114D7BF500D5E299 /* Equation_GameViewController.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = Equation_GameViewController.h;
+		path = /Equation_Game/Classes/Equation_GameViewController.h;
+		sourceTree = "<absolute>";
+	};
+	C8959500114D7C0100D5E299 /* Equation_GameViewController.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = Equation_GameViewController.m;
+		path = /Equation_Game/Classes/Equation_GameViewController.m;
+		sourceTree = "<absolute>";
+	};
+	C89F91051169C5DC00429349 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Incomplete implementation of class 'Equation_GameViewController'";
+		fRef = C8B38646114DB3A20080B365 /* Equation_GameViewController.m */;
+		rLen = 1;
+		rLoc = 359;
+		rType = 1;
+	};
+	C89F91061169C5DC00429349 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8B38646114DB3A20080B365 /* Equation_GameViewController.m */;
+		name = "Equation_GameViewController.m: 360";
+		rLen = 0;
+		rLoc = 12361;
+		rType = 0;
+		vrLen = 89;
+		vrLoc = 12277;
+	};
+	C89F91101169C5EC00429349 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "'Equation_GameViewController' may not respond to '-parse_Question1'";
+		fRef = C8B38646114DB3A20080B365 /* Equation_GameViewController.m */;
+		rLen = 1;
+		rLoc = 319;
+		rType = 1;
+	};
+	C89F91111169C5EC00429349 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8B38646114DB3A20080B365 /* Equation_GameViewController.m */;
+		name = "Equation_GameViewController.m: 320";
+		rLen = 0;
+		rLoc = 11538;
+		rType = 0;
+		vrLen = 133;
+		vrLoc = 11471;
+	};
+	C89F91161169C5F400429349 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = C89F90ED1169C15B00429349 /* ten.png */;
+	};
+	C89F91171169C5F400429349 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = C89F90F11169C15B00429349 /* two.png */;
+	};
+	C89F91181169C5F400429349 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 125D2E70114867D000EE222A /* MathCraft_GameMenu.h */;
+		name = "MathCraft_GameMenu.h: 17";
+		rLen = 0;
+		rLoc = 274;
+		rType = 0;
+		vrLen = 331;
+		vrLoc = 134;
+	};
+	C89F91191169C5F400429349 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 125D2E71114867D000EE222A /* MathCraft_GameMenu.m */;
+		name = "MathCraft_GameMenu.m: 49";
+		rLen = 0;
+		rLoc = 1278;
+		rType = 0;
+		vrLen = 701;
+		vrLoc = 1244;
+	};
+	C89F911A1169C5F400429349 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 129AFAB611602C190034B959 /* MoneyGamesMenu.m */;
+		name = "MoneyGamesMenu.m: 11";
+		rLen = 0;
+		rLoc = 243;
+		rType = 0;
+		vrLen = 339;
+		vrLoc = 0;
+	};
+	C89F911B1169C5F400429349 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8F09BDE115D99BB00A618CF /* EquationGamesMenuViewController.h */;
+		name = "EquationGamesMenuViewController.h: 2";
+		rLen = 31;
+		rLoc = 7;
+		rType = 0;
+		vrLen = 317;
+		vrLoc = 0;
+	};
+	C89F911C1169C5F400429349 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8F09BE4115D99CA00A618CF /* MathGame1_3ViewController.m */;
+		name = "MathGame1_3ViewController.m: 92";
+		rLen = 0;
+		rLoc = 1681;
+		rType = 0;
+		vrLen = 475;
+		vrLoc = 2142;
+	};
+	C89F911D1169C5F400429349 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8B38645114DB3A20080B365 /* Equation_GameViewController.h */;
+		name = "Equation_GameViewController.h: 39";
+		rLen = 0;
+		rLoc = 868;
+		rType = 0;
+		vrLen = 307;
+		vrLoc = 626;
+	};
+	C89F911E1169C5F400429349 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "'Equation_GameViewController' may not respond to '-parse_Question1'";
+		fRef = C8B38646114DB3A20080B365 /* Equation_GameViewController.m */;
+		rLen = 1;
+		rLoc = 319;
+		rType = 1;
+	};
+	C89F911F1169C5F400429349 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8B38646114DB3A20080B365 /* Equation_GameViewController.m */;
+		name = "Equation_GameViewController.m: 323";
+		rLen = 0;
+		rLoc = 11598;
+		rType = 0;
+		vrLen = 272;
+		vrLoc = 11335;
+	};
+	C89F91271169C66300429349 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8B38646114DB3A20080B365 /* Equation_GameViewController.m */;
+		name = "Equation_GameViewController.m: 315";
+		rLen = 0;
+		rLoc = 11453;
+		rType = 0;
+		vrLen = 433;
+		vrLoc = 11131;
+	};
+	C89F912C1169C77500429349 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8B38646114DB3A20080B365 /* Equation_GameViewController.m */;
+		name = "Equation_GameViewController.m: 146";
+		rLen = 0;
+		rLoc = 4958;
+		rType = 0;
+		vrLen = 360;
+		vrLoc = 4733;
+	};
+	C89F91331169D1DC00429349 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8B38646114DB3A20080B365 /* Equation_GameViewController.m */;
+		name = "Equation_GameViewController.m: 146";
+		rLen = 0;
+		rLoc = 4958;
+		rType = 0;
+		vrLen = 396;
+		vrLoc = 4733;
+	};
+	C89F91341169D1DC00429349 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8F09BE3115D99CA00A618CF /* MathGame1_3ViewController.h */;
+		name = "MathGame1_3ViewController.h: 46";
+		rLen = 0;
+		rLoc = 1077;
+		rType = 0;
+		vrLen = 287;
+		vrLoc = 801;
+	};
+	C89F91351169D1DC00429349 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8F09BE4115D99CA00A618CF /* MathGame1_3ViewController.m */;
+		name = "MathGame1_3ViewController.m: 265";
+		rLen = 0;
+		rLoc = 6923;
+		rType = 0;
+		vrLen = 287;
+		vrLoc = 6689;
+	};
+	C89F91361169D1DC00429349 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8F09BE4115D99CA00A618CF /* MathGame1_3ViewController.m */;
+		name = "MathGame1_3ViewController.m: 362";
+		rLen = 0;
+		rLoc = 9156;
+		rType = 0;
+		vrLen = 395;
+		vrLoc = 8407;
+	};
+	C8B38645114DB3A20080B365 /* Equation_GameViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 598}}";
+			sepNavSelRange = "{868, 0}";
+			sepNavVisRange = "{626, 307}";
+			sepNavWindowFrame = "{{15, 84}, {1234, 694}}";
+		};
+	};
+	C8B38646114DB3A20080B365 /* Equation_GameViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {768, 4823}}";
+			sepNavSelRange = "{11538, 0}";
+			sepNavVisRange = "{11473, 132}";
+			sepNavWindowFrame = "{{15, 84}, {1234, 694}}";
+		};
+	};
+	C8BB86B3114DA16C005D4459 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C89594FD114D7BF500D5E299 /* Equation_GameViewController.h */;
+		name = "Equation_GameViewController.h: 31";
+		rLen = 0;
+		rLoc = 670;
+		rType = 0;
+		vrLen = 543;
+		vrLoc = 277;
+	};
+	C8C9B859115D8C4200319707 /* PatternGame2ViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 572}}";
+			sepNavSelRange = "{719, 0}";
+			sepNavVisRange = "{525, 341}";
+		};
+	};
+	C8C9B85A115D8C4200319707 /* PatternGame2ViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1027, 5343}}";
+			sepNavSelRange = "{8662, 0}";
+			sepNavVisRange = "{10202, 390}";
+			sepNavWindowFrame = "{{15, 121}, {535, 652}}";
+		};
+	};
+	C8C9B89F115D8FFF00319707 /* PatternGamesMenuViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 312}}";
+			sepNavSelRange = "{223, 0}";
+			sepNavVisRange = "{0, 381}";
+		};
+	};
+	C8C9B8A0115D8FFF00319707 /* PatternGamesMenuViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 1313}}";
+			sepNavSelRange = "{544, 281}";
+			sepNavVisRange = "{1149, 749}";
+			sepNavWindowFrame = "{{15, 84}, {1234, 694}}";
+		};
+	};
+	C8C9B8BF115D916800319707 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1265277B114EBE0B009F67CB /* MathCraft_MainMenu.h */;
+		name = "MathCraft_MainMenu.h: 20";
+		rLen = 31;
+		rLoc = 265;
+		rType = 0;
+		vrLen = 337;
+		vrLoc = 0;
+	};
+	C8F09B3F115D958B00A618CF /* MIrrorGameViewController.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = MIrrorGameViewController.h;
+		path = /MIrrorGame/Classes/MIrrorGameViewController.h;
+		sourceTree = "<absolute>";
+	};
+	C8F09B40115D958B00A618CF /* MIrrorGameViewController.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = MIrrorGameViewController.m;
+		path = /MIrrorGame/Classes/MIrrorGameViewController.m;
+		sourceTree = "<absolute>";
+	};
+	C8F09B69115D968800A618CF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1265277C114EBE0B009F67CB /* MathCraft_MainMenu.m */;
+		name = "MathCraft_MainMenu.m: 65";
+		rLen = 0;
+		rLoc = 1794;
+		rType = 0;
+		vrLen = 496;
+		vrLoc = 1438;
+	};
+	C8F09BDE115D99BB00A618CF /* EquationGamesMenuViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 273}}";
+			sepNavSelRange = "{7, 31}";
+			sepNavVisRange = "{0, 317}";
+		};
+	};
+	C8F09BDF115D99BB00A618CF /* EquationGamesMenuViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {715, 1495}}";
+			sepNavSelRange = "{396, 0}";
+			sepNavVisRange = "{254, 279}";
+		};
+	};
+	C8F09BE3115D99CA00A618CF /* MathGame1_3ViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 689}}";
+			sepNavSelRange = "{1077, 0}";
+			sepNavVisRange = "{801, 287}";
+		};
+	};
+	C8F09BE4115D99CA00A618CF /* MathGame1_3ViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 5135}}";
+			sepNavSelRange = "{9156, 0}";
+			sepNavVisRange = "{8402, 469}";
+		};
+	};
+	C8F09BED115D99DF00A618CF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8B38645114DB3A20080B365 /* Equation_GameViewController.h */;
+		name = "Equation_GameViewController.h: 33";
+		rLen = 0;
+		rLoc = 774;
+		rType = 0;
+		vrLen = 470;
+		vrLoc = 37;
+	};
+	C8F6490A11557786008E1BEE /* Equation_GameViewController.m:119 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = C8B38646114DB3A20080B365 /* Equation_GameViewController.m */;
+		functionName = "-alertView:didDismissWithButtonIndex:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 119;
+		location = MathCraft_Login;
+		modificationTime = 291362278.1762589;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+}
