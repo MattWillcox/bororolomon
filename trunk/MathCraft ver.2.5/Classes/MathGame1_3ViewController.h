@@ -2,9 +2,6 @@
 //  MathGame1_3ViewController.h
 //  MathGame1.3
 //
-//  Created by Joanna So on 10年3月9日.
-//  Copyright __MyCompanyName__ 2010. All rights reserved.
-//
 
 #import <UIKit/UIKit.h>
 
@@ -25,7 +22,7 @@
 	int timeLeft;
 	int Answer;
 	int totalScore;
-
+	
 }
 
 @property (nonatomic,retain) UILabel *score;
@@ -37,13 +34,12 @@
 -(IBAction)back_Pressed;
 -(void)updateLabel;
 -(void)viewDidLoad;
--(IBAction)addition:(id)sender;
--(IBAction)subtraction:(id)sender;
--(IBAction)multiplication:(id)sender;
--(IBAction)division:(id)sender;
+-(void)operand:(id)sender;
+-(BOOL)addition;
+-(BOOL)subtraction;
+-(BOOL)multiplication;
+-(BOOL)division;
 -(void) parse_Question;
--(void) parse_Question2;
--(void) parse_Question3;
 
 
 

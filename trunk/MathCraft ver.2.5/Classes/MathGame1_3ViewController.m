@@ -2,9 +2,6 @@
 //  MathGame1_3ViewController.m
 //  MathGame1.3
 //
-//  Created by Joanna So on 10年3月9日.
-//  Copyright __MyCompanyName__ 2010. All rights reserved.
-//
 
 #import "MathGame1_3ViewController.h"
 #import "MathCraft_Music.h"
@@ -25,373 +22,198 @@
 	}
 	[player release];
 	
-	
 	[self dismissModalViewControllerAnimated:YES];
 }
 
--(void) parse_Question {
+-(void)parse_Question {
+	int lvl;	
+	// find the level of question to create
+	if(totalScore < 10)
+		lvl = 2;
+	else if(totalScore < 20)
+		lvl = 3;
+	else 
+		lvl = 4;
 	
-	int operand = 1 + arc4random() % 2;
+	int operand = 1 + arc4random() % lvl;
 	int number1, number2;
 	
-	switch (operand) {
-		// randomly to choose one of the operand
-			
+	// randomly to choose one of the operand
+	if(operand == 1) {
 		// additon question
-		case 1:
-			number1 = 1+arc4random() % 9;
-			number2 = 1+arc4random() % 9;
-			
-			while (number1 == 2 && number2 == 2) {
-				number1 = 1+arc4random() % 9;
-				number2 = 1+arc4random() % 9;
-			}
-			Answer = number1 + number2;
-			A.text = [NSString stringWithFormat:@"%ld", number1];
-			B.text = [NSString stringWithFormat:@"%ld", number2];
-			C.text = [NSString stringWithFormat:@"%ld", Answer];
-			break;
-			
-		// subtraction question	
-		case 2:
-			number1 = 1 + arc4random() % 9;
-			number2 = 1 + arc4random() % 9;
-			
-			while ((number1 < number2) || (number1 == 4 && number2 == 2)) {
+		do {
+			if(lvl == 2) {
 				number1 = 1 + arc4random() % 9;
 				number2 = 1 + arc4random() % 9;
 			}
-			Answer = number1 - number2; 
-			A.text = [NSString stringWithFormat:@"%ld", number1];
-			B.text = [NSString stringWithFormat:@"%ld", number2];
-			C.text = [NSString stringWithFormat:@"%ld", Answer];
-			break;
+			else {
+				number1 = 1 + arc4random() % 20;
+				number2 = 1 + arc4random() % 20;
+			}
+		} while (number1 == 2 && number2 == 2);
+		Answer = number1 + number2;
+	}
+	// subtraction question	
+	else if(operand == 2) {
+		do {
+			if(lvl == 2) {
+				number1 = 1 + arc4random() % 9;
+				number2 = 1 + arc4random() % 9;
+			}
+			else {
+				number1 = 1 + arc4random() % 20;
+				number2 = 1 + arc4random() % 20;
+			}
+		} while ((number1 < number2) || (number1 == 4 && number2 == 2));
+		Answer = number1 - number2;
+	}
+	//multiplication question
+	else if(operand == 3){
+		do {
+			number1 = 1 + arc4random() % 9;
+			number2 = 1 + arc4random() % 9;
+		} while (number1 == 2 && number2 == 2);
+		Answer = number1 * number2;
+	}
+	//division question 	
+	else if(operand == 4){
+		do{
+			number1 = 1 + arc4random() % 9;
+			number2 = 1 + arc4random() % 9;
+		}while (number1 == 2 && number2 == 2);
+		// number1 = number3 / number2
+		int number3 = number1 * number2;
+		Answer = number1;
+		number1 = number3;
 	}
 	
-	
+	A.text = [NSString stringWithFormat:@"%ld", number1];
+	B.text = [NSString stringWithFormat:@"%ld", number2];
+	C.text = [NSString stringWithFormat:@"%ld", Answer];
 }
 
--(void) parse_Question2 {
-	
-	int operand = 1 + arc4random() % 3;
-	int number1, number2;
-	
-	switch (operand) {
-			// randomly to choose one of the operand
-			
-			// additon question
-		case 1:
-			number1 = 1+arc4random() % 20;
-			number2 = 1+arc4random() % 20;
-			
-			while (number1 == 2 && number2 == 2) {
-				number1 = 1+arc4random() % 20;
-				number2 = 1+arc4random() % 20;
-			}
-			Answer = number1 + number2;
-			A.text = [NSString stringWithFormat:@"%ld", number1];
-			B.text = [NSString stringWithFormat:@"%ld", number2];
-			C.text = [NSString stringWithFormat:@"%ld", Answer];
-			break;
-			
-			// subtraction question	
-		case 2:
-			number1 = 1 + arc4random() % 20;
-			number2 = 1 + arc4random() % 20;
-			
-			while ((number1 < number2) || (number1 == 4 && number2 == 2)) {
-				number1 = 1 + arc4random() % 20;
-				number2 = 1 + arc4random() % 20;
-			}
-			Answer = number1 - number2; 
-			A.text = [NSString stringWithFormat:@"%ld", number1];
-			B.text = [NSString stringWithFormat:@"%ld", number2];
-			C.text = [NSString stringWithFormat:@"%ld", Answer];
-			break;
-			
-			//multiplication question
-		case 3:
-			number1 = 1 + arc4random() % 9;
-			number2 = 1 + arc4random() % 9;
-			
-			while ((number1 == 2 && number2 == 2)) {
-				number1 = 1 + arc4random() % 9;
-				number2 = 1 + arc4random() % 9;
-			}
-			Answer = number1 * number2;
-			A.text = [NSString stringWithFormat:@"%ld", number1];
-			B.text = [NSString stringWithFormat:@"%ld", number2];
-			C.text = [NSString stringWithFormat:@"%ld", Answer];
-			break;
-	}
-}
--(void) parse_Question3 {
-	
-	int operand = 1 + arc4random() % 4;
-	int number1, number2;
-	
-	switch (operand) {
-			// randomly to choose one of the operand
-			
-			// additon question
-		case 1:
-			number1 = 1+arc4random() % 20;
-			number2 = 1+arc4random() % 20;
-			
-			while (number1 == 2 && number2 == 2) {
-				number1 = 1+arc4random() % 20;
-				number2 = 1+arc4random() % 20;
-			}
-			Answer = number1 + number2;
-			A.text = [NSString stringWithFormat:@"%ld", number1];
-			B.text = [NSString stringWithFormat:@"%ld", number2];
-			C.text = [NSString stringWithFormat:@"%ld", Answer];
-			break;
-			
-			// subtraction question	
-		case 2:
-			number1 = 1 + arc4random() % 20;
-			number2 = 1 + arc4random() % 20;
-			
-			while ((number1 < number2) || (number1 == 4 && number2 == 2)) {
-				number1 = 1 + arc4random() % 20;
-				number2 = 1 + arc4random() % 20;
-			}
-			Answer = number1 - number2; 
-			A.text = [NSString stringWithFormat:@"%ld", number1];
-			B.text = [NSString stringWithFormat:@"%ld", number2];
-			C.text = [NSString stringWithFormat:@"%ld", Answer];
-			break;
-			
-			//multiplication question
-		case 3:
-			number1 = 1 + arc4random() % 9;
-			number2 = 1 + arc4random() % 9;
-			
-			while ((number1 == 2 && number2 == 2)) {
-				number1 = 1 + arc4random() % 9;
-				number2 = 1 + arc4random() % 9;
-			}
-			Answer = number1 * number2;
-			A.text = [NSString stringWithFormat:@"%ld", number1];
-			B.text = [NSString stringWithFormat:@"%ld", number2];
-			C.text = [NSString stringWithFormat:@"%ld", Answer];
-			break;
-			
-			//division question 	
-		case 4:
-			number1 = 1 + arc4random() % 9;
-			number2 = 1 + arc4random() % 9;
-			
-			while (
-				   number1 == 2 && number2 == 2) {
-				number1 = 1 + arc4random() % 9;
-				number2 = 1 + arc4random() % 9;
-			}
-			int number3 = number1 * number2;
-			Answer = number2;
-			A.text = [NSString stringWithFormat:@"%ld", number3];
-			B.text = [NSString stringWithFormat:@"%ld", number1];
-			C.text = [NSString stringWithFormat:@"%ld", Answer];
-			break;
-	}
-}	
-  
-  - (void)viewDidLoad {
+- (void)viewDidLoad {
 	//This is the timer that counts down from 60 in 1 second intervals.
-	  [super viewDidLoad];
-	  Timer = [NSTimer scheduledTimerWithTimeInterval:(1.0) target:self selector:@selector(updateLabel) userInfo:nil repeats:YES];
-	  timeLable.text = @"60";
-	  timeLeft = 60;
-	  score.text = @"0";
-	  totalScore = 0;
-	  
-	  [self parse_Question];
-  }
-  
-  
-  
-  -(void)updateLabel {
-	  //Updates the timer every 1 second, if timer reads 0 game ends
-	  if (timeLeft != 0) {
-		  timeLeft = timeLeft--;
-		  timeLable.text = [NSString stringWithFormat:@"%02d",timeLeft];
-		  
-	  }
-	  else {
-		  ManageProfile *profile = [ManageProfile sharedManager];
-		  if (totalScore > profile.LoggedinUser.EquationGame2Score) {
-			  profile.LoggedinUser.EquationGame2Score = totalScore;
-			  [profile saveUserProfile];
-		  }
-		  profile.LoggedinUser.EquationGame2Played = profile.LoggedinUser.EquationGame2Played + 1;
-		  A.text = @"";
-		  B.text = @"";
-		  C.text = @"";
-		  questionMark.text = @"";
-		  equalSign.text =@"";
-		  Finished.text = @"F I N I S H E D !";
-	  }
-  }
-  
-  
-  
-  -(IBAction)addition:(id)sender
-{
-	//answer "+" to the question
-	if (timeLeft != 0) {
-		
-		NSString *Avalue = A.text;
-		int AvalueNumber = [Avalue intValue];
-		NSString *Bvalue = B.text;
-		int BvalueNumber = [Bvalue intValue];
-		
-		//adding score if it is correct
-		if(Answer == AvalueNumber + BvalueNumber){		
-			totalScore++;
-			score.text = [NSString stringWithFormat:@"%ld", totalScore];
-		}
-		
-		else if(Answer != AvalueNumber + BvalueNumber && totalScore >0){
-			totalScore--;
-			score.text = [NSString stringWithFormat:@"%ld", totalScore];
-		}
-		if(totalScore < 10){
-		[self parse_Question];
-		}
-		else if(totalScore >= 10 && totalScore < 20){
-			[self parse_Question2];
-		}
-		else {
-			[self parse_Question3];
-		}
+	[super viewDidLoad];
+	Timer = [NSTimer scheduledTimerWithTimeInterval:(1.0) target:self selector:@selector(updateLabel) userInfo:nil repeats:YES];
+	timeLable.text = @"60";
+	timeLeft = 60;
+	score.text = @"0";
+	totalScore = 0;
+	
+	[self parse_Question];
+}
 
-	}
-}
-  
-  
-  -(IBAction)subtraction:(id)sender
-{
-	//answer "-" to the question
+
+
+-(void)updateLabel{
+	//Updates the timer every 1 second, if timer reads 0 game ends
 	if (timeLeft != 0) {
+		timeLeft = timeLeft--;
+		timeLable.text = [NSString stringWithFormat:@"%02d",timeLeft];
 		
-		NSString *Avalue = A.text;
-		int AvalueNumber = [Avalue intValue];
-		NSString *Bvalue = B.text;
-		int BvalueNumber = [Bvalue intValue];
-		
-		if(Answer == AvalueNumber - BvalueNumber){		
-			totalScore++;
-			score.text = [NSString stringWithFormat:@"%ld", totalScore];
+	}
+	else {
+		ManageProfile *profile = [ManageProfile sharedManager];
+		if (totalScore > profile.LoggedinUser.EquationGame2Score) {
+			profile.LoggedinUser.EquationGame2Score = totalScore;
+			[profile saveUserProfile];
 		}
-		
-		else if(Answer != AvalueNumber - BvalueNumber && totalScore >0){
-			totalScore--;
-			score.text = [NSString stringWithFormat:@"%ld", totalScore];
-		}
-		
-		if(totalScore < 10){
-			[self parse_Question];
-		}
-		else if(totalScore >= 10 && totalScore < 20){
-			[self parse_Question2];
-		}
-		else {
-			[self parse_Question3];
-		}
+		profile.LoggedinUser.EquationGame2Played = profile.LoggedinUser.EquationGame2Played + 1;
+		A.text = @"";
+		B.text = @"";
+		C.text = @"";
+		questionMark.text = @"";
+		equalSign.text =@"";
+		Finished.text = @"F I N I S H E D !";
 	}
 }
-  
-  -(IBAction)multiplication:(id)sender{
-	  //answer "*" to the question
-	  if (timeLeft != 0) {
-		  
-		  NSString *Avalue = A.text;
-		  int AvalueNumber = [Avalue intValue];
-		  NSString *Bvalue = B.text;
-		  int BvalueNumber = [Bvalue intValue];
-		  
-		  if(Answer == AvalueNumber * BvalueNumber){		
-			  totalScore++;
-			  score.text = [NSString stringWithFormat:@"%ld", totalScore];
-		  }
-		  
-		  else if(Answer != AvalueNumber * BvalueNumber && totalScore >0){
-			  totalScore--;
-			  score.text = [NSString stringWithFormat:@"%ld", totalScore];
-		  }
-		  
-		  if(totalScore < 10){
-			  [self parse_Question];
-		  }
-		  else if(totalScore >= 10 && totalScore < 20){
-			  [self parse_Question2];
-		  }
-		  else {
-			  [self parse_Question3];
-		  }	
-	  }
-  } 
-  
-  -(IBAction)division:(id)sender {
-	  //answer "/" to the question
-	  if (timeLeft != 0) {
-		  
-		  NSString *Avalue = A.text;
-		  int AvalueNumber = [Avalue intValue];
-		  NSString *Bvalue = B.text;
-		  int BvalueNumber = [Bvalue intValue];
-		  
-		  if(Answer == AvalueNumber / BvalueNumber){		
-			  totalScore++;
-			  score.text = [NSString stringWithFormat:@"%ld", totalScore];
-		  }
-		  
-		  else if(Answer != AvalueNumber / BvalueNumber && totalScore >0){
-			  totalScore--;
-			  score.text = [NSString stringWithFormat:@"%ld", totalScore];
-		  }
-		  
-		  if(totalScore < 10){
-			  [self parse_Question];
-		  }
-		  else if(totalScore >= 10 && totalScore < 20){
-			  [self parse_Question2];
-		  }
-		  else {
-			  [self parse_Question3];
-		  }
-	  }		
-	  
-  } 
-  
-  - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation 
+
+// button 1, 2, 3, or 4 was pushed 
+-(void)operand:(id)sender{
+	if (timeLeft != 0) {
+		BOOL result = NO;
+		
+		// check if the correct answer was given
+		if(sender==button1)
+			result = [self addition];
+		else if(sender==button2)
+			result = [self subtraction];
+		else if(sender==button3)
+			result = [self multiplication];
+		else if(sender==button4)
+			result = [self division];
+		
+		// increment totalScore variable
+		if(result) totalScore++;
+		else if(totalScore>0) totalScore--;
+		
+		score.text = [NSString stringWithFormat:@"%ld", totalScore];
+		
+		//load another question
+		[self parse_Question];
+	}
+}
+
+-(BOOL)addition{
+	// check if the correct answer is '+'
+	if(Answer == [A.text intValue] + [B.text intValue])
+		return YES;
+	else
+		return NO;
+}
+
+-(BOOL)subtraction{
+	// check if the correct answer is '-'
+	if(Answer == [A.text intValue] - [B.text intValue])
+		return YES;
+	else 
+		return NO;
+}
+
+-(BOOL)multiplication{
+	// check if the correct answer is '*'
+	if(Answer == [A.text intValue] * [B.text intValue])
+		return YES;
+	else 
+		return NO;
+} 
+
+-(BOOL)division{
+	// check if the correct answer is '*'
+	if(Answer == [A.text intValue] / [B.text intValue])
+		return YES;
+	else
+		return NO;
+} 
+
+- (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation 
 {
     return (interfaceOrientation == UIInterfaceOrientationLandscapeRight);
 }
-  
-  - (void)didReceiveMemoryWarning {
-	  // Releases the view if it doesn't have a superview.
-	  [super didReceiveMemoryWarning];
-  }
-  
-  - (void)dealloc {
-	  [Finished release];
-	  [timeLable release];
-	  [score release];
-	  [button1 release];
-	  [button2 release];
-	  [button3 release];
-	  [button4 release];
-	  [A release];
-	  [B release];
-	  [C release];
-	  [questionMark release];
-	  [equalSign release];
-	  [Timer release];
-	  [super dealloc];
-  }
-  
-  @end	
-  
-  
+
+- (void)didReceiveMemoryWarning {
+	// Releases the view if it doesn't have a superview.
+	[super didReceiveMemoryWarning];
+}
+
+- (void)dealloc {
+	[Finished release];
+	[timeLable release];
+	[score release];
+	[button1 release];
+	[button2 release];
+	[button3 release];
+	[button4 release];
+	[A release];
+	[B release];
+	[C release];
+	[questionMark release];
+	[equalSign release];
+	[Timer release];
+	[super dealloc];
+}
+
+@end	
+
+
