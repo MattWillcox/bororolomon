@@ -355,8 +355,8 @@
 				C8195211116EF261004444B5 /* MoneyGame2ViewController.h */,
 				C8195208116EF22E004444B5 /* MoneyGame2ViewController.m */,
 				129AFAD611602D230034B959 /* MoneyGameViewController.h */,
-				C8F09BE3115D99CA00A618CF /* MathGame1_3ViewController.h */,
 				C81951F7116EF1C6004444B5 /* MoneyGameViewController.m */,
+				C8F09BE3115D99CA00A618CF /* MathGame1_3ViewController.h */,
 				C8F09BE4115D99CA00A618CF /* MathGame1_3ViewController.m */,
 				C8C9B859115D8C4200319707 /* PatternGame2ViewController.h */,
 				C8C9B85A115D8C4200319707 /* PatternGame2ViewController.m */,
@@ -886,7 +886,7 @@
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				PREBINDING = NO;
-				SDKROOT = iphoneos3.1.3;
+				SDKROOT = iphoneos3.1.2;
 			};
 			name = Debug;
 		};
@@ -899,7 +899,7 @@
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				PREBINDING = NO;
-				SDKROOT = iphoneos3.1.3;
+				SDKROOT = iphoneos3.1.2;
 			};
 			name = Release;
 		};
