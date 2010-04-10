@@ -23,16 +23,32 @@
 
 @property (retain)UserProfile *LoggedinUser;
 
+// class initializers
 -(ManageProfile *)initWithUserInfo:(NSString *) UserName UserPassword:(NSString *) Password;
 -(ManageProfile *)initGuestUserProfile;
 
+// Checks to see if this 'UserName' is already taken
 -(BOOL)isUserUnique:(NSString *) UserName;
+
+// Loads the specified profile to 'LoggedinUser'
 -(BOOL)loadUserProfile:(NSString *) UserName Password:(NSString *) UserPassword;
+
+// Saves user information from 'LoggedinUser'
 -(BOOL)saveUserProfile;
+
+// Creates a user with the specified UserName and UserPassword
 -(BOOL)createUserProfile:(NSString *) UserName Password:(NSString *) UserPassword;
+
+// Removes the specified users information
 -(BOOL)deleteUserProfile:(NSString *) UserName Password:(NSString *) UserPassword;
+
+// Checks to see if the user name is valid
 -(BOOL)isUserNameValid:(NSString *) UserName;
+
+// Checks to see if the password is valid
 -(BOOL)isPasswordValid:(NSString *) Password;
+
+// Remove all saved profiles
 -(void)deleteAllProfiles;
 
 //Internally called
