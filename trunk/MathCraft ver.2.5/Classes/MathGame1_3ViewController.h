@@ -11,6 +11,7 @@
 
 #import <UIKit/UIKit.h>
 
+// Operand Game logic
 @interface MathGame1_3ViewController : UIViewController {
 	IBOutlet UIButton *button1; //	+
 	IBOutlet UIButton *button2; //	-
