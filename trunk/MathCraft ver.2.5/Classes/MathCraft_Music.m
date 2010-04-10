@@ -1,10 +1,13 @@
 //
 //  MathCraft_Music.m
 //  MathCraft_Login
-//
-//  Created by Ray Sung on 10-03-20.
-//  Copyright 2010 Simon Fraser University. All rights reserved.
-//
+
+/* 
+ * Project Name: Bororolomon
+ * Version: 3
+ * Group Number: 1
+ * Course: CMPT 275
+ */
 
 
 #import "MathCraft_Music.h"

@@ -1,7 +1,13 @@
 //
 //  MathGame1_3ViewController.m
-//  MathGame1.3
-//
+//  MathCraft_Login
+
+/* 
+ * Project Name: Bororolomon
+ * Version: 3
+ * Group Number: 1
+ * Course: CMPT 275
+ */
 
 #import "MathGame1_3ViewController.h"
 #import "MathCraft_Music.h"

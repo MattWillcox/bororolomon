@@ -1,10 +1,13 @@
 //
 //  MoneyGame2ViewController.h
-//  MoneyGame2
-//
-//  Created by Joanna So on 10年4月4日.
-//  Copyright __MyCompanyName__ 2010. All rights reserved.
-//
+//  MathCraft_Login
+
+/* 
+ * Project Name: Bororolomon
+ * Version: 3
+ * Group Number: 1
+ * Course: CMPT 275
+ */
 
 #import <UIKit/UIKit.h>
 

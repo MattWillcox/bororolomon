@@ -1,10 +1,13 @@
 //
 //  main.m
 //  MathCraft_Login
-//
-//  Created by Ray Sung on 10-03-05.
-//  Copyright Simon Fraser University 2010. All rights reserved.
-//
+
+/* 
+ * Project Name: Bororolomon
+ * Version: 3
+ * Group Number: 1
+ * Course: CMPT 275
+ */
 
 #import <UIKit/UIKit.h>
 

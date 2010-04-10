@@ -1,10 +1,13 @@
 //
 //  MirrorGameViewController.h
-//  MirrorGame
-//
-//  Created by Matt Willcox on 10-03-21.
-//  Copyright __MyCompanyName__ 2010. All rights reserved.
-//
+//  MathCraft_Login
+
+/* 
+ * Project Name: Bororolomon
+ * Version: 3
+ * Group Number: 1
+ * Course: CMPT 275
+ */
 
 #import <UIKit/UIKit.h>
 

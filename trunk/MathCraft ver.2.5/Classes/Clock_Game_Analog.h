@@ -1,10 +1,13 @@
 //
 //  ClockGameViewController.h
-//  ClockGame
-//
-//  Created by Nick Ho on 3/18/10.
-//  Copyright __MyCompanyName__ 2010. All rights reserved.
-//
+//  MathCraft_Login
+
+/* 
+ * Project Name: Bororolomon
+ * Version: 3
+ * Group Number: 1
+ * Course: CMPT 275
+ */
 
 #import <UIKit/UIKit.h>
 #import <QuartzCore/QuartzCore.h>

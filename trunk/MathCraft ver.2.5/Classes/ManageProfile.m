@@ -1,10 +1,13 @@
 //
 //  ManageProfile.m
-//  Test3
-//
-//  Created by Reza on 10-03-21.
-//  Copyright 2010 __MyCompanyName__. All rights reserved.
-//
+//  MathCraft_Login
+
+/* 
+ * Project Name: Bororolomon
+ * Version: 3
+ * Group Number: 1
+ * Course: CMPT 275
+ */
 
 #import "ManageProfile.h"
 

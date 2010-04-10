@@ -1,10 +1,13 @@
 //
 //  EquationGamesMenuViewController.m
-//  EquationGamesMenu
-//
-//  Created by Matt Willcox on 10-03-26.
-//  Copyright __MyCompanyName__ 2010. All rights reserved.
-//
+//  MathCraft_Login
+
+/* 
+ * Project Name: Bororolomon
+ * Version: 3
+ * Group Number: 1
+ * Course: CMPT 275
+ */
 
 #import "EquationGamesMenuViewController.h"
 #import "Equation_GameViewController.h"

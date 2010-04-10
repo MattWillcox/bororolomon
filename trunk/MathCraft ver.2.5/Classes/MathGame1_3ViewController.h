@@ -1,7 +1,13 @@
 //
 //  MathGame1_3ViewController.h
-//  MathGame1.3
-//
+//  MathCraft_Login
+
+/* 
+ * Project Name: Bororolomon
+ * Version: 3
+ * Group Number: 1
+ * Course: CMPT 275
+ */
 
 #import <UIKit/UIKit.h>
 

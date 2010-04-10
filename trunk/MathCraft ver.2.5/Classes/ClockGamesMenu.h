@@ -1,10 +1,13 @@
 //
 //  ClockGamesMenu.h
 //  MathCraft_Login
-//
-//  Created by Ray Sung on 10-03-27.
-//  Copyright 2010 Simon Fraser University. All rights reserved.
-//
+
+/* 
+ * Project Name: Bororolomon
+ * Version: 3
+ * Group Number: 1
+ * Course: CMPT 275
+ */
 
 #import <UIKit/UIKit.h>
 #import "Clock_Game.h"
