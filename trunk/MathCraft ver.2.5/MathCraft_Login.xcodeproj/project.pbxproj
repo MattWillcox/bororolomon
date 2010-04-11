@@ -108,16 +108,6 @@
 		C8F09BE9115D99DE00A618CF /* MathGame1_3ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C8F09BE8115D99DE00A618CF /* MathGame1_3ViewController.xib */; };
 /* End PBXBuildFile section */
 
-/* Begin PBXContainerItemProxy section */
-		AF3973E811613E6900360690 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 29B97313FDCFA39411CA2CEA /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = AF3973CA11613DF500360690;
-			remoteInfo = "Unit Testing";
-		};
-/* End PBXContainerItemProxy section */
-
 /* Begin PBXFileReference section */
 		120FEBE7115AB5FF007B1FAF /* UserProfile.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UserProfile.h; sourceTree = "<group>"; };
 		120FEBE8115AB5FF007B1FAF /* UserProfile.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UserProfile.m; sourceTree = "<group>"; };
@@ -598,7 +588,6 @@
 			buildRules = (
 			);
 			dependencies = (
-				AF3973E911613E6900360690 /* PBXTargetDependency */,
 			);
 			name = MathCraft_Login;
 			productName = MathCraft_Login;
@@ -785,14 +774,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
-
-/* Begin PBXTargetDependency section */
-		AF3973E911613E6900360690 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = AF3973CA11613DF500360690 /* Unit Testing */;
-			targetProxy = AF3973E811613E6900360690 /* PBXContainerItemProxy */;
-		};
-/* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
 		1D6058940D05DD3E006BFB54 /* Debug */ = {
