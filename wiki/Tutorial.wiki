@@ -120,7 +120,7 @@ Tutorials:
         </p>
     </p>
     <p>
-<b>     3. Play Game: Game Selection Menu </b>
+      <b>3. Play Game: Game Selection Menu </b>
         <p>
         </p>
     </p>
