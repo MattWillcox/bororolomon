@@ -123,8 +123,6 @@
     3.4 Process Model 
 [http://bororolomon.googlecode.com/files/Process%20model%20-%20Website.png]
 [http://bororolomon.googlecode.com/files/Process%20model%20-%20IPhone.png]
-<br/>
-<br/>
     4 Data Requirements:
     <br/>
     <br/>
