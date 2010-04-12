@@ -36,6 +36,9 @@
                    http://bororolomon.googlecode.com/files/Register.png
         <br/>
         <br/>
+        o Enter in an account name, it must be between 4-25 characters and only contain 
+letters, numbers or underscore's (_)
+        o Next enter a password, it must be between 4-25 characters, confirm it in the next box below
         o Pressing CONFIRM button will end the registration process and redirect the player to the application.
         <br/>
         o Now, the player can login with the new account.
@@ -79,7 +82,7 @@
         </p>
     </p>
     <p>
-        o Refer section 3 for further tutorial
+        o Refer section 3. for further tutorial
         <p>
         </p>
     </p>
@@ -89,7 +92,7 @@
         </p>
     </p>
     <p>
-        o Refer section 4 for further tutorial
+        o Refer section 4. for further tutorial
         <p>
         </p>
     </p>
@@ -99,7 +102,7 @@
         </p>
     </p>
     <p>
-        o Refer section 5 for further tutorial
+        o Refer section 5. for further tutorial
         <p>
         </p>
     </p>
@@ -109,7 +112,7 @@
         </p>
     </p>
     <p>
-        o Refer section 6 for further tutorial
+        o Refer section 6. for further tutorial
         <p>
         </p>
     </p>
@@ -158,116 +161,69 @@
         <b>
                       http://bororolomon.googlecode.com/files/Submenu.png
             <br clear="ALL"/>
-            3 Equation Game
+            3.1 Equation Game 1
             <p>
             </p>
         </b>
     </p>
     <p>
         <a name="3.1_Equation_Game">
-            ·      As an example, when player selects “Equation Game” from Game Selection Menu, a short tutorial will be given, and as user confirms the
-            tutorial page, the game will start. There are two different games to choose from. This is a screen shot of the game.
             <br/>
             <br/>
                           http://bororolomon.googlecode.com/files/EquationGame1.png
 
-            <br/>
-            <br/>
-            <p>
-            </p>
-        </a>
-    </p>
-    <p>
-        ·      Top center shows how many questions the player correctly answered.
-        <p>
-        </p>
-    </p>
-    <p>
-        ·      Top right corner shows the how much time left to try the rest of the questions.
-        <p>
-        </p>
-    </p>
-    <p>
-        ·      Once the game is started, players can go back to menu by pressing the back button.
-        <p>
-        </p>
-    </p>
-    <p>
-        ·      A player answers by selecting their choice from the 4 buttons at the bottom
-        <p>
-        </p>
-    </p>
-    <p>
+       
         <p>
              
         </p>
     </p>
     <p>
         <b>
-            Clock Game
-            <p>
+            3.2 Equation Game 2
+
+                      http://bororolomon.googlecode.com/files/EquationGame2.png
+
+
+
+
+
+
+
+
+
+
+
+           3.3 Clock Game 1
+            <p> 
             </p>
         </b>
     </p>
     <p>
-        Another game example is the “Clock Game.” As per the Equation game when the user selects the “Clock Game” from the game menu they will be taken to a
-        quick tutorial screen where they select from the two game types.  Once the user picks one the game will start. Here is a screenshot of the “Clock
-        Game”.
         <p>
         </p>
     </p>
     <p>
                       http://bororolomon.googlecode.com/files/ClockGame1.png
         <p>
-        </p>
-    </p>
+      
+
+            3.4 Clock Game 2
+
+                      http://bororolomon.googlecode.com/files/ClockGame2.png
+
     <p>
-        <p>
-             
-        </p>
-    </p>
-    <p>
-        ·      Top middle shows how many questions the player correctly answered.
-        <p>
-        </p>
-    </p>
-    <p>
-        ·      Top right corner shows the how much time left to try the rest of the questions.
-        <p>
-        </p>
-    </p>
-    <p>
-        ·      Once the game is started, players can go back to menu by pressing the back button.
-        <p>
-        </p>
-    </p>
-    <p>
-        ·      A player answers a question my adding or subtracting from the displayed time in the green box to match the clock and then clicking on the clock
-        to submit their answer.
-        <p>
-        </p>
-    </p>
-    <p>
-        <p>
-             
-        </p>
-    </p>
-    <p>
-        <p>
-             
-        </p>
-    </p>
-    <p>
-        <b>
-            <p>
-                 
-            </p>
-        </b>
-    </p>
-    <b>
-        <br clear="ALL"/>
-    </b>
-    <p>
+
+
+
+
+            3.5 Mirror Game 1
+                      http://bororolomon.googlecode.com/files/MirrorGame.png
+            3.6 Mirror Game 2
+                      http://bororolomon.googlecode.com/files/PatternGame.png
+            3.7 Money Game 1
+                      http://bororolomon.googlecode.com/files/MoneyGame1.png
+            3.8 Money Game 2
+                      http://bororolomon.googlecode.com/files/MoneyGame2.png
         <b>
             4. View Progress
             <p>
