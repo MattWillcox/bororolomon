@@ -4,14 +4,14 @@ Tutorials:
 
 
 • If the player already has an account with us,
-o Enter the account name and the password, then press GO.
+• Enter the account name and the password, then press GO.
 • If the player is does not have an account,
-o Press REGISTER button and it will direct to a registration page.  
+• Press REGISTER button and it will direct to a registration page.  
 
-o Pressing CONFIRM button will end the registration process and redirect the player to the application. 
-o Now, the player can login with the new account.
+• Pressing CONFIRM button will end the registration process and redirect the player to the application. 
+• Now, the player can login with the new account.
 • If the player does not want to login nor register,
-o Player can simply click on the SKIP button located at the top right corner.
+• Player can simply click on the SKIP button located at the top right corner.
 
 2. Menu
 As soon as player passes through the login screen, game menu will show.
@@ -19,13 +19,13 @@ As soon as player passes through the login screen, game menu will show.
  
 
 • To enjoy MathCraft games, press “Play Game” button.
-o Refer section 3 for further tutorial
+• Refer section 3 for further tutorial
 • To see how the player was progressed in the past games, press “View Progress” button. 
-o Refer section 4 for further tutorial
+• Refer section 4 for further tutorial
 • To see the online ranking board of every registered players, press “View Leader Board” button.
-o Refer section 5 for further tutorial
+• Refer section 5 for further tutorial
 • To modify some game settings, press “Option” button.
-o Refer section 6 for further tutorial
+• Refer section 6 for further tutorial
 • Pressing “Bororolomon” logo at the bottom right will direct to the Bororolomon homepage. (http://code.google.com)
 • To login to another account, the player has to exit the application and re-run the application. This procedure is for security issue.
 
