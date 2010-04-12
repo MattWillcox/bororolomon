@@ -1,24 +1,22 @@
 <div>
     <p>
         <b>
-            Tutorials:
+Tutorials:
             <p>
             </p>
         </b>
     </p>
     <p>
-        <b>1. Log in </b><br>
+        <b>1. Log in </b><br><br>
         As the application is launched, a player will be directed to the login screen.
    
 
            http://bororolomon.googlecode.com/files/Login.png
    
         • If the player already has an account with us,
-        <b>
             <p>
             </p>
-        </b>
-    </p>
+
     <p>
         o Enter the account name and the password, then press GO.
         <p>
@@ -34,15 +32,13 @@
                    http://bororolomon.googlecode.com/files/Register.png
         <br/>
         <br/>
-        o Enter in an account name, it must be between 4-25 characters and only contain 
-letters, numbers or underscore's
-        o Next enter a password, it must be between 4-25 characters, confirm it in the next box below
+        o Enter in an account name, it must be between 4-25 characters and only contain letters, numbers or underscore's
+        o Next enter a password, it must be between 4-25 characters, confirm it in the next box below<br>
         o Pressing CONFIRM button will end the registration process and redirect the player to the application.
         <br/>
         o Now, the player can login with the new account.
         <p>
         </p>
-    </p>
     <p>
         • If the player does not want to login nor register,
         <p>
@@ -60,22 +56,19 @@ letters, numbers or underscore's
     </p>
     <p>
         <b>
-            2. Menu
+        2. Menu
             <p>
             </p>
         </b>
     </p>
     <p>
-        <a name="2._Menu">
             As soon as player passes through the login screen, game menu will show.
             <br/>
             <br/>
                 http://bororolomon.googlecode.com/files/MainMenu.png
             <br/>
             <br/>
-            • To enjoy MathCraft
-        </a>
-        games, press “Play Game” button.
+            • To enjoy MathCraft games, press “Play Game” button.
         <p>
         </p>
     </p>
@@ -115,7 +108,7 @@ letters, numbers or underscore's
         </p>
     </p>
     <p>
-• Pressing “Bororolomon” logo at the bottom right will direct to the Bororolomon homepage. (        <a href="http://code.google.com/p/bororolomon/">http://code.google.com</a>)
+        • Pressing “Bororolomon” logo at the bottom right will direct to the Bororolomon homepage. (        <a href="http://code.google.com/p/bororolomon/">http://code.google.com</a>)
         <br/>
         • To login to another account, the player has to exit the application and re-run the application. This procedure is for security issue.
         <p>
@@ -127,7 +120,7 @@ letters, numbers or underscore's
         </p>
     </p>
     <p>
-       <b> 3. Play Game: Game Selection Menu </b>
+<b>     3. Play Game: Game Selection Menu </b>
         <p>
         </p>
     </p>
@@ -163,11 +156,8 @@ letters, numbers or underscore's
 <b> 3.1 Equation Game 1 </b>
             <p>
             </p>
-        </b>
     <p>
         <a name="3.1_Equation_Game">
-            <br/>
-            <br/>
                           http://bororolomon.googlecode.com/files/EquationGame1.png
 
  • An equation will appear on the screen and the user must choose the correct answer from the four choices at the bottom by touching it. 
@@ -193,16 +183,7 @@ letters, numbers or underscore's
  • Once the player has finished the game will stop and the player can return to the game menu by pressing the back button. They can also return anytime they want during the game by pressing the back button as well.
 
 <b> 3.3 Clock Game 1 </b>
-            <p> 
-            </p>
-        </b>
-    </p>
-    <p>
-        <p>
-        </p>
-    </p>
-    <p>
-                      http://bororolomon.googlecode.com/files/ClockGame1.png
+     http://bororolomon.googlecode.com/files/ClockGame1.png
 
  • A clock appears on the left side with an hour and minute hand that can be moved by touchingthe Hour/Min +/- buttons on the right. The user must try to move the hands to the correct positioning to correspond to the time in the blue box to the right.
 
@@ -226,7 +207,7 @@ letters, numbers or underscore's
 
 
 
-<b> 3.5 Mirror Game 1 </b>
+<b>3.5 Mirror Game 1 </b>
                       http://bororolomon.googlecode.com/files/MirrorGame.png
 
  • 9 boxes on the left randomly generate a colour, the user must touch the boxes on the right to change their colours and create a mirror image of the left side. Once they think it is right they press on the 'OK' button to submit their answer.
@@ -237,7 +218,7 @@ letters, numbers or underscore's
  
  • Once the player has finished the game will stop and the player can return to the game menu by pressing the back button. They can also return anytime they want during the game by pressing the back button as well.
 
-<b> 3.6 Mirror Game 2 </b>
+<b>3.6 Mirror Game 2 </b>
                       http://bororolomon.googlecode.com/files/PatternGame.png
 
  • A set of numbers will randomly generate and the user must input the number they believe to be next in the set by touching the numbers at the bottom. 
@@ -248,7 +229,7 @@ letters, numbers or underscore's
  
  • Once the player has finished the game will stop and the player can return to the game menu by pressing the back button. They can also return anytime they want during the game by pressing the back button as well.
 
-<b> 3.7 Money Game 1 </b>
+<b>3.7 Money Game 1 </b>
                       http://bororolomon.googlecode.com/files/MoneyGame1.png
 
  • A number generates on the right and the user must choose the correct combination of coins to equal it. The user selects a coin by pressing on it at the bottom. There can be a maximum of 5 of each coin. If the user makes a mistake they can press the 'RESET' button to fix it.
@@ -259,7 +240,7 @@ letters, numbers or underscore's
  
  • Once the player has finished the game will stop and the player can return to the game menu by pressing the back button. They can also return anytime they want during the game by pressing the back button as well.
 
-<b> 3.8 Money Game 2 </b>
+<b>3.8 Money Game 2 </b>
                       http://bororolomon.googlecode.com/files/MoneyGame2.png
 
  • A number generates on the right and a bill will appear in the middle. The number on the right is the price and the bill is the customers money. The user will have to determine what the correct change to be given back is. The user selects a coin by pressing on it at the bottom. There can be a maximum of 5 of each coin. If the user makes a mistake they can press the 'RESET' button to fix it.
@@ -271,7 +252,7 @@ letters, numbers or underscore's
  • Once the player has finished the game will stop and the player can return to the game menu by pressing the back button. They can also return anytime they want during the game by pressing the back button as well.
 
         <b>
-            4. View Progress
+         4. View Progress
             <p>
             </p>
         </b>
@@ -304,7 +285,7 @@ letters, numbers or underscore's
     </p>
     <p>
         <b>
-            5. Online Leader Board
+         5. Online Leader Board
             <p>
             </p>
         </b>
@@ -328,7 +309,7 @@ letters, numbers or underscore's
     </b>
     <p>
         <b>
-            6. Option
+         6. Option
             <p>
             </p>
         </b>
