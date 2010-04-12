@@ -10,9 +10,8 @@
         <b>1. Log in </b>
         As the application is launched, a player will be directed to the login screen.
         <br/>
-        <img
+
            http://bororolomon.googlecode.com/files/1%20login%20copy.jpg"
-        />
         <br/>
         <br/>
         <br/>
@@ -34,7 +33,7 @@
     </p>
     <p>
         o Press REGISTER button and it will direct to a registration page.
-        <img src="file:///Users/eimantorabi/Library/Caches/TemporaryItems/msoclip/0clip_image004.png" height="232" width="433"/>
+        "file:///Users/eimantorabi/Library/Caches/TemporaryItems/msoclip/0clip_image004.png"
         <br/>
         <br/>
         o Pressing CONFIRM button will end the registration process and redirect the player to the application.
@@ -70,12 +69,7 @@
             As soon as player passes through the login screen, game menu will show.
             <br/>
             <br/>
-            <img
-                src="file:///Users/eimantorabi/Library/Caches/TemporaryItems/msoclip/0clip_image006.jpg"
-                alt="http://bororolomon.googlecode.com/files/2%20Menu%20copy.jpg"
-                height="322"
-                width="482"
-            />
+                http://bororolomon.googlecode.com/files/2%20Menu%20copy.jpg"
             <br/>
             <br/>
             • To enjoy MathCraft
@@ -142,11 +136,7 @@
             <br/>
             <br/>
             <img
-                src="file:///Users/eimantorabi/Library/Caches/TemporaryItems/msoclip/0clip_image008.png"
-                alt="http://bororolomon.googlecode.com/files/3%20Game%20Selection%20copy.jpg"
-                border="0"
-                height="253"
-                width="380"
+               "http://bororolomon.googlecode.com/files/3%20Game%20Selection%20copy.jpg"
             />
         </a>
         <br/>
@@ -166,7 +156,7 @@
     </p>
     <p>
         <b>
-            <img src="file:///Users/eimantorabi/Library/Caches/TemporaryItems/msoclip/0clip_image010.png" border="0" height="231" width="434"/>
+           "file:///Users/eimantorabi/Library/Caches/TemporaryItems/msoclip/0clip_image010.png"
             <br clear="ALL"/>
             3 Equation Game
             <p>
@@ -179,7 +169,7 @@
             tutorial page, the game will start. There are two different games to choose from. This is a screen shot of the game.
             <br/>
             <br/>
-            <img src="file:///Users/eimantorabi/Library/Caches/TemporaryItems/msoclip/0clip_image012.png" border="0" height="227" width="434"/>
+           "file:///Users/eimantorabi/Library/Caches/TemporaryItems/msoclip/0clip_image012.png"
             <br/>
             <br/>
             <p>
@@ -226,7 +216,7 @@
         </p>
     </p>
     <p>
-        <img src="file:///Users/eimantorabi/Library/Caches/TemporaryItems/msoclip/0clip_image014.png" border="0" height="229" width="434"/>
+       "file:///Users/eimantorabi/Library/Caches/TemporaryItems/msoclip/0clip_image014.png"
         <p>
         </p>
     </p>
@@ -290,11 +280,7 @@
             <br/>
             <br/>
             <img
-                src="file:///Users/eimantorabi/Library/Caches/TemporaryItems/msoclip/0clip_image016.jpg"
-                alt="http://bororolomon.googlecode.com/files/5%20View%20Progress%20copy.jpg"
-                border="0"
-                height="322"
-                width="482"
+                http://bororolomon.googlecode.com/files/5%20View%20Progress%20copy.jpg"
             />
             <br/>
             <br/>
@@ -351,7 +337,7 @@
             Player can turn on or off the volume or sound effects.
             <br/>
             <br/>
-            <img src="file:///Users/eimantorabi/Library/Caches/TemporaryItems/msoclip/0clip_image018.png" border="0" height="228" width="434"/>
+            "file:///Users/eimantorabi/Library/Caches/TemporaryItems/msoclip/0clip_image018.png"
             <br/>
             <br/>
             • Sliding or pressing the button will switch on/off.
