@@ -173,7 +173,6 @@ letters, numbers or underscore's
         <p>
              
         </p>
-    </p>
     <p>
         <b>
             3.2 Equation Game 2
