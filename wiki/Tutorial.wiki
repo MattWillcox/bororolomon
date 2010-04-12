@@ -127,7 +127,7 @@ letters, numbers or underscore's
         </p>
     </p>
     <p>
-        3. Play Game: Game Selection Menu
+       <b> 3. Play Game: Game Selection Menu </b>
         <p>
         </p>
     </p>
@@ -155,12 +155,12 @@ letters, numbers or underscore's
              
         </p>
     </p>
-        <b>
+
                       http://bororolomon.googlecode.com/files/Submenu.png
             <br clear="ALL"/>
               • Once a player selects which game they want, they will be taken to it and the game will begin right away. Here are tutorials for each game:
 
-            3.1 Equation Game 1
+<b> 3.1 Equation Game 1 </b>
             <p>
             </p>
         </b>
@@ -180,7 +180,7 @@ letters, numbers or underscore's
         </p>
     <p>
         <b>
-            3.2 Equation Game 2
+3.2 Equation Game 2 </b>
 
                       http://bororolomon.googlecode.com/files/EquationGame2.png
 
@@ -192,14 +192,7 @@ letters, numbers or underscore's
 
  • Once the player has finished the game will stop and the player can return to the game menu by pressing the back button. They can also return anytime they want during the game by pressing the back button as well.
 
-
-
-
-
-
-
-
-           3.3 Clock Game 1
+<b> 3.3 Clock Game 1 </b>
             <p> 
             </p>
         </b>
@@ -219,7 +212,7 @@ letters, numbers or underscore's
  
  • Once the player has finished the game will stop and the player can return to the game menu by pressing the back button. They can also return anytime they want during the game by pressing the back button as well.
 
-            3.4 Clock Game 2
+<b> 3.4 Clock Game 2 </b>
 
                       http://bororolomon.googlecode.com/files/ClockGame2.png
 
@@ -233,7 +226,7 @@ letters, numbers or underscore's
 
 
 
-            3.5 Mirror Game 1
+<b> 3.5 Mirror Game 1 </b>
                       http://bororolomon.googlecode.com/files/MirrorGame.png
 
  • 9 boxes on the left randomly generate a colour, the user must touch the boxes on the right to change their colours and create a mirror image of the left side. Once they think it is right they press on the 'OK' button to submit their answer.
@@ -244,7 +237,7 @@ letters, numbers or underscore's
  
  • Once the player has finished the game will stop and the player can return to the game menu by pressing the back button. They can also return anytime they want during the game by pressing the back button as well.
 
-            3.6 Mirror Game 2
+<b> 3.6 Mirror Game 2 </b>
                       http://bororolomon.googlecode.com/files/PatternGame.png
 
  • A set of numbers will randomly generate and the user must input the number they believe to be next in the set by touching the numbers at the bottom. 
@@ -255,7 +248,7 @@ letters, numbers or underscore's
  
  • Once the player has finished the game will stop and the player can return to the game menu by pressing the back button. They can also return anytime they want during the game by pressing the back button as well.
 
-            3.7 Money Game 1
+<b> 3.7 Money Game 1 </b>
                       http://bororolomon.googlecode.com/files/MoneyGame1.png
 
  • A number generates on the right and the user must choose the correct combination of coins to equal it. The user selects a coin by pressing on it at the bottom. There can be a maximum of 5 of each coin. If the user makes a mistake they can press the 'RESET' button to fix it.
@@ -266,7 +259,7 @@ letters, numbers or underscore's
  
  • Once the player has finished the game will stop and the player can return to the game menu by pressing the back button. They can also return anytime they want during the game by pressing the back button as well.
 
-            3.8 Money Game 2
+<b> 3.8 Money Game 2 </b>
                       http://bororolomon.googlecode.com/files/MoneyGame2.png
 
  • A number generates on the right and a bill will appear in the middle. The number on the right is the price and the bill is the customers money. The user will have to determine what the correct change to be given back is. The user selects a coin by pressing on it at the bottom. There can be a maximum of 5 of each coin. If the user makes a mistake they can press the 'RESET' button to fix it.
