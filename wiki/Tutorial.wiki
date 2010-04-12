@@ -11,7 +11,7 @@
         As the application is launched, a player will be directed to the login screen.
         <br/>
 
-           http://bororolomon.googlecode.com/files/1%20login%20copy.jpg"
+           http://bororolomon.googlecode.com/files/Login.png
         <br/>
         <br/>
         <br/>
@@ -33,7 +33,7 @@
     </p>
     <p>
         o Press REGISTER button and it will direct to a registration page.
-        "file:///Users/eimantorabi/Library/Caches/TemporaryItems/msoclip/0clip_image004.png"
+                   http://bororolomon.googlecode.com/files/Register.png
         <br/>
         <br/>
         o Pressing CONFIRM button will end the registration process and redirect the player to the application.
@@ -69,7 +69,7 @@
             As soon as player passes through the login screen, game menu will show.
             <br/>
             <br/>
-                http://bororolomon.googlecode.com/files/2%20Menu%20copy.jpg"
+                http://bororolomon.googlecode.com/files/MainMenu.png
             <br/>
             <br/>
             • To enjoy MathCraft
@@ -136,7 +136,7 @@
             <br/>
             <br/>
             
-               "http://bororolomon.googlecode.com/files/3%20Game%20Selection%20copy.jpg"
+               http://bororolomon.googlecode.com/files/GameMenu.png
            
         </a>
         <br/>
@@ -156,7 +156,7 @@
     </p>
     <p>
         <b>
-           "file:///Users/eimantorabi/Library/Caches/TemporaryItems/msoclip/0clip_image010.png"
+                      http://bororolomon.googlecode.com/files/Submenu.png
             <br clear="ALL"/>
             3 Equation Game
             <p>
@@ -169,7 +169,7 @@
             tutorial page, the game will start. There are two different games to choose from. This is a screen shot of the game.
             <br/>
             <br/>
-                          "http://bororolomon.googlecode.com/files/EquationGame1.png"
+                          http://bororolomon.googlecode.com/files/EquationGame1.png
 
             <br/>
             <br/>
@@ -217,7 +217,7 @@
         </p>
     </p>
     <p>
-                      "http://bororolomon.googlecode.com/files/ClockGame1.png"
+                      http://bororolomon.googlecode.com/files/ClockGame1.png
         <p>
         </p>
     </p>
@@ -280,7 +280,7 @@
             logged in.
             <br/>
             <br/>
-                http://bororolomon.googlecode.com/files/5%20View%20Progress%20copy.jpg"
+                http://bororolomon.googlecode.com/files/5%20View%20Progress%20copy.jpg
             <br/>
             <br/>
             • The graph illustrates whether a player is progressing or losing and in what rate.
@@ -336,7 +336,7 @@
             Player can turn on or off the volume or sound effects.
             <br/>
             <br/>
-            "file:///Users/eimantorabi/Library/Caches/TemporaryItems/msoclip/0clip_image018.png"
+                       http://bororolomon.googlecode.com/files/Option.png
             <br/>
             <br/>
             • Sliding or pressing the button will switch on/off.
