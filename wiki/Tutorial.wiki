@@ -49,7 +49,7 @@ letters, numbers or underscore's
         </p>
     </p>
     <p>
-        <a name="1._Log_in">o Player can simply click on the SKIP button located at the top right corner.</a>
+        <a name="1._Log_in">o Player can simply touch the SKIP button located at the top right corner.</a>
         <p>
         </p>
     </p>
@@ -158,17 +158,22 @@ letters, numbers or underscore's
         <b>
                       http://bororolomon.googlecode.com/files/Submenu.png
             <br clear="ALL"/>
+              • Once a player selects which game they want, they will be taken to it and the game will begin right away. Here are tutorials for each game:
+
             3.1 Equation Game 1
             <p>
             </p>
         </b>
-    </p>
     <p>
         <a name="3.1_Equation_Game">
             <br/>
             <br/>
                           http://bororolomon.googlecode.com/files/EquationGame1.png
 
+ • An equation will appear on the screen and the user must choose the correct answer from the four choices at the bottom by touching it. 
+ • If the user is correct their score will increase by 1. If they are incorrect it will decrease by 1 but it will not go below 0.
+ • The player has 30 seconds to accumulate the highest score they can, as the score gets higher the questions will increase in difficulty
+ • Once the player has finished the game will stop and the player can return to the game menu by pressing the back button. They can also return anytime they want during the game by pressing the back button as well.
        
         <p>
              
@@ -179,8 +184,13 @@ letters, numbers or underscore's
 
                       http://bororolomon.googlecode.com/files/EquationGame2.png
 
+ • An equation will appear on the screen and the user must choose the correct operator from the four choices at the bottom by touching it.
+ 
+ • If the user is correct their score will increase by 1. If they are incorrect it will decrease by 1 but it will not go below 0.
 
+ • The player has 30 seconds to accumulate the highest score they can, as the score gets higher the questions will increase in difficulty
 
+ • Once the player has finished the game will stop and the player can return to the game menu by pressing the back button. They can also return anytime they want during the game by pressing the back button as well.
 
 
 
@@ -200,26 +210,73 @@ letters, numbers or underscore's
     </p>
     <p>
                       http://bororolomon.googlecode.com/files/ClockGame1.png
-        <p>
-      
+
+ • A clock appears on the left side with an hour and minute hand that can be moved by touchingthe Hour/Min +/- buttons on the right. The user must try to move the hands to the correct positioning to correspond to the time in the blue box to the right.
+
+ • Once the user thinks they have the correct answer they press on the clock to submit it. If the user is correct their score will increase by 1. If they are incorrect it will decrease by 1 but it will not go below 0.
+
+ • The player has 30 seconds to accumulate the highest score they can, as the score gets higher the numbers on the clock will begin to disappear.
+ 
+ • Once the player has finished the game will stop and the player can return to the game menu by pressing the back button. They can also return anytime they want during the game by pressing the back button as well.
 
             3.4 Clock Game 2
 
                       http://bororolomon.googlecode.com/files/ClockGame2.png
 
-    <p>
+ • A clock appears on the left side with an hour and minute hand that can be moved by touching the Hour/Min +/- buttons on the right. The user must try to move the hands to the correct positioning to correspond to the instructions in the blue box to the right.
 
+ • Once the user thinks they have the correct answer they press on the clock to submit it. If the user is correct their score will increase by 1. If they are incorrect it will decrease by 1 but it will not go below 0.
+
+ • The player has 30 seconds to accumulate the highest score they can, as the score gets higher the numbers on the clock will begin to disappear.
+ 
+ • Once the player has finished the game will stop and the player can return to the game menu by pressing the back button. They can also return anytime they want during the game by pressing the back button as well.
 
 
 
             3.5 Mirror Game 1
                       http://bororolomon.googlecode.com/files/MirrorGame.png
+
+ • 9 boxes on the left randomly generate a colour, the user must touch the boxes on the right to change their colours and create a mirror image of the left side. Once they think it is right they press on the 'OK' button to submit their answer.
+
+ • If the user is correct their score will increase by 1. If they are incorrect it will decrease by 1 but it will not go below 0.
+
+ • The player has 30 seconds to accumulate the highest score they can, as the score gets higher the number of colours will increase for each box.
+ 
+ • Once the player has finished the game will stop and the player can return to the game menu by pressing the back button. They can also return anytime they want during the game by pressing the back button as well.
+
             3.6 Mirror Game 2
                       http://bororolomon.googlecode.com/files/PatternGame.png
+
+ • A set of numbers will randomly generate and the user must input the number they believe to be next in the set by touching the numbers at the bottom. 
+
+ • Once the user has input what they believe to be the answer they submit it by touching the 'OK' button. If they make a mistake inputting they can reset it by touching the 'RESET' button. If the user is correct their score will increase by 1. If they are incorrect it will decrease by 1 but it will not go below 0.
+
+ • The player has 30 seconds to accumulate the highest score they can, as the score gets higher the sets get more difficult.
+ 
+ • Once the player has finished the game will stop and the player can return to the game menu by pressing the back button. They can also return anytime they want during the game by pressing the back button as well.
+
             3.7 Money Game 1
                       http://bororolomon.googlecode.com/files/MoneyGame1.png
+
+ • A number generates on the right and the user must choose the correct combination of coins to equal it. The user selects a coin by pressing on it at the bottom. There can be a maximum of 5 of each coin. If the user makes a mistake they can press the 'RESET' button to fix it.
+
+ • Once the users believes they have the correct coins, they submit their answer by touching the 'OK' button. If the user is correct their score will increase by 1. If they are incorrect it will decrease by 1 but it will not go below 0.
+
+ • The player has 30 seconds to accumulate the highest score they can, as the score gets higher the quarters will be used in addition to the loonies and toonies.
+ 
+ • Once the player has finished the game will stop and the player can return to the game menu by pressing the back button. They can also return anytime they want during the game by pressing the back button as well.
+
             3.8 Money Game 2
                       http://bororolomon.googlecode.com/files/MoneyGame2.png
+
+ • A number generates on the right and a bill will appear in the middle. The number on the right is the price and the bill is the customers money. The user will have to determine what the correct change to be given back is. The user selects a coin by pressing on it at the bottom. There can be a maximum of 5 of each coin. If the user makes a mistake they can press the 'RESET' button to fix it.
+
+ • Once the users believes they have the correct coins, they submit their answer by touching the 'OK' button. If the user is correct their score will increase by 1. If they are incorrect it will decrease by 1 but it will not go below 0.
+
+ • The player has 30 seconds to accumulate the highest score they can, as the score gets higher the money of the customer will increase.
+ 
+ • Once the player has finished the game will stop and the player can return to the game menu by pressing the back button. They can also return anytime they want during the game by pressing the back button as well.
+
         <b>
             4. View Progress
             <p>
