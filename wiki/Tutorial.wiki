@@ -292,10 +292,9 @@ Tutorials:
     </p>
     <p>
         <a name="5._Online_Leader_Board">
-            Pressing this button will open an online ranking board. The online ranking board shows the sorted list of all registered players in declining order
-            up to rank 100 for each game
+            Pressing this button will open an online ranking board in a new browser. The online ranking  board shows the sorted list of all registered players who have submitted their score in declining order.
+
         </a>
-        and for overall score.
         <p>
         </p>
     </p>
