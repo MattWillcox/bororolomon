@@ -1,0 +1,1 @@
+This system allows the program to change the difficulty of the MiniGames depending on how well the player is doing. The higher the player scores, the harder the games become.
