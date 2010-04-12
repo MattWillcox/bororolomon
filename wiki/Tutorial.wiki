@@ -1,1 +1,85 @@
-Tutorial here
+Tutorials:
+1. Log in As the application is launched, a player will be directed to the login screen.
+ 
+
+
+• If the player already has an account with us,
+o Enter the account name and the password, then press GO.
+• If the player is does not have an account,
+o Press REGISTER button and it will direct to a registration page.  
+
+o Pressing CONFIRM button will end the registration process and redirect the player to the application. 
+o Now, the player can login with the new account.
+• If the player does not want to login nor register,
+o Player can simply click on the SKIP button located at the top right corner.
+
+2. Menu
+As soon as player passes through the login screen, game menu will show.
+
+ 
+
+• To enjoy MathCraft games, press “Play Game” button.
+o Refer section 3 for further tutorial
+• To see how the player was progressed in the past games, press “View Progress” button. 
+o Refer section 4 for further tutorial
+• To see the online ranking board of every registered players, press “View Leader Board” button.
+o Refer section 5 for further tutorial
+• To modify some game settings, press “Option” button.
+o Refer section 6 for further tutorial
+• Pressing “Bororolomon” logo at the bottom right will direct to the Bororolomon homepage. (http://code.google.com)
+• To login to another account, the player has to exit the application and re-run the application. This procedure is for security issue.
+
+3. Play Game: Game Selection Menu
+When the player presses the “Play Game” button from the main menu, the user will immediately see a screen where he/she can choose among four games.
+
+ 
+
+• The four games are “Equation Game”, “Money Counting Game”, “Clock Game” and “Mirror Game”.
+• To go back to the main menu, press “BACK” button in the center of the screen.
+• When the player selects a game, a short (1 screen long) tutorial will show before the player gets to the game.
+
+  
+3 Equation Game
+•	As an example, when player selects “Equation Game” from Game Selection Menu, a short tutorial will be given, and as user confirms the tutorial page, the game will start. There are two different games to choose from. This is a screen shot of the game.
+
+ 
+
+•	Top center shows how many questions the player correctly answered.
+•	Top right corner shows the how much time left to try the rest of the questions.
+•	Once the game is started, players can go back to menu by pressing the back button.
+•	A player answers by selecting their choice from the 4 buttons at the bottom
+
+Clock Game
+Another game example is the “Clock Game.” As per the Equation game when the user selects the “Clock Game” from the game menu they will be taken to a quick tutorial screen where they select from the two game types.  Once the user picks one the game will start. Here is a screenshot of the “Clock Game”.
+ 
+
+•	Top middle shows how many questions the player correctly answered.
+•	Top right corner shows the how much time left to try the rest of the questions.
+•	Once the game is started, players can go back to menu by pressing the back button. 
+•	A player answers a question my adding or subtracting from the displayed time in the green box to match the clock and then clicking on the clock to submit their answer.
+
+
+
+ 
+4. View Progress
+This is where a player can see their historical scores and progress. The application keeps all the scores in every game as long as the player is logged in.
+
+ 
+
+• The graph illustrates whether a player is progressing or losing and in what rate.
+• Below the graph, players account name appears. Below the account name, the player’s grade is shown, which is calculated by MathCraft’s grading system (based on a combination of speed and accuracy). In this case, the account name is “PLAYER1” and he is a grade 1 level.
+• On the right hand side, it shows number of games played, the highest score and the average score for each game is displayed.
+• BACK button will direct player to the main menu.
+
+5. Online Leader Board
+Pressing this button will open an online ranking board. The online ranking board shows the sorted list of all registered players in declining order up to rank 100 for each game and for overall score.
+
+ 
+6. Option
+Player can turn on or off the volume or sound effects.
+
+ 
+
+• Sliding or pressing the button will switch on/off.
+• The screen shot is currently showing that both sound effects and music are on.
+• BACK button will direct player to the main menu. 
