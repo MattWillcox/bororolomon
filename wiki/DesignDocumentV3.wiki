@@ -245,10 +245,10 @@
     <br/>
     • ScoreTracking
     <br/>
-    • AutoDifficultyScale
     <br/>
     • MiniGames (Clock Game, Mirror Game, Money Counting Game)
     <br/>
+    • AccountManagement
     <br/>
     <br/>
     5.3 Version 3:
