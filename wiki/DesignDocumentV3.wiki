@@ -254,13 +254,14 @@
     5.3 Version 3:
     <br/>
     The program will be fully functional, and all interfaces will be altered to appeal to Grade 2/3 students. The game images and buttons would all be adjusted
-    for Grade 2/3 students to use, and all games would be balanced to fit the correct math levels. The graph for student growth in the Scoretracking system
+    for Grade 2/3 students to use, and all games would be balanced to fit the correct math levels. The graph for student growth in the ScoreTracking system
     would also be complete.
     <br/>
     <br/>
     Links to main features:
     <br/>
     • ScoreTracking
+<br/>
     • LeaderBoard
     <br/>
     <br/>
