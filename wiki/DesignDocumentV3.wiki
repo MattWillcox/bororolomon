@@ -361,4 +361,7 @@
     <br/>
     - Updated State Machine Diagram
     <br/>
+    <br/>
+    - Updated Feature Priority
+    <br/>
 </div>
