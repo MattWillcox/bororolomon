@@ -105,7 +105,9 @@
     <br/>
     3.1 UML Diagrams
     <br/>
+    [http://bororolomon.googlecode.com/files/UserProfile.jpg]
     <br/>
+    [http://bororolomon.googlecode.com/files/Games.jpg]
     <br/>
     3.2 State Machine Diagram
     <br/>
