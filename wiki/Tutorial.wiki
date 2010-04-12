@@ -263,7 +263,7 @@ Tutorials:
             logged in.
             <br/>
             <br/>
-                http://bororolomon.googlecode.com/files/5%20View%20Progress%20copy.jpg
+               http://bororolomon.googlecode.com/files/ViewProgress.png
             <br/>
             <br/>
             • The graph illustrates whether a player is progressing or losing and in what rate.
