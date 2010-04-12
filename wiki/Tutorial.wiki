@@ -11,10 +11,7 @@
         As the application is launched, a player will be directed to the login screen.
         <br/>
         <img
-            src="file:///Users/eimantorabi/Library/Caches/TemporaryItems/msoclip/0clip_image002.png"
-            alt="http://bororolomon.googlecode.com/files/1%20login%20copy.jpg"
-            height="242"
-            width="362"
+           http://bororolomon.googlecode.com/files/1%20login%20copy.jpg"
         />
         <br/>
         <br/>
