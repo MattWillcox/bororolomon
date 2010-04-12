@@ -114,7 +114,7 @@
     iPhone applications menu, the game would automatically bring them to the login page. From there on, buttons on the screen would allow them to go to other
     menus.
     <br/>
-    <br/>
+    [http://bororolomon.googlecode.com/files/SystemDiagramV2.jpg]
     <br/>
     3.3 Structural Diagrams
     <br/>
