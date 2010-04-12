@@ -135,9 +135,9 @@
             When the player presses the “Play Game” button from the main menu, the user will immediately see a screen where he/she can choose among four games.
             <br/>
             <br/>
-            <img
+            
                "http://bororolomon.googlecode.com/files/3%20Game%20Selection%20copy.jpg"
-            />
+           
         </a>
         <br/>
         <br/>
@@ -279,9 +279,7 @@
             logged in.
             <br/>
             <br/>
-            <img
                 http://bororolomon.googlecode.com/files/5%20View%20Progress%20copy.jpg"
-            />
             <br/>
             <br/>
             • The graph illustrates whether a player is progressing or losing and in what rate.
