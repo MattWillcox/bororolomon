@@ -7,7 +7,7 @@
         </b>
     </p>
     <p>
-        <b>1. Log in </b>
+        <b>1. Log in </b><br>
         As the application is launched, a player will be directed to the login screen.
    
 
