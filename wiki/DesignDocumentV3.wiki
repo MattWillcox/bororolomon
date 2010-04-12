@@ -222,11 +222,10 @@
     <br/>
     Links to the main features include:
     <br/>
-    • Menu system
+    • MenuSystem
     <br/>
     • MiniGames (Equation Game)
     <br/>
-    • RecordHistory
     <br/>
     <br/>
     <br/>
@@ -244,11 +243,9 @@
     <br/>
     Links to main features:
     <br/>
-    • Scoretracking
+    • ScoreTracking
     <br/>
     • AutoDifficultyScale
-    <br/>
-    • Difficulty selection system
     <br/>
     • MiniGames (Clock Game, Mirror Game, Money Counting Game)
     <br/>
@@ -263,7 +260,8 @@
     <br/>
     Links to main features:
     <br/>
-    • Scoretracking
+    • ScoreTracking
+    • LeaderBoard
     <br/>
     <br/>
     <br/>
