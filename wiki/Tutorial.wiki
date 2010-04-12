@@ -169,7 +169,8 @@
             tutorial page, the game will start. There are two different games to choose from. This is a screen shot of the game.
             <br/>
             <br/>
-           "file:///Users/eimantorabi/Library/Caches/TemporaryItems/msoclip/0clip_image012.png"
+                          "http://bororolomon.googlecode.com/files/EquationGame1.png"
+
             <br/>
             <br/>
             <p>
@@ -216,7 +217,7 @@
         </p>
     </p>
     <p>
-       "file:///Users/eimantorabi/Library/Caches/TemporaryItems/msoclip/0clip_image014.png"
+                      "http://bororolomon.googlecode.com/files/ClockGame1.png"
         <p>
         </p>
     </p>
