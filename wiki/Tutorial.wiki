@@ -9,12 +9,10 @@
     <p>
         <b>1. Log in </b>
         As the application is launched, a player will be directed to the login screen.
-        <br/>
+   
 
            http://bororolomon.googlecode.com/files/Login.png
-        <br/>
-        <br/>
-        <br/>
+   
         • If the player already has an account with us,
         <b>
             <p>
@@ -37,7 +35,7 @@
         <br/>
         <br/>
         o Enter in an account name, it must be between 4-25 characters and only contain 
-letters, numbers or underscore's (_)
+letters, numbers or underscore's
         o Next enter a password, it must be between 4-25 characters, confirm it in the next box below
         o Pressing CONFIRM button will end the registration process and redirect the player to the application.
         <br/>
@@ -157,7 +155,6 @@ letters, numbers or underscore's (_)
              
         </p>
     </p>
-    <p>
         <b>
                       http://bororolomon.googlecode.com/files/Submenu.png
             <br clear="ALL"/>
@@ -301,7 +298,4 @@ letters, numbers or underscore's (_)
             <br/>
             • BACK button will direct player to the main menu.
         </a>
-        <p>
-        </p>
     </p>
-</div>
