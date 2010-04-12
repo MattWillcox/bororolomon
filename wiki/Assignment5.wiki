@@ -1,3 +1,3 @@
 =[http://code.google.com/p/bororolomon/wiki/Requirementsv4 Requirements Document]<br>=
-=[http://code.google.com/p/bororolomon/wiki/DesignDocumentv4 Design Document]<br>=
+=[http://code.google.com/p/bororolomon/wiki/DesignDocumentV3 Design Document]<br>=
 =[http://code.google.com/p/bororolomon/wiki/QualityAssurancev4	Quality Assurance Plan]<br>=
