@@ -1,0 +1,3 @@
+## Difficulty Selection System ##
+
+Once a user has selected a game, they will have the option of setting the difficulty. A higher difficulty will produce more difficult questions and reduce the amount of time allowed to answer them. We will also suggest a "recommended difficulty" that will automatically be determined based on the users data that stored. The three difficulties will be easy, medium and hard and will be based on a specific grade level. For example, if a user chooses a grade 1 level, they will then be asked to choose between easy medium and hard. Different grade levels deal with different math curriculum, while different difficulties will shorten the time allowed and increase the difficulty of the questions.

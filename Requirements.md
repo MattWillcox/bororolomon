@@ -1,0 +1,98 @@
+# Requirements Document #
+
+
+
+**Introduction:**
+
+Our game, MathCraft, is intended to help students between grades 1-3 with math education in a fun and enjoyable way. We are aiming to make a more interactive experience with visually stimulating real life objects (i.e. marbles, animals, etc) so that the students can connect the information he/she has learned with the world around them. The game content will follow the British Columbia grades 1-3 school curriculums so teachers will be able to use it as a tool to aid them with educating. There will be 4 “mini-games” which will offer different ways to develop basic math skills. The level of difficulty of the games will increase as the student’s tracked progression advances. Students will also be able to view their statistics so they can track their own progress. Our game is designed for use on the Apple iPhone and iPod Touch.
+
+
+**Intended Audience:**
+
+Grade 1-3 Students
+
+These will be the primary users of our game. We expect them to have basic experience with video games, preferably of educational video games and experience with using G.U.I. (Graphical User Interface) components like menus and buttons. The students should have typical 1st  to 3rd grade knowledge of math (i.e. addition, subtraction, multiplication, etc) depending on their current grade. The goals of each user should be to improve their math skills to aid in their education and to have fun while doing it.
+
+
+
+Parents and Teachers
+
+These will be the primary educators for our students. Our game will aim to aid them in their educating ability. The parents and teachers should have basic experience with educational software and G.U.I .components like menus and buttons. They should have full knowledge of all elementary school levels of math. The goals of our educators should be to keep the students engaged in learning, track each student’s progress and improve each student’s mathematical ability.
+
+
+
+**Features:**
+
+[Account Management](http://code.google.com/p/bororolomon/wiki/AccountManagement)<br>
+
+<a href='http://code.google.com/p/bororolomon/wiki/MenuSystem'>Menu System</a><br>
+
+<a href='http://code.google.com/p/bororolomon/wiki/ScoreTracking'>Score Tracking System and Statistics</a><br>
+
+<a href='http://code.google.com/p/bororolomon/wiki/MiniGames'>Mini-games</a><br>
+
+<a href='http://code.google.com/p/bororolomon/wiki/RandomGame'>Random Game Chooser Component</a><br>
+
+<a href='http://code.google.com/p/bororolomon/wiki/DifficultySelect'>Difficulty Selection System</a><br>
+
+<a href='http://code.google.com/p/bororolomon/wiki/LeaderBoard'>Online Leader Board</a><br>
+
+<b>Non-functional requirements:</b>
+
+Speed<br>
+<br>
+Loading time will be kept as short as possible and shouldn’t be very significant. Sounds, images and user profiles will be loaded at start. All in-game operations should be instant. Users will have designated amounts of time in games to answer questions but the game menu will have unlimited time for the user to make their selection.<br>
+<br>
+Size<br>
+<br>
+Its size should be a small number of MB, preferably under 10. This only includes images sounds and user profiles. Downloading the game should not take very long.<br>
+<br>
+Ease of use<br>
+<br>
+A simple G.U.I. and help sections should make it very easy to learn. Training time will consist of reading the game instructions quickly before starting each game. Students may need the aid of a teacher/parent for creating their user profile. The administrator menu should be simple and straight forward for someone with basic knowledge of G.U.I.’s and should require minimal training time.<br>
+<br>
+Reliability<br>
+<br>
+There will be a low probability of application failure because we will have done thorough testing on it before release. Any errors that do occur we will try to have error messages displayed so that users can avoid/troubleshoot them. Our game will be able to run without internet access but some features that require an online connection will be unavailable. The only way to access our game is with an iPhone or iPod Touch on which our game has already been downloaded on or if an internet connection is available it can be downloaded for free from iTunes.<br>
+<br>
+Robustness<br>
+<br>
+The time to restart after failure should be less than 30 seconds. In the event of a crash the user’s data will from be the last completed game, they will lose any progress in the current game being played. The user will only need to restart the application to resume playing. There should be a very low probability of events causing failure and of data corruption.<br>
+<br>
+Portability<br>
+<br>
+Can only be used on an Apple iPhone or iPod Touch for now and any future devices released by Apple that will support their applications.<br>
+<br>
+<br>
+<br>
+<b>Tutorials:</b>
+
+<a href='http://code.google.com/p/bororolomon/wiki/Tutorials'>Tutorial Page</a>
+
+
+
+
+
+<b>Glossary:</b>
+
+GUI - Stands for "Graphical User Interface" and is the component of the game that the user "sees" while playing.<br>
+<br>
+Profile - Each user that registers will have his individual data/statistics stored and can look at them whenever they want.<br>
+<br>
+Leader Board - A list of all the top ranked users based on their individual scores in each game. There will be a leader board for every mini-game.<br>
+<br>
+iPhone - A cellphone released by apple that has the ability to download applications and run them on a touch screen and connect via wifi/3g to the internet.<br>
+<br>
+iPod Touch - An ipod released by apple that has the ability to download applications and run them on a touch screen and connect via wifi to the internet.<br>
+<br>
+MB - Stands for "Megabyte" and is a multiple of the unit byte which is used for digital information storage or transmission.<br>
+<br>
+Crash -  A condition where a program stops performing its expected function and also stops responding to other parts of the system.<br>
+<br>
+Data Corruption - Refers to errors in computer data that occur during transmission, retrieval, or processing, introducing unintended changes to the original data.<br>
+<br>
+<b>Design Document</b><br>
+The design document can be found here: <a href='http://code.google.com/p/bororolomon/wiki/PageName?ts=1265242919&updated=PageName'>Design Document</a>
+
+<b>Quality Assurance Plan</b><br>
+The Quality Assurance Plan may be found here: <a href='http://code.google.com/p/bororolomon/wiki/QualityAssurancePlan?ts=1265244996&updated=QualityAssurancePlan'>QAP</a>

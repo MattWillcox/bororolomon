@@ -1,0 +1,104 @@
+# System Introduction #
+
+## Revision History ##
+|Version	|Primary Author(s)	|Description of Version	|Date Completed|
+|:-------|:-----------------|:----------------------|:-------------|
+|1.0	|Hiu Leong Ching	|Initial version	|February 1st, 2010|
+|1.1|	Beth Raymond	|Updated version	|February 2nd, 2010|
+|1.2	|Hiu Leong Ching/Beth Raymond	|Final Version	|February 3, 2010|
+
+## System overview ##
+In keeping with the educational nature of the game, our team has placed focus on the needs and interests of students in grade two and three. Rather than to force a traditional teaching environment onto the child (which he or she may find rather boring), our game called MathCraft aims to create an interactive experience with mathematics itself. MathCraft can be divided into three sets of main features; the menu system, mini games system, and online update system<br>
+
+<h2>Test approach</h2>
+iPhone SDK 3.1.2 will be used to perform the testing and debugging on the application <br><br>
+
+<h1>Testing Plan</h1>
+<h2>Version Descriptions</h2>
+•	Version 1: Basic elements including menus and mini games<br>
+•	Version 2: Implementation of online components including online statistic and graphs<br>
+•	Version 3: Full release with all necessary documents<br>
+
+<h2>Internal testing dates</h2>
+<table><thead><th>Version</th><th>	Testing Date </th><th>	Deadline</th></thead><tbody>
+<tr><td>1	</td><td>March 10, 2010	</td><td>March 15, 2010<br></td></tr>
+<tr><td>2	</td><td>March 24, 2010	</td><td>March 29, 2010<br></td></tr>
+<tr><td>3	</td><td>April 7, 2010	</td><td>April 19, 2010<br></td></tr></tbody></table>
+
+<h2>Testing features</h2>
+Sequence of tests on the three main features<br>
+•	Menu system (Version 1)<br>
+The password protected system can let users create and modify their own profile in order to identify students and keeping statistical records to upload online. Once logged in the user will also be able to start the mini games.<br>
+•	Mini game system (Version 1)<br>
+The main function of this system is to provide games to students by creating and display random questions and be able to identify correct answers. <br>
+•	Online update system (Version 2)<br>
+The connecting system is able to translate the statistic record in the profile and upload to the internet host server. <br>
+
+
+
+<h2>Testing tools and environment</h2>
+iPhone SDK 3.1.2 will be used to test this project: <br>
+•	Xcode: <br>
+Testing and debugging Objective–C programming language error<br>
+•	iPhone Simulator: <br>
+Running and testing application on Mac using a simulated iPhone<br>
+•	Xcode Assistant:<br>
+Recording the number of lines of code and creating a localizable strings file. <br>
+•	Excel:<br>
+Used to graph data gathered by Xcode Assistant<br>
+
+<h2>Unit Testing</h2>
+OCunit will be our main software tool to perform automatic unit testing. Since the code of Version 1 will be the base that we build the later version from. As code is being added we will be adding test cases. When a test fails it will be easier to find the location and cause of the bug. <br>
+Our test cases will be generated based on these guidelines:<br>
+•	Test with correct parameters and boundary conditions. If the parameters maximum possible value is 10 and minimum is 1, 1 and 10 should be accepted<br>
+•	Test with incorrect parameters (negative test). Incorrect parameters shouldn’t be accepted<br>
+
+
+<h2>Integration Testing</h2>
+Top Down testing was chosen for the integration testing of the application. It is an incremental testing strategy in which starting by testing only the user interface, with the underlying functionality simulated by subsystem, and then test downwards, integrating lower and lower layers. The Advantage of this testing strategy is that, it can detect a problem or error easily because it is easy to visualize problem functionality and able to show the progress of development.<br>
+The following are some example test cases:<br>
+Menu system<br>
+•	Confirm user text entries for registering and login functions, like account name and password<br>
+Mini game system<br>
+•	For each mini game we will need to test that the random generated questions are within the required bounds<br>
+•	Test the logic of the grading and scoring system. If a student gets a question incorrect they should not be given credit for that question.<br>
+•	The data collected during the mini games should be tested for correctness and have a correct graph of the data<br>
+Online update system<br>
+•	Able to access the stored data<br>
+•	Upload data and confirm the uploads correctness<br><br>
+
+<h1>User Acceptance Testing For Version 3</h1>
+<h2>Test Details</h2>
+Date:  14th April 2010<br>
+Time: 3:30pm<br>
+Location: Bennett Library at SFU Burnaby Campus<br>
+
+<h2>Test Breakdown</h2>
+The following are the steps that we are going to request the user to perform:<br>
+Menu System<br>
+Skip <br>
+1)	Select “Skip”, go to step 5 and complete steps 5 to 13. Then exit and reopen the application and go to step 2.<br>
+Login/Register<br>
+2)	Create a new profile and setup his/her own passwords<br>
+3)	Login  to the application<br>
+4)	Change password and login again<br>
+5)	The main menu will be displayed and we will ask the user to select “Play Game”.<br>
+6)	After selecting “Play Game”, the test will move to the second stage, Mini Game System. <br>
+Mini game System<br>
+7)	The “Play Game” menu will be displayed and we will ask the user to select “Equation Game”. <br>
+8)	We will ask the user to play this game (To test the ability of creating new questions , identify correct answer and creating correct statistic graph)<br>
+9)	After finishing ten questions, a correct score record should be displayed and we will ask the user to select “Back”.<br>
+10)	Repeat steps 7 to 9, replacing “Equation Game” with “Mirror Game”, “Clock Game”, or “Money Counting Game” until all four types of games have been played.<br>
+11)	When all game testing is finished, we will ask the user to select “Back” , taking them back to the main menu.<br>
+Sound<br>
+12)	Main menu will be displayed and we will ask the user to select “Option”.<br>
+13)	We will ask the user to turn off the sound effect and music and check those two options are functioning well. We will ask the user to select “Back”.<br>
+Profile Statistics<br>
+14)	Main menu will be displayed and we will ask the user to select “View Progress”.<br>
+15)	After selecting “View Progress”, the application will display all the statistic of a profile including a graph, Game Played, Highest Score and Average for each game.<br>
+16)	After checking every data correct in this page, we will ask the user to select “Back”<br>
+Online update System	<br>
+17)	The Main menu will be displayed and we will ask the user to select “View Leader Board”.<br>
+18)	After selecting “View Leader Board”, an online ranking board will be displayed and shows the sorted list of all registered players in declining order up to rank 100. (There will be 100 default player’s score with score “zero” in order to test the ability to sorting the updated score)<br>
+19)	After checking that all data is correct on this page, we will ask the user to select “Back”<br>
+20)	Up to this point, all features in the application will be tested.<br>

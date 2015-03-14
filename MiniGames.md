@@ -1,0 +1,33 @@
+## Mini-games ##
+
+_Clock Game_
+
+Purpose: to help students to quickly read and calculate the time for clocks
+
+·       Type 1. Each question will show an analog or digital clock and players will either have to read and answer the current time or answer what the time will be after a specified about of time (e.g. after 45 minutes).
+
+·       Type 2. Each question will show an analog clock and a statement saying, for example: “predict the time after 30 minutes,” and the player will have to drag the hands of the clock into the correct position.
+
+_Money Counting Game_
+
+Purpose: to help students learn how to count money for real world situations
+
+·       Type 1. Each question will show a set of cash and coins and player has to answer the exact amount.
+
+·       Type 2. Each question will show two set of cash and coins and the question will either ask to add or subtract the two sets.
+
+_Mirror Game_
+
+Purpose: to help students to develop pattern recognition ability
+
+·      Type 1.  Each question will depict a pattern on left side of screen and player will be asked to make the pattern of mirror reflection.
+
+·      Type 2. Each question will show a series of elements displayed in an incomplete pattern and the player will be asked to complete the rest of the pattern.
+
+_Equation Game_
+
+Purpose: to help students enhance basic arithmetic skills
+
+·       Type 1. Each question will show basic math questions in addition, subtraction, multiplication and division. For example, 4+5=? or 6x2=?
+
+·       Type 2. Each question will have blank to fill up with arithmetic signs such as +, -, x or /. For example, 4 _5=9 or 6_ 3 = 2

@@ -1,0 +1,3 @@
+## Random Game Chooser Component ##
+
+The users will have the option to select a random game once they have accessed the play game menu. A mini-game will be chosen at random and user data will still be used for the progress report. Once the game has been chosen the difficulty menu will come up before the game is started. There will be the option to choose just one random game, or to complete all 4 games in a row in a random order.
